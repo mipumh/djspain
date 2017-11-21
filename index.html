@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<div class="posts" id="results-container">
+
+    {% for cliche in site.data.cliche %}
+        <h4>
+          <a class="post-link" href="{{ cliche.enlace }}" target="_blank" alt="{{ cliche.cliche }} - Diccionario del cliché">{{ cliche.cliche }}</a>
+        </h4>
+    {% endfor %}
+
+</div>

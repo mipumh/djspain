@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+
+  {% include head.html %}
+
+  <body style="position: relative">
+
+    {% include header.html %}
+
+
+    <div class="container" style="padding-top: 50px">
+      <div class="row">
+        <div class="col-lg-12">
+
+          <div class="posts" id="results-container"></div>  
+            
+        {{ content }}
+
+        </div>    
+      </div>
+    </div><!-- /.container -->
+
+
+    {% include footer.html %}
+
+    <!--startjs-->
+    {% include js-custom.html %}
+    <!--endjs-->
+  </body>
+
+</html>

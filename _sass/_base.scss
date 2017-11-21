@@ -1,0 +1,46 @@
+/**
+ * Site header
+ */
+
+.sb-page-header {
+  position: relative;
+  padding: 70px 15px;    
+  text-align: center;
+  color: white,80%;
+  margin-bottom: 0.5em;
+  background-color: #236391;    
+  background-position: center center center;
+  background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+  background-size: auto;
+    -o-background-size: auto;
+  font-size: 20px;
+}
+
+.sb-page-header h1, h3 {
+  margin-top: 0;
+  color: white;
+}
+
+.sb-page-header h4 {
+  color: #e6eaed;
+  font-weight: 300;
+  margin-bottom: 5px;
+  line-height: 1.4;
+}
+
+.sb-page-header .container {
+  position: relative;
+}
+
+.sb-page-header .img-responsive {
+  margin: 0px auto 20px;
+}
+
+@media (min-width: 768px) {
+  .sb-page-header h1 {
+    font-size: 60px;
+    line-height: 1;
+  }
+}

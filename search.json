@@ -1,0 +1,11 @@
+---
+layout: null
+---
+[
+  {% for cliche in site.data.cliche %}
+    {
+      "cliche"    : "{{ post.cliche | escape }}",
+      "enlace"    : "{{ post.enlace }}"
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
