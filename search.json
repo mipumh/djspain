@@ -2,10 +2,13 @@
 layout: null
 ---
 [
-  {% for cliche in site.data.cliche %}
+  {% for journo in site.data.journos %}
     {
-      "cliche"    : "{{ post.cliche | escape }}",
-      "enlace"    : "{{ post.enlace }}"
+      "nombre" : "{{ journo.nombre }}",
+      "locus" : "{{ journo.locus }}",
+      "pic" : "{{ journo.pic }}",
+      "alias" : "{{ journo.alias }}"
+      
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]

@@ -2,12 +2,25 @@
 layout: default
 ---
 
-<div class="posts" id="results-container">
+      <div class="my-3 p-3 bg-white rounded box-shadow">
+        <div id="results-container"></div>  
 
-    {% for cliche in site.data.cliche %}
-        <h4>
-          <a class="post-link" href="{{ cliche.enlace }}" target="_blank" alt="{{ cliche.cliche }} - Diccionario del cliché">{{ cliche.cliche }}</a>
-        </h4>
+        <h6 class="border-bottom border-gray pb-2 mb-0">Lista</h6>
+
+    {% for journos in site.data.journos %}
+
+        <div class="media text-muted pt-3 border-bottom border-gray">
+          <img src="{{ journos.pic }}" alt="{{ journos.nombre }}" class="mr-2 rounded" width="48" height="48">
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <strong class="text-gray-dark">{{ journos.nombre }}</strong>
+            </div>
+            <span class="d-block">{{ journos.alias }}</span>
+          </div>
+        </div>
     {% endfor %}
 
-</div>
+        <small class="d-block text-right mt-3">
+          <a href="#">All suggestions</a>
+        </small>
+      </div>

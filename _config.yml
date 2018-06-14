@@ -5,8 +5,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically.
 
 # Site settings
-title: Diccionario del cliché
-email: your-email@domain.com
+title: Data Journalists
+excerpt: Lista de periodistas, diseñadores y programadores, un proyecto ideado por Félix Arias y desarrollado por Miguel Carvajal.
+email: diccionariodelcliche@gmail.com
 # Build settings
 markdown: kramdown
 

@@ -1,4 +1,22 @@
-<!-- script pointing to jekyll-search.js -->
+<script type="text/javascript">
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        document.getElementById("myBtn").style.display = "block";
+    } else {
+        document.getElementById("myBtn").style.display = "none";
+    }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+    document.body.scrollTop = 0; // For Chrome, Safari and Opera 
+    document.documentElement.scrollTop = 0; // For IE and Firefox
+};
+</script>
+
 <script type="text/javascript">
 /*!
   * Simple-Jekyll-Search v1.4.1 (https://github.com/christian-fei/Simple-Jekyll-Search)
@@ -12,9 +30,9 @@
       SimpleJekyllSearch({
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
-        json: '{{ site.baseurl }}/search.json',
-        searchResultTemplate:'<h4><a class="post-link" href="{enlace}" target="_blank" alt="{{ item.cliche }} - Diccionario del cliché">{cliche}</a></h4>',
-        noResultsText: 'Vaya, ese cliché no está registrado, ¿quieres añadirlo?',
+        json: 'search.json',
+        searchResultTemplate:'<div class="media text-muted pt-3 border-bottom border-gray"><img src="{pic}" alt="{nombre}" class="mr-2 rounded" width="48" height="48"><div class="media-body pb-3 mb-0"><div class="d-flex justify-content-between align-items-center w-100"><strong class="text-gray-dark">{nombre}</strong></div><span class="d-block">{alias}</span></div></div>',
+        noResultsText: '<p class="lead">Vaya, ese nombre no está registrado, ¿quieres añadirlo?</p>',
         limit: 10,
         fuzzy: false,
         exclude: ['Welcome']

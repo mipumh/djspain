@@ -5,12 +5,13 @@
 
 $container-max-widths: (
   sm: 540px,
-  md: 720px,
-  lg: 760px,
-  xl: 790px
+  md: 690px,
+  lg: 700px,
+  xl: 710px
 );
     
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
 	"base",
+	"layout",
 	"../node_modules/bootstrap/scss/bootstrap";

@@ -3,22 +3,18 @@
 
   {% include head.html %}
 
-  <body style="position: relative">
+  <body class="bg-light">
 
     {% include header.html %}
 
 
-    <div class="container" style="padding-top: 50px">
-      <div class="row">
-        <div class="col-lg-12">
-
-          <div class="posts" id="results-container"></div>  
+    <main role="main" class="container" style="padding-top: 25px">
             
         {{ content }}
 
-        </div>    
-      </div>
-    </div><!-- /.container -->
+<button type="button" class="btn btn-dark" onclick="topFunction()" id="myBtn" title="Subir">^</button>
+
+    </main><!-- /.container -->
 
 
     {% include footer.html %}
@@ -29,3 +25,4 @@
   </body>
 
 </html>
+
