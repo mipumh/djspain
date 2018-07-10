@@ -5,9 +5,10 @@
 # For technical reasons, this file is *NOT* reloaded automatically.
 
 # Site settings
-title: Data Journalists
+title: Periodistas de datos
+email: mcarvajal@umh.es
 excerpt: Lista de periodistas, diseñadores y programadores, un proyecto ideado por Félix Arias y desarrollado por Miguel Carvajal.
-email: diccionariodelcliche@gmail.com
+email: 
 # Build settings
 markdown: kramdown
 
@@ -16,8 +17,19 @@ exclude:
   - package.json
   - node_modules
   - gulpfile.js
+  - _site
 
-# Postal address (add as many lines as necessary)
-collections:
-  cliches:
-    output: true
+baseurl: /djspain # the subpath of your site, e.g. /blog
+url: "http://mip.umh.es" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: #jekyllrb
+github_username:  #jekyll
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+sass:
+    sass_dir: _sass
+    style: compressed

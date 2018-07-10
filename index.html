@@ -8,19 +8,46 @@ layout: default
         <h6 class="border-bottom border-gray pb-2 mb-0">Lista</h6>
 
     {% for journos in site.data.journos %}
-
+    <!-- Link trigger modal -->
         <div class="media text-muted pt-3 border-bottom border-gray">
-          <img src="{{ journos.pic }}" alt="{{ journos.nombre }}" class="mr-2 rounded" width="48" height="48">
+        <a href="#" data-toggle="modal" data-target="#{{ journos.nombre }}">
+          <img id="{{ journos.pic }}" src="{{ journos.pic }}" alt="{{ journos.nombre }}" class="mr-2 rounded" width="48" height="48">
+            </a>  
           <div class="media-body pb-3 mb-0">
             <div class="d-flex justify-content-between align-items-center w-100">
-              <strong class="text-gray-dark">{{ journos.nombre }}</strong>
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#{{ journos.nombre }}"><strong class="text-gray-dark">{{ journos.nombre }}</strong></a>
             </div>
-            <span class="d-block">{{ journos.alias }}</span>
+            <a class="text-secondary" href="https://twitter.com/{{ journos.alias | rstrip }}" target="_blank"><span class="d-block">{{ journos.alias }}</span></a>
           </div>
         </div>
-    {% endfor %}
 
-        <small class="d-block text-right mt-3">
-          <a href="#">All suggestions</a>
-        </small>
+      <!-- Modal -->
+      <div class="modal fade" id="{{ journos.nombre }}" tabindex="-1" role="dialog" aria-labelledby="{{ journos.nombre }}Title" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="{{ journos.nombre }}Label">{{ journos.nombre }}</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="{{ journos.pic }}" alt="{{ journos.nombre }}" width="72" height="72">
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/{{ journos.alias }}" target="_blank"><h5 class="mt-0 mb-1 text-primary">{{ journos.alias }}</h5></a>
+            <p>{{ journos.perfil }}.</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> {{ journos.locus }}</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="{{ journos.web }}" target="_blank">Sitio web</a></p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    {% endfor %}
       </div>

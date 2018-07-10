@@ -103,7 +103,19 @@ gulp.task('optimize-css-prod', ['jekyll-build-prod'], function () {
         .pipe(prefix(['last 15 versions', '> 1%', 'ie 8', 'ie 7'], { cascade: true }))
         .pipe(uncss({
            html: ['_site/**/*.html'],
-           ignore: []
+           ignore: [
+            /\.affix/,
+            /\.alert/,
+            /\.close/,
+            /\.collaps/,
+            /\.fade/,
+            /\.has/,
+            /\.help/,
+            /\.in/,
+            /\.modal/,
+            /\.open/,
+            /\.popover/,
+            /\.tooltip/]
        }))
         .pipe(rename('all.min.css'))
         .pipe(minifyCSS())
