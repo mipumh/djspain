@@ -1,10 +1,10 @@
 ---
 layout: default
 ---
-<h2>Contacto</h2>
+<h2>Añadir a la lista</h2>
 
 <p class="lead">
-Estaremos encantados de atenderte si tienes alguna pregunta. Si deseas aparecer en la lista, por favor, rellena el formulario indicado. Aquí puedes ponerte en contacto con nosotros para todo lo demás.</p>
+Si quieres añadir a alguien a la lista, por favor, rellena el siguiente formulario. Las propuestas se analizarán y se subirán en bloque cada cierto tiempo.</p>
 
 <div id="thank-you-message" class="collapse" role="alert">
   <strong>¡Muchas gracias!</strong> Has enviado correctamente la información.
@@ -21,10 +21,7 @@ Estaremos encantados de atenderte si tienes alguna pregunta. Si deseas aparecer 
 <input name="email" id="email" type="email" class="form-control" placeholder="email@correo.com" required data-validation-required-message="Escriba una dirección de correo válida.">
 </div>
 <div class="form-group">
-<input name="telefono" id="movil" type="text" class="form-control" placeholder="Nº teléfono">
-</div>
-<div class="form-group">
-<input name="ciudad" id="ciudad" type="text" class="form-control" placeholder="Ciudad (País)">
+<input name="alias" id="twitter" type="text" class="form-control" placeholder="Enlace a perfil en Twitter">
 </div>
 <!-- Text
 <div class="form-group">
@@ -36,7 +33,7 @@ Estaremos encantados de atenderte si tienes alguna pregunta. Si deseas aparecer 
 </div>
 input-->                          
 <div class="form-group">
-<textarea name="message" class="libre" id="libre" type="text" class="form-control" placeholder="¿Alguna duda en particular?" rows="3"></textarea>
+<textarea name="message" class="libre" id="libre" type="text" class="form-control" placeholder="¿Por qué crees que debemos añadirle?" rows="3"></textarea>
 </div>
 <button id="button" class="btn btn-primary btn-lg btn-block mb-3">Enviar</button>
 </form>
