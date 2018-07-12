@@ -1,4 +1,12 @@
 <script type="text/javascript">
+      window.onload = (function(){
+          if(window.location.hash == '#thank-you'){
+          document.getElementById('thank-you-message').className = 'alert alert-success';
+          }
+          })
+</script>
+
+<script type="text/javascript">
 // When the user scrolls down 20px from the top of the document, show the button
 window.onscroll = function() {scrollFunction()};
 
