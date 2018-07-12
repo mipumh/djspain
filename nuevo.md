@@ -11,7 +11,7 @@ Si quieres añadir a alguien a la lista, por favor, rellena el siguiente formula
 </div>
 
 <form action="https://getsimpleform.com/messages?form_api_token=783b6c9bb4e486be36be5ff73fc3803f" method="post">
-<input type="hidden" name="redirect_to" value='{{ site.baseurl }}{{ page.url }}#thank-you'/>
+<input type="hidden" name="redirect_to" value='http://mip.umh.es/djspain{{ page.url }}#thank-you'/>
 
 <!-- Text input-->
 <div class="form-group">
