@@ -15,14 +15,29 @@ Si quieres añadir a alguien a la lista, por favor, rellena el siguiente formula
 
 <!-- Text input-->
 <div class="form-group">
-<input name="Formulario Periodistas de Datos" type="text" class="form-control" id="nombre" placeholder="Nombre y apellidos" required data-validation-required-message="Por favor, escribe tu nombre.">
+<input name="Formulario Periodistas de Datos" type="text" class="form-control" id="nombre" placeholder="Tu nombre y apellidos" required data-validation-required-message="Por favor, escribe tu nombre.">
 </div>
 <div class="form-group">
-<input name="email" id="email" type="email" class="form-control" placeholder="email@correo.com" required data-validation-required-message="Escriba una dirección de correo válida.">
+<input name="email" id="email" type="email" class="form-control" placeholder="Tu correo electrónico" required data-validation-required-message="Escribe una dirección de correo válida.">
+</div>
+
+<p class="lead">Persona propuesta:</p>
+<div class="form-group">
+<input name="nombre" id="propuesta" type="text" class="form-control" placeholder="Nombre y apellidos">
 </div>
 <div class="form-group">
 <input name="alias" id="twitter" type="text" class="form-control" placeholder="Enlace a perfil en Twitter">
 </div>
+<div class="form-group">
+<input name="alias" id="web" type="text" class="form-control" placeholder="Enlace a sitio web">
+</div>
+<div class="form-group">
+<input name="telefono" id="movil" type="text" class="form-control" placeholder="Nº teléfono">
+</div>
+<div class="form-group">
+<input name="ciudad" id="ciudad" type="text" class="form-control" placeholder="Ciudad (País)">
+</div>
+
 <!-- Text
 <div class="form-group">
 <select class="form-control" name="modalidad">
