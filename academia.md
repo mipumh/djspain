@@ -42,7 +42,7 @@ layout: default
             <p class="text-success"><i class="fas fa-map-marker-alt"></i> {{ journos.ciudad }}{% if journos.pais %} ({{ journos.pais }}){% endif %}</p>
             {% if journos.web %}<p><i class="fas fa-link"></i> <a class="text-secondary" href="{{ journos.web }}" target="_blank">Sitio web</a></p>{% endif %}
             {% if journos.medio %}<p><i class="far fa-building"></i> {{ journos.medio }}</p>{% endif %}
-            <p><i class="fas fa-tag"></i> {% if journos.tag_1 %} <button type="button" class="btn btn-outline-secondary btn-sm" disabled>{{ journos.tag_1 }}</button> {% endif %} {% if journos.tag_2 %} <button type="button" class="btn btn-outline-secondary btn-sm" disabled>{{ journos.tag_2 }}</button> {% endif %}</p>
+            <p><i class="fas fa-tag"></i> {% if journos.tag_1 %} <a href="/{{ journos.tag_1 | downcase | replace: 'ó', 'o' | replace: 'á', 'a' }}.html" class="btn btn-outline-secondary btn-sm">{{ journos.tag_1 }}</a> {% endif %} {% if journos.tag_2 %} <a href="/{{ journos.tag_2 | downcase | replace: 'ó', 'o' | replace: 'á', 'a' }}.html" class="btn btn-outline-secondary btn-sm">{{ journos.tag_2 }}</a> {% endif %}</p>
             </div>
           </div>
           </div>
