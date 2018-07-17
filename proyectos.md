@@ -1,13 +1,15 @@
 ---
 layout: default
 ---
-
-      <div class="my-3 p-3 bg-white rounded box-shadow">
+<div class="my-3 p-3 bg-white rounded box-shadow">
         <div id="results-container"></div>  
 
-        <h6 class="border-bottom border-gray pb-2 mb-0">Lista general</h6>
+        <h6 class="border-bottom border-gray pb-2 mb-0">Profesionales en #proyectos</h6>
 
     {% for journos in site.data.journos %}
+	
+	  {% if journos.tag_1 and journos.tag_2 == "Proyectos" %}
+
     <!-- Link trigger modal -->
         <div class="media text-muted pt-3 border-bottom border-gray">
         <a href="#" data-toggle="modal" data-target="#{{ journos.nombre }}">
@@ -50,6 +52,7 @@ layout: default
           </div>
         </div>
       </div>
+        {% endif %}
 
     {% endfor %}
       </div>
