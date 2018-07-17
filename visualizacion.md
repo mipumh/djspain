@@ -37,7 +37,7 @@ layout: default
             <div class="media">
             <img class="align-self-start mr-3 rounded mb-4" src="{{ journos.pic }}" alt="{{ journos.nombre }}" width="72" height="72">
             <div class="media-body">
-            <a style="text-decoration:none" href="https://twitter.com/{{ journos.alias }}" target="_blank"><h5 class="mt-0 mb-1 text-primary">@{{ journos.alias }}</h5></a>
+            <a style="text-decoration:none" href="{{ journos.twitter }}" target="_blank"><h5 class="mt-0 mb-1 text-primary">@{{ journos.alias }}</h5></a>
             <p>{{ journos.perfil }}</p>
             <p class="text-success"><i class="fas fa-map-marker-alt"></i> {{ journos.ciudad }}{% if journos.pais %} ({{ journos.pais }}){% endif %}</p>
             {% if journos.web %}<p><i class="fas fa-link"></i> <a class="text-secondary" href="{{ journos.web }}" target="_blank">Sitio web</a></p>{% endif %}
