@@ -32,9 +32,6 @@ Si quieres añadir a alguien a la lista, por favor, rellena el siguiente formula
 <input name="alias" id="web" type="text" class="form-control" placeholder="Enlace a sitio web">
 </div>
 <div class="form-group">
-<input name="telefono" id="movil" type="text" class="form-control" placeholder="Nº teléfono">
-</div>
-<div class="form-group">
 <input name="ciudad" id="ciudad" type="text" class="form-control" placeholder="Ciudad (País)">
 </div>
 
