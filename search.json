@@ -7,7 +7,7 @@ layout: null
       "nombre" : "{{ journo.nombre }}",
       "locus" : "{{ journo.locus }}",
       "pic" : "{{ journo.pic }}",
-      "modal" : "{{ journo.modal }}"
+      "modal" : "{{ journo.modal }}",
       "alias" : "{{ journo.alias }}"
       
     } {% unless forloop.last %},{% endunless %}
