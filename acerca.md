@@ -1,9 +1,7 @@
 ---
 layout: default
 ---
-<h2>Acerca</h2>
-<p>Julio, 2018</p>
-<h3><span style="font-weight: 400;">&iquest;Qu&eacute; es </span><strong>Periodistas de datos</strong><span style="font-weight: 400;">?</span></h3>
+<h2>&iquest;Qu&eacute; es </span><strong>Periodistas de datos</strong>?</h2>
 <p><span style="font-weight: 400;">Un proyecto que aspira a reunir a todos los que ven en los datos la verdadera materia prima del periodismo. Esta lista es s&oacute;lo la </span><strong>primera fase</strong><span style="font-weight: 400;"> de una plataforma para visibilizar, estudiar y fomentar la colaboraci&oacute;n entre los art&iacute;fices de la especialidad con m&aacute;s presente y futuro en esta profesi&oacute;n.</span></p>
 <h3><span style="font-weight: 400;">&iquest;Qui&eacute;nes somos?</span></h3>
 <p><a href="https://twitter.com/flxarias"><strong>F&eacute;lix Arias</strong></a><span style="font-weight: 400;">. Se me ocurri&oacute; esta la idea, extraigo los datos y los edito lo mejor que puedo. Soy profesor de Reporterismo y subdirector del M&aacute;ster en Innovaci&oacute;n en Periodismo (MIP). Ense&ntilde;o y aprendo sobre periodismo de datos, nuevas narrativas, redacci&oacute;n e innovaci&oacute;n.</span></p>
