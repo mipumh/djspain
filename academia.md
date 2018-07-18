@@ -4,11 +4,11 @@ layout: default
 <div class="my-3 p-3 bg-white rounded box-shadow">
         <div id="results-container"></div>  
 
-        <h6 class="border-bottom border-gray pb-2 mb-0">Profesionales en #consultoría</h6>
+        <h6 class="border-bottom border-gray pb-2 mb-0">Profesionales en #academia</h6>
 
     {% for journos in site.data.journos %}
 	
-	  {% if journos.tag_1 and journos.tag_2 == "Academia" %}
+	  {% if journos.tag_1 == "Academia" or journos.tag_2 == "Academia" %}
 
     <!-- Link trigger modal -->
         <div class="media text-muted pt-3 border-bottom border-gray">
