@@ -8,7 +8,7 @@ layout: default
 
     {% for journos in site.data.journos %}
 	
-	  {% if journos.tag_1 and journos.tag_2 == "Verificación" %}
+	  {% if journos.tag_1 == "Verificación" or journos.tag_2 == "Verificación" %}
 
     <!-- Link trigger modal -->
         <div class="media text-muted pt-3 border-bottom border-gray">
