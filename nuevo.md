@@ -29,7 +29,7 @@ Si quieres añadir a alguien a la lista, por favor, rellena el siguiente formula
 <input name="alias" id="twitter" type="text" class="form-control" placeholder="Enlace a perfil en Twitter">
 </div>
 <div class="form-group">
-<input name="alias" id="web" type="text" class="form-control" placeholder="Enlace a sitio web">
+<input name="sitio web" id="web" type="text" class="form-control" placeholder="Enlace a sitio web">
 </div>
 <div class="form-group">
 <input name="ciudad" id="ciudad" type="text" class="form-control" placeholder="Ciudad (País)">
@@ -45,10 +45,10 @@ Si quieres añadir a alguien a la lista, por favor, rellena el siguiente formula
 </div>
 input-->
 <div class="form-group">
-<input name="ciudad" id="etiquetas" type="text" class="form-control" placeholder="Especialidad (redacción, visualización...)">
+<input name="especialidad" id="etiquetas" type="text" class="form-control" placeholder="Especialidad (redacción, visualización...)">
 </div>                          
 <div class="form-group">
-<textarea name="message" class="libre" id="libre" type="text" class="form-control" placeholder="¿Por qué crees que debemos añadirle?" rows="3"></textarea>
+<textarea name="razones" class="libre" id="libre" type="text" class="form-control" placeholder="¿Por qué crees que debemos añadirle?" rows="3"></textarea>
 </div>
 <button id="button" class="btn btn-primary btn-lg btn-block mb-3">Enviar</button>
 </form>
