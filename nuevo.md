@@ -4,7 +4,7 @@ layout: default
 <h2>Añadir a la lista</h2>
 
 <p class="lead">
-Si quieres añadir a alguien a la lista, por favor, rellena el siguiente formulario. Las propuestas se analizarán y se subirán en bloque cada cierto tiempo.</p>
+Si quieres añadir a alguien a la lista, por favor, completa el siguiente formulario. Las propuestas se analizarán y se subirán en bloque cada cierto tiempo.</p>
 
 <div id="thank-you-message" class="collapse" role="alert">
   <strong>¡Muchas gracias!</strong> Has enviado correctamente la información.
