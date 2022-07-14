@@ -13,7 +13,7 @@ layout: default
     <!-- Link trigger modal -->
         <div class="media text-muted pt-3 border-bottom border-gray">
         <a href="#" data-toggle="modal" data-target="#{{ journos.nombre }}">
-          <img id="{{ journos.modal }}" src="{{ journos.imagen }}" alt="{{ journos.nombre }}" class="mr-2 rounded" width="48" height="48">
+          <img id="{{ journos.modal }}" src="https://unavatar.io/twitter/{{ journos.alias }}" alt="{{ journos.nombre }}" class="mr-2 rounded" width="48" height="48">
             </a>  
           <div class="media-body pb-3 mb-0">
             <div class="d-flex justify-content-between align-items-center w-100">
@@ -36,6 +36,7 @@ layout: default
             <div class="modal-body">
             <div class="media">
             <img class="align-self-start mr-3 rounded mb-4" src="{{ journos.imagen }}" alt="{{ journos.nombre }}" width="72" height="72">
+            <img id="{{ journos.modal }}" src="https://unavatar.io/twitter/{{ journos.alias }}" alt="{{ journos.nombre }}" class="mr-2 rounded" width="72" height="72">            
             <div class="media-body">
             <a style="text-decoration:none" href="{{ journos.twitter }}" target="_blank"><h5 class="mt-0 mb-1 text-primary">@{{ journos.alias }}</h5></a>
             <p>{{ journos.perfil }}</p>
