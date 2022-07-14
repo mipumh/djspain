@@ -1,0 +1,3840 @@
+I"_I<div class="my-3 p-3 bg-white rounded box-shadow">
+        <div id="results-container"></div>  
+
+        <h6 class="border-bottom border-gray pb-2 mb-0">Profesionales en #academia</h6>
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#AdrianPino">
+          <img id="popAdrianPino" src="/img/adrianpino22.jpg" alt="AdrianPino" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#AdrianPino"><strong class="text-gray-dark">AdrianPino</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/adrianpino22" target="_blank"><span class="d-block">@adrianpino22</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="AdrianPino" tabindex="-1" role="dialog" aria-labelledby="AdrianPinoTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="AdrianPinoLabel">AdrianPino</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/adrianpino22.jpg" alt="AdrianPino" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/adrianpino22" target="_blank"><h5 class="mt-0 mb-1 text-primary">@adrianpino22</h5></a>
+            <p>Periodista. Coordinador de Datos Concepción. Apasionado por el Periodismo de Datos, DataViz y apps cívicas. Docente Universitario. Amante del mate amargo (Arg)</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Concepción (Chile)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://www.datosconcepcion.com.ar/" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> Datos concepción</p>
+            <p><i class="fas fa-tag"></i>  <a href="/redaccion.html" class="btn btn-outline-secondary btn-sm">Redacción</a>   <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Alberto Cairo">
+          <img id="popAlberto Cairo" src="/img/albertocairo.jpg" alt="Alberto Cairo" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Alberto Cairo"><strong class="text-gray-dark">Alberto Cairo</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/albertocairo" target="_blank"><span class="d-block">@albertocairo</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Alberto Cairo" tabindex="-1" role="dialog" aria-labelledby="Alberto CairoTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Alberto CairoLabel">Alberto Cairo</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/albertocairo.jpg" alt="Alberto Cairo" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/albertocairo" target="_blank"><h5 class="mt-0 mb-1 text-primary">@albertocairo</h5></a>
+            <p>Knight Chair at the University of Miami. Author of 'The Truthful Art' (2016), and 'The Functional Art' (2012) http://www.albertocairo.com</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Miami (EEUU)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="http://www.thefunctionalart.com/" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> University of Miami</p>
+            <p><i class="fas fa-tag"></i>  <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a>   <a href="/visualizacion.html" class="btn btn-outline-secondary btn-sm">Visualización</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Aleix Ruiz de Villa">
+          <img id="popAleix Ruiz de Villa" src="/img/aleixrvr.jpg" alt="Aleix Ruiz de Villa" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Aleix Ruiz de Villa"><strong class="text-gray-dark">Aleix Ruiz de Villa</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/aleixrvr" target="_blank"><span class="d-block">@aleixrvr</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Aleix Ruiz de Villa" tabindex="-1" role="dialog" aria-labelledby="Aleix Ruiz de VillaTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Aleix Ruiz de VillaLabel">Aleix Ruiz de Villa</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/aleixrvr.jpg" alt="Aleix Ruiz de Villa" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/aleixrvr" target="_blank"><h5 class="mt-0 mb-1 text-primary">@aleixrvr</h5></a>
+            <p>PhD in mathematical analysis. Chief Data Scientist at Onna</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Barcelona (España)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="http://www.aleixruizdevilla.net/" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> Onna</p>
+            <p><i class="fas fa-tag"></i>  <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a>   <a href="/analisis.html" class="btn btn-outline-secondary btn-sm">Análisis</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Alvaro Liuzzi">
+          <img id="popAlvaro Liuzzi" src="/img/alvaroliuzzi.jpg" alt="Alvaro Liuzzi" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Alvaro Liuzzi"><strong class="text-gray-dark">Alvaro Liuzzi</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/alvaroliuzzi" target="_blank"><span class="d-block">@alvaroliuzzi</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Alvaro Liuzzi" tabindex="-1" role="dialog" aria-labelledby="Alvaro LiuzziTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Alvaro LiuzziLabel">Alvaro Liuzzi</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/alvaroliuzzi.jpg" alt="Alvaro Liuzzi" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/alvaroliuzzi" target="_blank"><h5 class="mt-0 mb-1 text-primary">@alvaroliuzzi</h5></a>
+            <p>Consultor en Medios y Proyectos Digitales</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> La Plata (Argentina)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://medium.com/@alvaroliuzzi/lic-alvaro-liuzzi-d7374616152d" target="_blank">Sitio web</a></p>
+            
+            <p><i class="fas fa-tag"></i>  <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a>   <a href="/proyectos.html" class="btn btn-outline-secondary btn-sm">Proyectos</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Ana Isabel Cordobés">
+          <img id="popAna Isabel Cordobés" src="/img/Ana_Cordobes.jpg" alt="Ana Isabel Cordobés" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Ana Isabel Cordobés"><strong class="text-gray-dark">Ana Isabel Cordobés</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/Ana_Cordobes" target="_blank"><span class="d-block">@Ana_Cordobes</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Ana Isabel Cordobés" tabindex="-1" role="dialog" aria-labelledby="Ana Isabel CordobésTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Ana Isabel CordobésLabel">Ana Isabel Cordobés</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/Ana_Cordobes.jpg" alt="Ana Isabel Cordobés" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/Ana_Cordobes" target="_blank"><h5 class="mt-0 mb-1 text-primary">@Ana_Cordobes</h5></a>
+            <p>Periodista de datos. Dirigiendo @cuartopoder y dateando en @Los40. Enseño Narración Digital en @UNIRuniversidad. Contacto: anaicordobes@gmail.com</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Pamplona / Iruñea (España)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://anacordobes.wordpress.com/contacta/" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> Cuarto Poder</p>
+            <p><i class="fas fa-tag"></i>  <a href="/redaccion.html" class="btn btn-outline-secondary btn-sm">Redacción</a>   <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Ana Vldv">
+          <img id="popAna Vldv" src="/img/ana_valdi.jpg" alt="Ana Vldv" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Ana Vldv"><strong class="text-gray-dark">Ana Vldv</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/ana_valdi" target="_blank"><span class="d-block">@ana_valdi</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Ana Vldv" tabindex="-1" role="dialog" aria-labelledby="Ana VldvTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Ana VldvLabel">Ana Vldv</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/ana_valdi.jpg" alt="Ana Vldv" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/ana_valdi" target="_blank"><h5 class="mt-0 mb-1 text-primary">@ana_valdi</h5></a>
+            <p>Mathematician &amp; #DataScientist. Fellow of @datascifellows at @UChicago. Data for #socialgood. Love yoga. Between GRX and BCN. #EcoFem</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Barcelona (España)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://valdilab.wordpress.com/" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> Data for Social Goog</p>
+            <p><i class="fas fa-tag"></i>  <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a>   <a href="/analisis.html" class="btn btn-outline-secondary btn-sm">Análisis</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Antonio Rubio">
+          <img id="popAntonio Rubio" src="/img/ARubioCampana.jpg" alt="Antonio Rubio" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Antonio Rubio"><strong class="text-gray-dark">Antonio Rubio</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/ARubioCampana" target="_blank"><span class="d-block">@ARubioCampana</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Antonio Rubio" tabindex="-1" role="dialog" aria-labelledby="Antonio RubioTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Antonio RubioLabel">Antonio Rubio</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/ARubioCampana.jpg" alt="Antonio Rubio" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/ARubioCampana" target="_blank"><h5 class="mt-0 mb-1 text-primary">@ARubioCampana</h5></a>
+            <p>Periodista. Doctor. Director Máster El Mundo/CEU y Periodismo Investigación y Datos/URJC. http://Libros.com @P_Investigacion Asociación Periodistas Investigación (API)</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Madrid (España)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://www.escuelaunidadeditorial.es/master-periodismo-de-investigacion.html" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> El Mundo</p>
+            <p><i class="fas fa-tag"></i>  <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a>   <a href="/investigacion.html" class="btn btn-outline-secondary btn-sm">Investigación</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Barbara Maseda">
+          <img id="popBarbara Maseda" src="/img/barbaramaseda.jpg" alt="Barbara Maseda" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Barbara Maseda"><strong class="text-gray-dark">Barbara Maseda</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/barbaramaseda" target="_blank"><span class="d-block">@barbaramaseda</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Barbara Maseda" tabindex="-1" role="dialog" aria-labelledby="Barbara MasedaTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Barbara MasedaLabel">Barbara Maseda</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/barbaramaseda.jpg" alt="Barbara Maseda" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/barbaramaseda" target="_blank"><h5 class="mt-0 mb-1 text-primary">@barbaramaseda</h5></a>
+            <p>Journalist. (Text) data enthusiast. Fellow @JSKStanford / Alum @BCUMedia #ddj #textdata #textmining PGP http://bit.ly/MyPGP_Key</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Palo Alto (EEUU)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://medium.com/text-data-stories" target="_blank">Sitio web</a></p>
+            
+            <p><i class="fas fa-tag"></i>  <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a>   <a href="/visualizacion.html" class="btn btn-outline-secondary btn-sm">Visualización</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#David Bernal">
+          <img id="popDavid Bernal" src="/img/bernalpiche.jpg" alt="David Bernal" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#David Bernal"><strong class="text-gray-dark">David Bernal</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/bernalpiche" target="_blank"><span class="d-block">@bernalpiche</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="David Bernal" tabindex="-1" role="dialog" aria-labelledby="David BernalTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="David BernalLabel">David Bernal</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/bernalpiche.jpg" alt="David Bernal" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/bernalpiche" target="_blank"><h5 class="mt-0 mb-1 text-primary">@bernalpiche</h5></a>
+            <p>Coordinador multimedia de @elgraficionado. Tutor en periodismo de datos y periodismo de investigación para Internews 2016-2018. Periodista deportivo desde 2006.</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i>  (El Salvador)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://bernalpiche.wordpress.com/" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> El Gráfico</p>
+            <p><i class="fas fa-tag"></i>  <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a>   <a href="/proyectos.html" class="btn btn-outline-secondary btn-sm">Proyectos</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Bianca Pallaro">
+          <img id="popBianca Pallaro" src="/img/biancapallaro.jpg" alt="Bianca Pallaro" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Bianca Pallaro"><strong class="text-gray-dark">Bianca Pallaro</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/biancapallaro" target="_blank"><span class="d-block">@biancapallaro</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Bianca Pallaro" tabindex="-1" role="dialog" aria-labelledby="Bianca PallaroTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Bianca PallaroLabel">Bianca Pallaro</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/biancapallaro.jpg" alt="Bianca Pallaro" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/biancapallaro" target="_blank"><h5 class="mt-0 mb-1 text-primary">@biancapallaro</h5></a>
+            <p>Periodismo de datos e innovación en @LNdata @LANACION || Docente en @UCAPeriodismo || Feminista. Amante de los  y</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Buenos Aires (Argentina)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://www.lanacion.com.ar/autor/bianca-pallaro-9979" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> La Nación</p>
+            <p><i class="fas fa-tag"></i>  <a href="/proyectos.html" class="btn btn-outline-secondary btn-sm">Proyectos</a>   <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Carlos E Chavez">
+          <img id="popCarlos E Chavez" src="/img/CarlosEChavez3.jpg" alt="Carlos E Chavez" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Carlos E Chavez"><strong class="text-gray-dark">Carlos E Chavez</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/CarlosMunozDiaz" target="_blank"><span class="d-block">@CarlosEChavez3</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Carlos E Chavez" tabindex="-1" role="dialog" aria-labelledby="Carlos E ChavezTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Carlos E ChavezLabel">Carlos E Chavez</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/CarlosEChavez3.jpg" alt="Carlos E Chavez" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/CarlosMunozDiaz" target="_blank"><h5 class="mt-0 mb-1 text-primary">@CarlosEChavez3</h5></a>
+            <p>Researcher and data scientist. PhD in Mathematical Engineering @uc3m.</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Madrid (España)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://twitter.com/carlosechavez3" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> Universidad Carlos III</p>
+            <p><i class="fas fa-tag"></i>  <a href="/analisis.html" class="btn btn-outline-secondary btn-sm">Análisis</a>   <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Romina Colman">
+          <img id="popRomina Colman" src="/img/colmanromi.jpg" alt="Romina Colman" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Romina Colman"><strong class="text-gray-dark">Romina Colman</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/colmanromi" target="_blank"><span class="d-block">@colmanromi</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Romina Colman" tabindex="-1" role="dialog" aria-labelledby="Romina ColmanTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Romina ColmanLabel">Romina Colman</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/colmanromi.jpg" alt="Romina Colman" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/colmanromi" target="_blank"><h5 class="mt-0 mb-1 text-primary">@colmanromi</h5></a>
+            <p>Periodista en @LNData.Lic.Cs.de la Comunicación (UBA). Fellow @OEA_oficial en Gobierno Abierto 2016. Profesora en @UCAPeriodismo. Co-founder de @GIGAbierto</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i>  (Argentina)</p>
+            
+            <p><i class="far fa-building"></i> La Nación</p>
+            <p><i class="fas fa-tag"></i>  <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a>   <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Mariluz Congosto">
+          <img id="popMariluz Congosto" src="/img/congosto.jpg" alt="Mariluz Congosto" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Mariluz Congosto"><strong class="text-gray-dark">Mariluz Congosto</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/congosto" target="_blank"><span class="d-block">@congosto</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Mariluz Congosto" tabindex="-1" role="dialog" aria-labelledby="Mariluz CongostoTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Mariluz CongostoLabel">Mariluz Congosto</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/congosto.jpg" alt="Mariluz Congosto" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/congosto" target="_blank"><h5 class="mt-0 mb-1 text-primary">@congosto</h5></a>
+            <p>investigando desde la uc3m en la propagación de mensajes y la caracterización de usuarios en Twitter. Mis experimentos en http://t-hoarder.com</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Madrid (España)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="http://www.barriblog.com/" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> Universidad Carlos III</p>
+            <p><i class="fas fa-tag"></i>  <a href="/analisis.html" class="btn btn-outline-secondary btn-sm">Análisis</a>   <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Rodrigo Cunha">
+          <img id="popRodrigo Cunha" src="/img/cunhares.jpg" alt="Rodrigo Cunha" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Rodrigo Cunha"><strong class="text-gray-dark">Rodrigo Cunha</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/cunhares" target="_blank"><span class="d-block">@cunhares</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Rodrigo Cunha" tabindex="-1" role="dialog" aria-labelledby="Rodrigo CunhaTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Rodrigo CunhaLabel">Rodrigo Cunha</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/cunhares.jpg" alt="Rodrigo Cunha" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/cunhares" target="_blank"><h5 class="mt-0 mb-1 text-primary">@cunhares</h5></a>
+            <p>Professor at DCOM/UFPE; PhD in Media Studies; talks about journalism + data visualization.</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Recife (Brasil)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="http://ufpe.br/grid" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> Universidade Federal de Pernambuco</p>
+            <p><i class="fas fa-tag"></i>  <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a>   <a href="/visualizacion.html" class="btn btn-outline-secondary btn-sm">Visualización</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Damián Profeta">
+          <img id="popDamián Profeta" src="/img/damianprofeta.jpg" alt="Damián Profeta" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Damián Profeta"><strong class="text-gray-dark">Damián Profeta</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/damianprofeta" target="_blank"><span class="d-block">@damianprofeta</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Damián Profeta" tabindex="-1" role="dialog" aria-labelledby="Damián ProfetaTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Damián ProfetaLabel">Damián Profeta</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/damianprofeta.jpg" alt="Damián Profeta" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/damianprofeta" target="_blank"><h5 class="mt-0 mb-1 text-primary">@damianprofeta</h5></a>
+            <p>Hago periodismo ambiental en http://claves21.com.ar . Consultor en comunicación digital. Docente en UNDAV, IUNMA, EPD y Don Bosco. Aficionado al té.</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Buenos Aires (Argentina)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://damianprofeta.blogspot.com/" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> Claves 21</p>
+            <p><i class="fas fa-tag"></i>  <a href="/investigacion.html" class="btn btn-outline-secondary btn-sm">Investigación</a>   <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Daniel Villatoro G">
+          <img id="popDaniel Villatoro G" src="/img/danyvillatoro.jpg" alt="Daniel Villatoro G" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Daniel Villatoro G"><strong class="text-gray-dark">Daniel Villatoro G</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/danyvillatoro" target="_blank"><span class="d-block">@danyvillatoro</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Daniel Villatoro G" tabindex="-1" role="dialog" aria-labelledby="Daniel Villatoro GTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Daniel Villatoro GLabel">Daniel Villatoro G</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/danyvillatoro.jpg" alt="Daniel Villatoro G" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/danyvillatoro" target="_blank"><h5 class="mt-0 mb-1 text-primary">@danyvillatoro</h5></a>
+            <p>Según la aduana: guatemalteco,  periodista, en sus veintes; sin dinero para souvenirs/Periodismo-arte-data/ Parte de @socialtic + @EscuelaDeDatos + @visibles_gt</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i>  (Guatemala)</p>
+            
+            <p><i class="far fa-building"></i> SocialTIC</p>
+            <p><i class="fas fa-tag"></i>  <a href="/visualizacion.html" class="btn btn-outline-secondary btn-sm">Visualización</a>   <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Antonio Jiménez">
+          <img id="popAntonio Jiménez" src="/img/eleditor.jpg" alt="Antonio Jiménez" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Antonio Jiménez"><strong class="text-gray-dark">Antonio Jiménez</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/eleditor" target="_blank"><span class="d-block">@eleditor</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Antonio Jiménez" tabindex="-1" role="dialog" aria-labelledby="Antonio JiménezTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Antonio JiménezLabel">Antonio Jiménez</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/eleditor.jpg" alt="Antonio Jiménez" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/eleditor" target="_blank"><h5 class="mt-0 mb-1 text-primary">@eleditor</h5></a>
+            <p>Reporter. #PanamaPapers. Creator: @DataBaseAR, @vozyvoto18, http://ameliarueda.com . 2012 Visiting Writer at @NiemanLab. 11-12 Fulbright's Humphrey Fellow</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> San José (Costa Rica)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="http://databasear.com/" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> DataBaseAR</p>
+            <p><i class="fas fa-tag"></i>  <a href="/proyectos.html" class="btn btn-outline-secondary btn-sm">Proyectos</a>   <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Elena Blanco Castill">
+          <img id="popElena Blanco Castill" src="/img/ElenaBCastilla.jpg" alt="Elena Blanco Castill" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Elena Blanco Castill"><strong class="text-gray-dark">Elena Blanco Castill</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/ElenaBCastilla" target="_blank"><span class="d-block">@ElenaBCastilla</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Elena Blanco Castill" tabindex="-1" role="dialog" aria-labelledby="Elena Blanco CastillTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Elena Blanco CastillLabel">Elena Blanco Castill</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/ElenaBCastilla.jpg" alt="Elena Blanco Castill" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/ElenaBCastilla" target="_blank"><h5 class="mt-0 mb-1 text-primary">@ElenaBCastilla</h5></a>
+            <p>Periodista. Profesora de Periodismo</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> </p>
+            
+            
+            <p><i class="fas fa-tag"></i>  <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a>  </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Elena Brizuela">
+          <img id="popElena Brizuela" src="/img/elenabrizuela.jpg" alt="Elena Brizuela" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Elena Brizuela"><strong class="text-gray-dark">Elena Brizuela</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/elenabrizuela" target="_blank"><span class="d-block">@elenabrizuela</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Elena Brizuela" tabindex="-1" role="dialog" aria-labelledby="Elena BrizuelaTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Elena BrizuelaLabel">Elena Brizuela</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/elenabrizuela.jpg" alt="Elena Brizuela" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/elenabrizuela" target="_blank"><h5 class="mt-0 mb-1 text-primary">@elenabrizuela</h5></a>
+            <p>Owner multitasking en @epxus / Profe de Periodismo Digital y Periodismo de Datos en @cupeduar / Data Journalist</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Córdoba (Argentina)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="epxus.com.ar" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> Epxus</p>
+            <p><i class="fas fa-tag"></i>  <a href="/proyectos.html" class="btn btn-outline-secondary btn-sm">Proyectos</a>   <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#eli vivas">
+          <img id="popeli vivas" src="/img/eli_vivas.jpg" alt="eli vivas" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#eli vivas"><strong class="text-gray-dark">eli vivas</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/eli_vivas" target="_blank"><span class="d-block">@eli_vivas</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="eli vivas" tabindex="-1" role="dialog" aria-labelledby="eli vivasTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="eli vivasLabel">eli vivas</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/eli_vivas.jpg" alt="eli vivas" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/eli_vivas" target="_blank"><h5 class="mt-0 mb-1 text-primary">@eli_vivas</h5></a>
+            <p>Periodista Co-founder @Storydatabcn | @HacksHackersBCN  Aprendo con mis alumnos en @BlanquernaFCRI  @datajournalism1 #ddj #opendata</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Barcelona (España)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="http://www.storydata.cat/" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> StorydataBcn</p>
+            <p><i class="fas fa-tag"></i>  <a href="/proyectos.html" class="btn btn-outline-secondary btn-sm">Proyectos</a>   <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Ernesto Villar">
+          <img id="popErnesto Villar" src="/img/ernvillar.jpg" alt="Ernesto Villar" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Ernesto Villar"><strong class="text-gray-dark">Ernesto Villar</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/ernvillar" target="_blank"><span class="d-block">@ernvillar</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Ernesto Villar" tabindex="-1" role="dialog" aria-labelledby="Ernesto VillarTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Ernesto VillarLabel">Ernesto Villar</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/ernvillar.jpg" alt="Ernesto Villar" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/ernvillar" target="_blank"><h5 class="mt-0 mb-1 text-primary">@ernvillar</h5></a>
+            <p>Nuevo libro: Los espías de Suárez (Espasa). Periodista en @larazon_es, profe en @VillanuevaCU, director de http://cuv3.com , co-director de @master_datos</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Madrid (España)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="http://periodismodatos.villanueva.edu" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> Universidad Villanueva</p>
+            <p><i class="fas fa-tag"></i>  <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a>   <a href="/investigacion.html" class="btn btn-outline-secondary btn-sm">Investigación</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Eva Constantaras">
+          <img id="popEva Constantaras" src="/img/EvaConstantaras.jpg" alt="Eva Constantaras" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Eva Constantaras"><strong class="text-gray-dark">Eva Constantaras</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/EvaConstantaras" target="_blank"><span class="d-block">@EvaConstantaras</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Eva Constantaras" tabindex="-1" role="dialog" aria-labelledby="Eva ConstantarasTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Eva ConstantarasLabel">Eva Constantaras</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/EvaConstantaras.jpg" alt="Eva Constantaras" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/EvaConstantaras" target="_blank"><h5 class="mt-0 mb-1 text-primary">@EvaConstantaras</h5></a>
+            <p>Data journalist &amp; trainer having misadventures in investigative #datajournalism #opendata Nomadic: Africa, Asia, MENA, LAC. @Google scholar @Internews</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i>  (Grecia)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://www.linkedin.com/in/eva-constantaras-143a2b10/" target="_blank">Sitio web</a></p>
+            
+            <p><i class="fas fa-tag"></i>  <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a>   <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Fabiola Chambi">
+          <img id="popFabiola Chambi" src="/img/fabiolachambi.jpg" alt="Fabiola Chambi" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Fabiola Chambi"><strong class="text-gray-dark">Fabiola Chambi</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/fabiolachambi" target="_blank"><span class="d-block">@fabiolachambi</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Fabiola Chambi" tabindex="-1" role="dialog" aria-labelledby="Fabiola ChambiTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Fabiola ChambiLabel">Fabiola Chambi</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/fabiolachambi.jpg" alt="Fabiola Chambi" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/fabiolachambi" target="_blank"><h5 class="mt-0 mb-1 text-primary">@fabiolachambi</h5></a>
+            <p>Periodista. Editora web en Los Tiempos. Gestora #LTDATA. Docente. Workaholic (en rehabilitación) y aprendiz incansable. #DataJournalism #DigitalMedia #OpenData</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Cochabamba (Bolivia)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="http://fabiolachambi.blogspot.com/" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> Los tiempos</p>
+            <p><i class="fas fa-tag"></i>  <a href="/redaccion.html" class="btn btn-outline-secondary btn-sm">Redacción</a>   <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Francisco Asensi">
+          <img id="popFrancisco Asensi" src="/img/fasensi.jpg" alt="Francisco Asensi" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Francisco Asensi"><strong class="text-gray-dark">Francisco Asensi</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/fasensi" target="_blank"><span class="d-block">@fasensi</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Francisco Asensi" tabindex="-1" role="dialog" aria-labelledby="Francisco AsensiTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Francisco AsensiLabel">Francisco Asensi</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/fasensi.jpg" alt="Francisco Asensi" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/fasensi" target="_blank"><h5 class="mt-0 mb-1 text-primary">@fasensi</h5></a>
+            <p>Mixing digital with TV, tech, games and data to transform media and entertainment industry @InnovacionAv member #tv #transmedia #eSports #robots #drones #music</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Madrid (España)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://innovacionaudiovisual.com/author/fasensiv/" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> Innovación Audiovisual</p>
+            <p><i class="fas fa-tag"></i>  <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a>  </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Flor Coelho">
+          <img id="popFlor Coelho" src="/img/fcoel.jpg" alt="Flor Coelho" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Flor Coelho"><strong class="text-gray-dark">Flor Coelho</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/fcoel" target="_blank"><span class="d-block">@fcoel</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Flor Coelho" tabindex="-1" role="dialog" aria-labelledby="Flor CoelhoTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Flor CoelhoLabel">Flor Coelho</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/fcoel.jpg" alt="Flor Coelho" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/fcoel" target="_blank"><h5 class="mt-0 mb-1 text-primary">@fcoel</h5></a>
+            <p>Proud @LNdata member. Open data fan. New Media research &amp; trainer @LANACION. @ONA Intl. @jskstanford fellow 2018-2019 #emojidelmate #NeverStopLearning =)</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Buenos Aires (Argentina)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="http://blogs.lanacion.com.ar/data/florencia-coelho/" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> La Nación</p>
+            <p><i class="fas fa-tag"></i>  <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a>   <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Ernesto Mislej">
+          <img id="popErnesto Mislej" src="/img/fetnelio.jpg" alt="Ernesto Mislej" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Ernesto Mislej"><strong class="text-gray-dark">Ernesto Mislej</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/fetnelio" target="_blank"><span class="d-block">@fetnelio</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Ernesto Mislej" tabindex="-1" role="dialog" aria-labelledby="Ernesto MislejTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Ernesto MislejLabel">Ernesto Mislej</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/fetnelio.jpg" alt="Ernesto Mislej" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/fetnelio" target="_blank"><h5 class="mt-0 mb-1 text-primary">@fetnelio</h5></a>
+            <p>Co-founder of 7Puentes. Data Scientist, entrepreneur and Irina &amp; León's father. Machine Learning &amp; Artificial Intelligence professor at CS Department, UBA</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Buenos Aires (Argentina)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="http://7puentes.com/" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> 7 Puentes</p>
+            <p><i class="fas fa-tag"></i>  <a href="/proyectos.html" class="btn btn-outline-secondary btn-sm">Proyectos</a>   <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Giannina Segnini">
+          <img id="popGiannina Segnini" src="/img/gianninasegnini.jpg" alt="Giannina Segnini" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Giannina Segnini"><strong class="text-gray-dark">Giannina Segnini</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/gianninasegnini" target="_blank"><span class="d-block">@gianninasegnini</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Giannina Segnini" tabindex="-1" role="dialog" aria-labelledby="Giannina SegniniTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Giannina SegniniLabel">Giannina Segnini</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/gianninasegnini.jpg" alt="Giannina Segnini" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/gianninasegnini" target="_blank"><h5 class="mt-0 mb-1 text-primary">@gianninasegnini</h5></a>
+            <p>Director, Data Journalism Degree at Columbia Journalism School. U2 fan since 1983. PGP key https://goo.gl/33HGJF</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Nueva York (EEUU)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://journalism.columbia.edu/faculty" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> Columbia University</p>
+            <p><i class="fas fa-tag"></i>  <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a>   <a href="/investigacion.html" class="btn btn-outline-secondary btn-sm">Investigación</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Guadalupe López">
+          <img id="popGuadalupe López" src="/img/guadalopez.jpg" alt="Guadalupe López" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Guadalupe López"><strong class="text-gray-dark">Guadalupe López</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/guadalopez" target="_blank"><span class="d-block">@guadalopez</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Guadalupe López" tabindex="-1" role="dialog" aria-labelledby="Guadalupe LópezTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Guadalupe LópezLabel">Guadalupe López</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/guadalopez.jpg" alt="Guadalupe López" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/guadalopez" target="_blank"><h5 class="mt-0 mb-1 text-primary">@guadalopez</h5></a>
+            <p>Directora de Acceso a la Información Pública en @BAprovincia. Periodista, #narda y docente de alma. Mamá de #NinaLove</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> La Plata (Argentina)</p>
+            
+            <p><i class="far fa-building"></i> Gobierno Buenos Aires</p>
+            <p><i class="fas fa-tag"></i>  <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a>   <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Hassel Fallas">
+          <img id="popHassel Fallas" src="/img/HasselFallas.jpg" alt="Hassel Fallas" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Hassel Fallas"><strong class="text-gray-dark">Hassel Fallas</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/HasselFallas" target="_blank"><span class="d-block">@HasselFallas</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Hassel Fallas" tabindex="-1" role="dialog" aria-labelledby="Hassel FallasTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Hassel FallasLabel">Hassel Fallas</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/HasselFallas.jpg" alt="Hassel Fallas" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/HasselFallas" target="_blank"><h5 class="mt-0 mb-1 text-primary">@HasselFallas</h5></a>
+            <p>Digital project management based on data analysis &amp; dataviz. Investigative editor teaching #datajournalism @CFPD_udgvirtual. My work https://bit.ly/2rLWP2Q</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i>  (Costa Rica / México)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="http://hasselfallas.com" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> Centro de Formación en Periodismo Digital</p>
+            <p><i class="fas fa-tag"></i>  <a href="/visualizacion.html" class="btn btn-outline-secondary btn-sm">Visualización</a>   <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Hugo Garrido">
+          <img id="popHugo Garrido" src="/img/hgrosado.jpg" alt="Hugo Garrido" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Hugo Garrido"><strong class="text-gray-dark">Hugo Garrido</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/hgrosado" target="_blank"><span class="d-block">@hgrosado</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Hugo Garrido" tabindex="-1" role="dialog" aria-labelledby="Hugo GarridoTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Hugo GarridoLabel">Hugo Garrido</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/hgrosado.jpg" alt="Hugo Garrido" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/hgrosado" target="_blank"><h5 class="mt-0 mb-1 text-primary">@hgrosado</h5></a>
+            <p>Ing. Téc. Informática Sistemas. Periodismo en @uc3m #Periodismodatos en @ElMundoData/@elmundoes. Enseñando en @M_Investigacion @Master_ElMundo Chico @civio #ddj</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Madrid (España)</p>
+            
+            <p><i class="far fa-building"></i> El Mundo</p>
+            <p><i class="fas fa-tag"></i>  <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a>   <a href="/desarrollo.html" class="btn btn-outline-secondary btn-sm">Desarrollo</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Andreina Itriago A.">
+          <img id="popAndreina Itriago A." src="/img/inaitriago.jpg" alt="Andreina Itriago A." class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Andreina Itriago A."><strong class="text-gray-dark">Andreina Itriago A.</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/inaitriago" target="_blank"><span class="d-block">@inaitriago</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Andreina Itriago A." tabindex="-1" role="dialog" aria-labelledby="Andreina Itriago A.Title" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Andreina Itriago A.Label">Andreina Itriago A.</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/inaitriago.jpg" alt="Andreina Itriago A." width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/inaitriago" target="_blank"><h5 class="mt-0 mb-1 text-primary">@inaitriago</h5></a>
+            <p>Periodista de @Armandoinfo y corresponsal de @AnadoluAjansi. A veces también publico en @Cronica_ElMundo. Profesora en @lacatolica.</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Caracas (Venezuela)</p>
+            
+            <p><i class="far fa-building"></i> Armando Info</p>
+            <p><i class="fas fa-tag"></i>  <a href="/investigacion.html" class="btn btn-outline-secondary btn-sm">Investigación</a>   <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Ismael Nafría">
+          <img id="popIsmael Nafría" src="/img/ismaelnafria.jpg" alt="Ismael Nafría" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Ismael Nafría"><strong class="text-gray-dark">Ismael Nafría</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/ismaelnafria/" target="_blank"><span class="d-block">@ismaelnafria</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Ismael Nafría" tabindex="-1" role="dialog" aria-labelledby="Ismael NafríaTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Ismael NafríaLabel">Ismael Nafría</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/ismaelnafria.jpg" alt="Ismael Nafría" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/ismaelnafria/" target="_blank"><h5 class="mt-0 mb-1 text-primary">@ismaelnafria</h5></a>
+            <p>Autor de "La reinvención de The New York Times" (http://amzn.to/2tzKjGT ) y del boletín semanal Tendenci@s (http://goo.gl/pCve73 ) sobre medios digitales.</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Barcelona (España)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="http://www.ismaelnafria.com/" target="_blank">Sitio web</a></p>
+            
+            <p><i class="fas fa-tag"></i>  <a href="/proyectos.html" class="btn btn-outline-secondary btn-sm">Proyectos</a>   <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Julio López P.">
+          <img id="popJulio López P." src="/img/jalp_ec.jpg" alt="Julio López P." class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Julio López P."><strong class="text-gray-dark">Julio López P.</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/jalp_ec" target="_blank"><span class="d-block">@jalp_ec</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Julio López P." tabindex="-1" role="dialog" aria-labelledby="Julio López P.Title" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Julio López P.Label">Julio López P.</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/jalp_ec.jpg" alt="Julio López P." width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/jalp_ec" target="_blank"><h5 class="mt-0 mb-1 text-primary">@jalp_ec</h5></a>
+            <p>Data-driven research on sustainable development (energy), open data &amp; public policy | Entrepreneur #CivicTech @datalat @escueladedatos @schoolofdata</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i>  (Ecuador)</p>
+            
+            <p><i class="far fa-building"></i> Datalab</p>
+            <p><i class="fas fa-tag"></i>  <a href="/proyectos.html" class="btn btn-outline-secondary btn-sm">Proyectos</a>   <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Javier J.Barriocanal">
+          <img id="popJavier J.Barriocanal" src="/img/JBarriocanal.jpg" alt="Javier J.Barriocanal" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Javier J.Barriocanal"><strong class="text-gray-dark">Javier J.Barriocanal</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/JBarriocanal" target="_blank"><span class="d-block">@JBarriocanal</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Javier J.Barriocanal" tabindex="-1" role="dialog" aria-labelledby="Javier J.BarriocanalTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Javier J.BarriocanalLabel">Javier J.Barriocanal</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/JBarriocanal.jpg" alt="Javier J.Barriocanal" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/JBarriocanal" target="_blank"><h5 class="mt-0 mb-1 text-primary">@JBarriocanal</h5></a>
+            <p>Hago cosas en @conento, antes las hacía en @Vocento, @elmundoes y @expansioncom. Enseño a hacer cosas en @master_datos y @masterDGM #infografia #dataviz</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Madrid (España)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="http://www.colpisa.com/" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> Conento</p>
+            <p><i class="fas fa-tag"></i>  <a href="/visualizacion.html" class="btn btn-outline-secondary btn-sm">Visualización</a>   <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Leonardo La Rosa">
+          <img id="popLeonardo La Rosa" src="/img/LeonardoLaRosa.jpg" alt="Leonardo La Rosa" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Leonardo La Rosa"><strong class="text-gray-dark">Leonardo La Rosa</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/LeonardoLaRosa" target="_blank"><span class="d-block">@LeonardoLaRosa</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Leonardo La Rosa" tabindex="-1" role="dialog" aria-labelledby="Leonardo La RosaTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Leonardo La RosaLabel">Leonardo La Rosa</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/LeonardoLaRosa.jpg" alt="Leonardo La Rosa" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/LeonardoLaRosa" target="_blank"><h5 class="mt-0 mb-1 text-primary">@LeonardoLaRosa</h5></a>
+            <p>Big Data, periodismo e historia...</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Madrid (España)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="uc3m.academia.edu/LEONARDOLAROSA" target="_blank">Sitio web</a></p>
+            
+            <p><i class="fas fa-tag"></i>  <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a>   <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Leo Oliva">
+          <img id="popLeo Oliva" src="/img/loliva.jpg" alt="Leo Oliva" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Leo Oliva"><strong class="text-gray-dark">Leo Oliva</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/loliva" target="_blank"><span class="d-block">@loliva</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Leo Oliva" tabindex="-1" role="dialog" aria-labelledby="Leo OlivaTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Leo OlivaLabel">Leo Oliva</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/loliva.jpg" alt="Leo Oliva" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/loliva" target="_blank"><h5 class="mt-0 mb-1 text-primary">@loliva</h5></a>
+            <p>Periodista (@LosAndesDiario). Docente (@UNCuyo). Autor del libro "La Radio en Mendoza. De la galena a los auditorios"</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Mendoza (Argentina)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://www.facebook.com/LaradioenMendoza/" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> Los Andes Diario</p>
+            <p><i class="fas fa-tag"></i>  <a href="/visualizacion.html" class="btn btn-outline-secondary btn-sm">Visualización</a>   <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Josu Mezo">
+          <img id="popJosu Mezo" src="/img/malaprensa.jpg" alt="Josu Mezo" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Josu Mezo"><strong class="text-gray-dark">Josu Mezo</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/malaprensa" target="_blank"><span class="d-block">@malaprensa</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Josu Mezo" tabindex="-1" role="dialog" aria-labelledby="Josu MezoTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Josu MezoLabel">Josu Mezo</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/malaprensa.jpg" alt="Josu Mezo" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/malaprensa" target="_blank"><h5 class="mt-0 mb-1 text-primary">@malaprensa</h5></a>
+            <p></p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Madrid / Toledo / Bilbao (España)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="http://www.malaprensa.com/" target="_blank">Sitio web</a></p>
+            
+            <p><i class="fas fa-tag"></i>  <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a>   <a href="/analisis.html" class="btn btn-outline-secondary btn-sm">Análisis</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Marc Argemí">
+          <img id="popMarc Argemí" src="/img/marcargemi.jpg" alt="Marc Argemí" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Marc Argemí"><strong class="text-gray-dark">Marc Argemí</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/marcargemi" target="_blank"><span class="d-block">@marcargemi</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Marc Argemí" tabindex="-1" role="dialog" aria-labelledby="Marc ArgemíTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Marc ArgemíLabel">Marc Argemí</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/marcargemi.jpg" alt="Marc Argemí" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/marcargemi" target="_blank"><h5 class="mt-0 mb-1 text-primary">@marcargemi</h5></a>
+            <p>PhD | Comunicació + Tecnologia a @sibilarecom | @uicbarcelona | #Rumor #Data #Com | https://www.linkedin.com/in/marcargemi/  | https://goo.gl/CX8iKN</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Barcelona (España)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="http://www.sibilare.com/" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> Universitat Internacional de Catalunya</p>
+            <p><i class="fas fa-tag"></i>  <a href="/analisis.html" class="btn btn-outline-secondary btn-sm">Análisis</a>   <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Marian Chaparro">
+          <img id="popMarian Chaparro" src="/img/marianchaparro.jpg" alt="Marian Chaparro" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Marian Chaparro"><strong class="text-gray-dark">Marian Chaparro</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/marianchaparro" target="_blank"><span class="d-block">@marianchaparro</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Marian Chaparro" tabindex="-1" role="dialog" aria-labelledby="Marian ChaparroTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Marian ChaparroLabel">Marian Chaparro</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/marianchaparro.jpg" alt="Marian Chaparro" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/marianchaparro" target="_blank"><h5 class="mt-0 mb-1 text-primary">@marianchaparro</h5></a>
+            <p>Doctora en Periodismo | Profesora de redacción y transparencia | Directora del máster en periodismo de datos de @UNIRuniversidad</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Madrid (España)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://www.researchgate.net/profile/Maria_Angeles_Chaparro" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> UNIR Universidad</p>
+            <p><i class="fas fa-tag"></i>  <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a>   <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Marília Gehrke">
+          <img id="popMarília Gehrke" src="/img/marilia_gehrke.jpg" alt="Marília Gehrke" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Marília Gehrke"><strong class="text-gray-dark">Marília Gehrke</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/marilia_gehrke" target="_blank"><span class="d-block">@marilia_gehrke</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Marília Gehrke" tabindex="-1" role="dialog" aria-labelledby="Marília GehrkeTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Marília GehrkeLabel">Marília Gehrke</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/marilia_gehrke.jpg" alt="Marília Gehrke" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/marilia_gehrke" target="_blank"><h5 class="mt-0 mb-1 text-primary">@marilia_gehrke</h5></a>
+            <p>Journalist, researcher, PhD student at UFRGS. Interested in data journalism &amp; good stories.</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Porto Alegre (Brasil)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://www.facebook.com/trocodados" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> UFRGS</p>
+            <p><i class="fas fa-tag"></i>  <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a>   <a href="/investigacion.html" class="btn btn-outline-secondary btn-sm">Investigación</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Camila Salazar">
+          <img id="popCamila Salazar" src="/img/milamila07.jpg" alt="Camila Salazar" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Camila Salazar"><strong class="text-gray-dark">Camila Salazar</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/milamila07" target="_blank"><span class="d-block">@milamila07</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Camila Salazar" tabindex="-1" role="dialog" aria-labelledby="Camila SalazarTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Camila SalazarLabel">Camila Salazar</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/milamila07.jpg" alt="Camila Salazar" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/milamila07" target="_blank"><h5 class="mt-0 mb-1 text-primary">@milamila07</h5></a>
+            <p>Data Journalist. Economist. Data trainer. Open data. Fellow 2015 @EscuelaDeDatos @SchoolOfData Docente UCR</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Alajuela (Costa Rica)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://camilasalazarm.wixsite.com/portafolio" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> Universidad de Costa Rica</p>
+            <p><i class="fas fa-tag"></i>  <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a>   <a href="/proyectos.html" class="btn btn-outline-secondary btn-sm">Proyectos</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Santiago Mota">
+          <img id="popSantiago Mota" src="/img/mota_santiago.jpg" alt="Santiago Mota" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Santiago Mota"><strong class="text-gray-dark">Santiago Mota</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/mota_santiago" target="_blank"><span class="d-block">@mota_santiago</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Santiago Mota" tabindex="-1" role="dialog" aria-labelledby="Santiago MotaTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Santiago MotaLabel">Santiago Mota</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/mota_santiago.jpg" alt="Santiago Mota" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/mota_santiago" target="_blank"><h5 class="mt-0 mb-1 text-primary">@mota_santiago</h5></a>
+            <p>Corporate Advisor. BI Consultant. Big Data Professor at @eoi and @UNED. @kaggle Master</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Madrid (España)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://www.linkedin.com/in/santiagomota/en/" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> EOI Escuela de Negocios </p>
+            <p><i class="fas fa-tag"></i>  <a href="/analisis.html" class="btn btn-outline-secondary btn-sm">Análisis</a>   <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Natália Mazotte">
+          <img id="popNatália Mazotte" src="/img/NataliaMazotte.jpg" alt="Natália Mazotte" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Natália Mazotte"><strong class="text-gray-dark">Natália Mazotte</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/NataliaMazotte" target="_blank"><span class="d-block">@NataliaMazotte</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Natália Mazotte" tabindex="-1" role="dialog" aria-labelledby="Natália MazotteTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Natália MazotteLabel">Natália Mazotte</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/NataliaMazotte.jpg" alt="Natália Mazotte" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/NataliaMazotte" target="_blank"><h5 class="mt-0 mb-1 text-primary">@NataliaMazotte</h5></a>
+            <p>#ddj #datavis #digitalmethods #access2info  #opendata #gender @escoladedados @okfnbr director @generonumero co-founder. Cooking and board game lover</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Brasilia (España)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://escoladedados.org/" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> Escola de dados</p>
+            <p><i class="fas fa-tag"></i>  <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a>   <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Olaya Argüeso">
+          <img id="popOlaya Argüeso" src="/img/oargueso.jpg" alt="Olaya Argüeso" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Olaya Argüeso"><strong class="text-gray-dark">Olaya Argüeso</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/oargueso" target="_blank"><span class="d-block">@oargueso</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Olaya Argüeso" tabindex="-1" role="dialog" aria-labelledby="Olaya ArgüesoTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Olaya ArgüesoLabel">Olaya Argüeso</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/oargueso.jpg" alt="Olaya Argüeso" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/oargueso" target="_blank"><h5 class="mt-0 mb-1 text-primary">@oargueso</h5></a>
+            <p>Data journalist. Coordinator at @M_Investigacion. Before: @La_Ser, @tve_tve, ITX. @ledeprog alumna at @Columbia.</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Madrid (España)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="http://mapapoderfemenino.com/" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> Máster El Mundo</p>
+            <p><i class="fas fa-tag"></i>  <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a>   <a href="/investigacion.html" class="btn btn-outline-secondary btn-sm">Investigación</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Pedro Jiménez">
+          <img id="popPedro Jiménez" src="/img/PedroJimnez.jpg" alt="Pedro Jiménez" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Pedro Jiménez"><strong class="text-gray-dark">Pedro Jiménez</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/PedroJimnez" target="_blank"><span class="d-block">@PedroJimnez</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Pedro Jiménez" tabindex="-1" role="dialog" aria-labelledby="Pedro JiménezTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Pedro JiménezLabel">Pedro Jiménez</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/PedroJimnez.jpg" alt="Pedro Jiménez" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/PedroJimnez" target="_blank"><h5 class="mt-0 mb-1 text-primary">@PedroJimnez</h5></a>
+            <p>Infografista en El Mundo CV. Profesor en @BBAA_UPV y en @Master_d_i. Ilustrador y diseñador gráfico.</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Valencia (España)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="http://infografia-pedrojimenez.blogspot.com/" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> El Mundo</p>
+            <p><i class="fas fa-tag"></i>  <a href="/visualizacion.html" class="btn btn-outline-secondary btn-sm">Visualización</a>   <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Walter Pernas">
+          <img id="popWalter Pernas" src="/img/PernasWalter.jpg" alt="Walter Pernas" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Walter Pernas"><strong class="text-gray-dark">Walter Pernas</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/PernasWalter" target="_blank"><span class="d-block">@PernasWalter</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Walter Pernas" tabindex="-1" role="dialog" aria-labelledby="Walter PernasTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Walter PernasLabel">Walter Pernas</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/PernasWalter.jpg" alt="Walter Pernas" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/PernasWalter" target="_blank"><h5 class="mt-0 mb-1 text-primary">@PernasWalter</h5></a>
+            <p>Periodista especializado en investigación. Director de http://sudestada.com.uy   Escritor. Docente de periodismo en Universidad de la República.</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Montevideo (Uruguay)</p>
+            
+            <p><i class="far fa-building"></i> Sudesdata</p>
+            <p><i class="fas fa-tag"></i>  <a href="/investigacion.html" class="btn btn-outline-secondary btn-sm">Investigación</a>   <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Pilar Lopez">
+          <img id="popPilar Lopez" src="/img/Pilarjlopez.jpg" alt="Pilar Lopez" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Pilar Lopez"><strong class="text-gray-dark">Pilar Lopez</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/Pilarjlopez" target="_blank"><span class="d-block">@Pilarjlopez</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Pilar Lopez" tabindex="-1" role="dialog" aria-labelledby="Pilar LopezTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Pilar LopezLabel">Pilar Lopez</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/Pilarjlopez.jpg" alt="Pilar Lopez" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/Pilarjlopez" target="_blank"><h5 class="mt-0 mb-1 text-primary">@Pilarjlopez</h5></a>
+            <p>Almeriense en Madrid. Periodista e informática investigando el Periodismo de Datos y la Ley de Transparencia en la UCM.</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Madrid (España)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://www.linkedin.com/in/pilarl/" target="_blank">Sitio web</a></p>
+            
+            <p><i class="fas fa-tag"></i>  <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a>   <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Raúl Camañas">
+          <img id="popRaúl Camañas" src="/img/raulcamanas.jpg" alt="Raúl Camañas" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Raúl Camañas"><strong class="text-gray-dark">Raúl Camañas</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/raulcamanas" target="_blank"><span class="d-block">@raulcamanas</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Raúl Camañas" tabindex="-1" role="dialog" aria-labelledby="Raúl CamañasTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Raúl CamañasLabel">Raúl Camañas</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/raulcamanas.jpg" alt="Raúl Camañas" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/raulcamanas" target="_blank"><h5 class="mt-0 mb-1 text-primary">@raulcamanas</h5></a>
+            <p>Infografista en el periódico @lavanguardia. Ex @elmundoes. Profesor en @Bau_Bcn y @seeway. Papá al cuadrado.</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Barcelona (España)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="http://visualoop.com/raulcamanas" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> La Vanguardia</p>
+            <p><i class="fas fa-tag"></i>  <a href="/visualizacion.html" class="btn btn-outline-secondary btn-sm">Visualización</a>   <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Sandra Crucianelli">
+          <img id="popSandra Crucianelli" src="/img/spcrucianelli.jpg" alt="Sandra Crucianelli" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Sandra Crucianelli"><strong class="text-gray-dark">Sandra Crucianelli</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/spcrucianelli" target="_blank"><span class="d-block">@spcrucianelli</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Sandra Crucianelli" tabindex="-1" role="dialog" aria-labelledby="Sandra CrucianelliTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Sandra CrucianelliLabel">Sandra Crucianelli</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/spcrucianelli.jpg" alt="Sandra Crucianelli" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/spcrucianelli" target="_blank"><h5 class="mt-0 mb-1 text-primary">@spcrucianelli</h5></a>
+            <p>Periodista de datos Knight Fellow (ICFJ) @ICFJ #PanamaPapers y #ParadisePapers Argentina Team (ICIJ) @ICIJ Trainer for @centroknightut</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Bahía Blanca (Argentina)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://www.icfj.org/news/knight-fellows-create-data-tools-help-journalists-tell-better-stories" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> ICIJ</p>
+            <p><i class="fas fa-tag"></i>  <a href="/investigacion.html" class="btn btn-outline-secondary btn-sm">Investigación</a>   <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Francesc García">
+          <img id="popFrancesc García" src="/img/txescu.jpg" alt="Francesc García" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Francesc García"><strong class="text-gray-dark">Francesc García</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/txescu" target="_blank"><span class="d-block">@txescu</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Francesc García" tabindex="-1" role="dialog" aria-labelledby="Francesc GarcíaTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Francesc GarcíaLabel">Francesc García</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/txescu.jpg" alt="Francesc García" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/txescu" target="_blank"><h5 class="mt-0 mb-1 text-primary">@txescu</h5></a>
+            <p>#SIGMAresearch Consultant @SIGMA_AIE #SIGMAAIE; Assistant Professor @Dret_UB; Student @UOCinfocom #GEICOUOC. RTs ≠ endorsements; My tweets are my own #MTAMO.</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Barcelona (España)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://www.linkedin.com/in/txescu/" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> SIGMA_AIE</p>
+            <p><i class="fas fa-tag"></i>  <a href="/desarrollo.html" class="btn btn-outline-secondary btn-sm">Desarrollo</a>   <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Victòria Miró">
+          <img id="popVictòria Miró" src="/img/vickymiro.jpg" alt="Victòria Miró" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Victòria Miró"><strong class="text-gray-dark">Victòria Miró</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/vickymiro" target="_blank"><span class="d-block">@vickymiro</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Victòria Miró" tabindex="-1" role="dialog" aria-labelledby="Victòria MiróTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Victòria MiróLabel">Victòria Miró</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/vickymiro.jpg" alt="Victòria Miró" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/vickymiro" target="_blank"><h5 class="mt-0 mb-1 text-primary">@vickymiro</h5></a>
+            <p>Periodista a @tv3cat. #Tecnologia i #culturadigital al #TNTV3. Abans @324cat. Professora a @BlanquernaFCRI. El @MasterLitTIC em va dur fins a NY</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Barcelona (España)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://vickymiro.cat/" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> TV3</p>
+            <p><i class="fas fa-tag"></i>  <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a>   <a href="/visualizacion.html" class="btn btn-outline-secondary btn-sm">Visualización</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Willian F. Araújo">
+          <img id="popWillian F. Araújo" src="/img/willianaraujo.jpg" alt="Willian F. Araújo" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Willian F. Araújo"><strong class="text-gray-dark">Willian F. Araújo</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/willianaraujo" target="_blank"><span class="d-block">@willianaraujo</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Willian F. Araújo" tabindex="-1" role="dialog" aria-labelledby="Willian F. AraújoTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Willian F. AraújoLabel">Willian F. Araújo</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/willianaraujo.jpg" alt="Willian F. Araújo" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/willianaraujo" target="_blank"><h5 class="mt-0 mb-1 text-primary">@willianaraujo</h5></a>
+            <p>Journalist and PhD in Communication and Information at UFRGS/Brazil. Researching = STS + Algorithms + Personalization + Digital Platforms</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Porto Alegre (Brasil)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://willianfaraujo.wordpress.com/" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> Universidade Federal do Rio Grande do Sul</p>
+            <p><i class="fas fa-tag"></i>  <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a>   <a href="/analisis.html" class="btn btn-outline-secondary btn-sm">Análisis</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Ximena Villagrán">
+          <img id="popXimena Villagrán" src="/img/ximenavillab.jpg" alt="Ximena Villagrán" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Ximena Villagrán"><strong class="text-gray-dark">Ximena Villagrán</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/ximenavillab" target="_blank"><span class="d-block">@ximenavillab</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Ximena Villagrán" tabindex="-1" role="dialog" aria-labelledby="Ximena VillagránTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Ximena VillagránLabel">Ximena Villagrán</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/ximenavillab.jpg" alt="Ximena Villagrán" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/ximenavillab" target="_blank"><h5 class="mt-0 mb-1 text-primary">@ximenavillab</h5></a>
+            <p>Mi versión mejorada la crearon en @M_Investigacion | Fellow 2016 de @SchoolOfData @EscuelaDeDatos | Freelance y en @_El_Intercambio #DDJ #periodismodatos</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i>  (Guatemala / España)</p>
+            
+            <p><i class="far fa-building"></i> El Intercambio</p>
+            <p><i class="fas fa-tag"></i>  <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a>   <a href="/investigacion.html" class="btn btn-outline-secondary btn-sm">Investigación</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    <!-- Link trigger modal -->
+        <div class="media text-muted pt-3 border-bottom border-gray">
+        <a href="#" data-toggle="modal" data-target="#Yudivián Almeida">
+          <img id="popYudivián Almeida" src="/img/yudivian.jpg" alt="Yudivián Almeida" class="mr-2 rounded" width="48" height="48" />
+            </a>  
+          <div class="media-body pb-3 mb-0">
+            <div class="d-flex justify-content-between align-items-center w-100">
+              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Yudivián Almeida"><strong class="text-gray-dark">Yudivián Almeida</strong></a>
+            </div>
+            <a class="text-secondary" href="https://twitter.com/yudivian" target="_blank"><span class="d-block">@yudivian</span></a>
+          </div>
+        </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="Yudivián Almeida" tabindex="-1" role="dialog" aria-labelledby="Yudivián AlmeidaTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Yudivián AlmeidaLabel">Yudivián Almeida</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="/img/yudivian.jpg" alt="Yudivián Almeida" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/yudivian" target="_blank"><h5 class="mt-0 mb-1 text-primary">@yudivian</h5></a>
+            <p>Cibernético, Profesor, Aprendiz ,Soñador</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> La Habana (Cuba)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="http://www.postdata.club/" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> Postdata</p>
+            <p><i class="fas fa-tag"></i>  <a href="/proyectos.html" class="btn btn-outline-secondary btn-sm">Proyectos</a>   <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+	
+	  
+
+    
+      </div>
+:ET
