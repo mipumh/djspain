@@ -1,25 +1,95 @@
 ---
 layout: default
 ---
+  <div class="container px-4 py-5" id="custom-cards">
+    <h2 class="pb-2 border-bottom">Entrevistas seleccionadas</h2>
+
+    <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5">
+      <div class="col">
+        <div class="card card-cover h-100 overflow-hidden text-bg-dark rounded-4 shadow-lg" style="background-image: url('unsplash-photo-1.jpg');">
+          <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+            <h3 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Short title, long jacket</h3>
+            <ul class="d-flex list-unstyled mt-auto">
+              <li class="me-auto">
+                <img src="https://github.com/mdo.png" alt="Bootstrap" width="32" height="32" class="rounded-circle border border-white">
+              </li>
+              <li class="d-flex align-items-center me-3">
+                <svg class="bi me-2" width="1em" height="1em"><use xlink:href="#geo-fill"/></svg>
+                <small>Earth</small>
+              </li>
+              <li class="d-flex align-items-center">
+                <svg class="bi me-2" width="1em" height="1em"><use xlink:href="#calendar3"/></svg>
+                <small>3d</small>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card card-cover h-100 overflow-hidden text-bg-dark rounded-4 shadow-lg" style="background-image: url('unsplash-photo-2.jpg');">
+          <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+            <h3 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Much longer title that wraps to multiple lines</h3>
+            <ul class="d-flex list-unstyled mt-auto">
+              <li class="me-auto">
+                <img src="https://github.com/twbs.png" alt="Bootstrap" width="32" height="32" class="rounded-circle border border-white">
+              </li>
+              <li class="d-flex align-items-center me-3">
+                <svg class="bi me-2" width="1em" height="1em"><use xlink:href="#geo-fill"/></svg>
+                <small>Pakistan</small>
+              </li>
+              <li class="d-flex align-items-center">
+                <svg class="bi me-2" width="1em" height="1em"><use xlink:href="#calendar3"/></svg>
+                <small>4d</small>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card card-cover h-100 overflow-hidden text-bg-dark rounded-4 shadow-lg" style="background-image: url('unsplash-photo-3.jpg');">
+          <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
+            <h3 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Another longer title belongs here</h3>
+            <ul class="d-flex list-unstyled mt-auto">
+              <li class="me-auto">
+                <img src="https://github.com/twbs.png" alt="Bootstrap" width="32" height="32" class="rounded-circle border border-white">
+              </li>
+              <li class="d-flex align-items-center me-3">
+                <svg class="bi me-2" width="1em" height="1em"><use xlink:href="#geo-fill"/></svg>
+                <small>California</small>
+              </li>
+              <li class="d-flex align-items-center">
+                <svg class="bi me-2" width="1em" height="1em"><use xlink:href="#calendar3"/></svg>
+                <small>5d</small>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+      
 
       <div class="my-3 p-3 bg-white rounded box-shadow">
         <div id="results-container"></div>  
 
-        <h6 class="border-bottom border-gray pb-2 mb-0">Lista general</h6>
+        <h6 class="pb-2">Lista general</h6>
+
+<div class="list-group mb-3">
+    {% for journos in site.data.journos %}
+    <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#{{ journos.nombre }}">
+      <img id="{{ journos.modal }}" src="https://unavatar.io/twitter/{{ journos.alias }}" alt="{{ journos.nombre }}" width="32" height="32" class="rounded me-2" loading="lazy">
+      <span>
+        <strong>{{ journos.nombre }}</strong> @{{ journos.alias }}
+      </span>
+    </a>
+    {% endfor %}
+
+</div>
 
     {% for journos in site.data.journos %}
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#{{ journos.nombre }}">
-          <img id="{{ journos.modal }}" src="https://unavatar.io/twitter/{{ journos.alias }}" alt="{{ journos.nombre }}" class="mr-2 rounded" width="48" height="48">
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#{{ journos.nombre }}"><strong class="text-gray-dark">{{ journos.nombre }}</strong></a>
-            </div>
-            <a class="text-secondary" href="{{ journos.twitter }}" target="_blank"><span class="d-block">@{{ journos.alias }}</span></a>
-          </div>
-        </div>
-
       <!-- Modal -->
       <div class="modal fade" id="{{ journos.nombre }}" tabindex="-1" role="dialog" aria-labelledby="{{ journos.nombre }}Title" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered" role="document">
