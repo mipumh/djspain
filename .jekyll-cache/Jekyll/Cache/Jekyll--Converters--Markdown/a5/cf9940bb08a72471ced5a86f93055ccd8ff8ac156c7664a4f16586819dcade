@@ -1,0 +1,1941 @@
+I"�<div class="my-3 p-3">
+
+      <h4 class="border-bottom border-gray pb-2 mt-3">Profesionales en #redacción</h4>
+      
+      <div class="col-lg-12 mx-auto pb-3" id="search-demo-container">
+            <div class="filter-parent" id="search">
+            <label for="filter-by"></label>
+            <input type="text" placeholder="Buscar periodistas" id="search-input" class="form-control input-lg" tabindex="1" />
+            </div>
+        </div>
+        <div class="col col-lg-12 col-sm-12">
+            <p class="small text-light"><a href="/redaccion.html">#redacción</a> | <a href="/academia.html"> #academia</a> | <a href="/proyectos.html">#proyectos</a> | <a href="/desarrollo.html">#desarrollo</a> | <a href="/visualizacion.html">#visualización</a> | <a href="/verificacion.html">#verificación</a> | <a href="/transparencia.html">#transparencia</a> | <a href="/investigacion.html">#investigación</a> | <a href="/analisis.html">#análisis</a></p>
+        </div>
+
+      <div id="results-container"></div>  
+
+      <div class="list-group mb-3">
+        
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#AdrianPino">
+            <img id="popAdrianPino" src="https://unavatar.io/twitter/adrianpino22" alt="AdrianPino" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>AdrianPino</strong> @adrianpino22
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Aitana ConstansBelda">
+            <img id="popAitana Constans Belda" src="https://unavatar.io/twitter/AitanaConstansB" alt="Aitana ConstansBelda" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Aitana ConstansBelda</strong> @AitanaConstansB
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Alberto González">
+            <img id="popAlberto González" src="https://unavatar.io/twitter/betoforeverone" alt="Alberto González" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Alberto González</strong> @betoforeverone
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Ana Gómez Parra">
+            <img id="popAna Gómez Parra" src="https://unavatar.io/twitter/anagomezparra" alt="Ana Gómez Parra" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Ana Gómez Parra</strong> @anagomezparra
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Arysbell Arismendi">
+            <img id="popArysbell Arismendi" src="https://unavatar.io/twitter/ArysArismendi" alt="Arysbell Arismendi" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Arysbell Arismendi</strong> @ArysArismendi
+            </span>
+          </a>
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Beatriz Gálvez">
+            <img id="popBeatriz Gálvez" src="https://unavatar.io/twitter/beaglvz" alt="Beatriz Gálvez" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Beatriz Gálvez</strong> @beaglvz
+            </span>
+          </a>
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Belén Belmonte">
+            <img id="popBelén Belmonte" src="https://unavatar.io/twitter/bbelmontea" alt="Belén Belmonte" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Belén Belmonte</strong> @bbelmontea
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Brom Ricardo German">
+            <img id="popBrom Ricardo German" src="https://unavatar.io/twitter/rgbrom" alt="Brom Ricardo German" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Brom Ricardo German</strong> @rgbrom
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Claudia Ocaranza">
+            <img id="popClaudia Ocaranza" src="https://unavatar.io/twitter/clauocaranza" alt="Claudia Ocaranza" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Claudia Ocaranza</strong> @clauocaranza
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Elizabeth Ortiz">
+            <img id="popElizabeth Ortiz" src="https://unavatar.io/twitter/LizOrtizTapia" alt="Elizabeth Ortiz" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Elizabeth Ortiz</strong> @LizOrtizTapia
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Ernesto Guerra">
+            <img id="popErnesto Guerra" src="https://unavatar.io/twitter/ErnestoGuerra21" alt="Ernesto Guerra" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Ernesto Guerra</strong> @ErnestoGuerra21
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Gabriela Miño">
+            <img id="popGabriela Miño" src="https://unavatar.io/twitter/gabymino" alt="Gabriela Miño" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Gabriela Miño</strong> @gabymino
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Hugo Alconada Mon">
+            <img id="popHugo Alconada Mon" src="https://unavatar.io/twitter/halconada" alt="Hugo Alconada Mon" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Hugo Alconada Mon</strong> @halconada
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Iván Ruiz">
+            <img id="popIván Ruiz" src="https://unavatar.io/twitter/iruiz" alt="Iván Ruiz" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Iván Ruiz</strong> @iruiz
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Laura Placer Breijo">
+            <img id="popLaura Placer Breijo" src="https://unavatar.io/twitter/Laurapbr" alt="Laura Placer Breijo" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Laura Placer Breijo</strong> @Laurapbr
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Manuel Varela">
+            <img id="popManuel Varela" src="https://unavatar.io/twitter/manuel_varfar" alt="Manuel Varela" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Manuel Varela</strong> @manuel_varfar
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Marta Ley">
+            <img id="popMarta Ley" src="https://unavatar.io/twitter/leymarta" alt="Marta Ley" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Marta Ley</strong> @leymarta
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Oriana Vielma Gómez">
+            <img id="popOriana Vielma Gómez" src="https://unavatar.io/twitter/OriVielma" alt="Oriana Vielma Gómez" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Oriana Vielma Gómez</strong> @OriVielma
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Verónica Ramírez">
+            <img id="popVerónica Ramírez" src="https://unavatar.io/twitter/VeritaRa" alt="Verónica Ramírez" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Verónica Ramírez</strong> @VeritaRa
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+      </div>
+
+    
+            
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="AdrianPino" tabindex="-1" role="dialog" aria-labelledby="AdrianPinoTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="AdrianPinoLabel">AdrianPino</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/adrianpino22" alt="AdrianPino" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/adrianpino22" target="_blank"><h5 class="mt-0 mb-1 text-primary">@adrianpino22</h5></a>
+            <p>Periodista. Coord @DataConcepcion  Apasionado por el Periodismo de Datos, DataViz y open data..Docente Universitario. Amante del mate amargo (Arg) http://desconfio.org</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Concepción (Argentina)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="http://datosconcepcion.com.ar" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> Datos Concepción</p>
+            <p><i class="fas fa-tag"></i>  <a href="/redaccion.html" class="btn btn-outline-secondary btn-sm">Redacción</a>   <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Aitana ConstansBelda" tabindex="-1" role="dialog" aria-labelledby="Aitana ConstansBeldaTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Aitana ConstansBeldaLabel">Aitana ConstansBelda</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/AitanaConstansB" alt="Aitana ConstansBelda" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/AitanaConstansB" target="_blank"><h5 class="mt-0 mb-1 text-primary">@AitanaConstansB</h5></a>
+            <p>Periodista de #Datos made in @M_Investigacion. #datajournalism #ddj</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Madrid at the Moment</p>
+            
+            
+            <p><i class="fas fa-tag"></i>  <a href="/redaccion.html" class="btn btn-outline-secondary btn-sm">Redacción</a>  </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Alberto González" tabindex="-1" role="dialog" aria-labelledby="Alberto GonzálezTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Alberto GonzálezLabel">Alberto González</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/betoforeverone" alt="Alberto González" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/betoforeverone" target="_blank"><h5 class="mt-0 mb-1 text-primary">@betoforeverone</h5></a>
+            <p>Periodista con opinión subjetiva, porque la objetividad es una utopía | Investigación y Periodismo de Datos en @biobio | Deportista de bajísimo rendimiento</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Concepción, Chile</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://www.facebook.com/#!/betogonzalez" target="_blank">Sitio web</a></p>
+            
+            <p><i class="fas fa-tag"></i>  <a href="/redaccion.html" class="btn btn-outline-secondary btn-sm">Redacción</a>   <a href="/investigacion.html" class="btn btn-outline-secondary btn-sm">Investigación</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Ana Gómez Parra" tabindex="-1" role="dialog" aria-labelledby="Ana Gómez ParraTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Ana Gómez ParraLabel">Ana Gómez Parra</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/anagomezparra" alt="Ana Gómez Parra" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/anagomezparra" target="_blank"><h5 class="mt-0 mb-1 text-primary">@anagomezparra</h5></a>
+            <p>Periodista. Ya no vivo tanto al revés</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Madrid</p>
+            
+            
+            <p><i class="fas fa-tag"></i>  <a href="/redaccion.html" class="btn btn-outline-secondary btn-sm">Redacción</a>   <a href="/investigacion.html" class="btn btn-outline-secondary btn-sm">Investigación</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Arysbell Arismendi" tabindex="-1" role="dialog" aria-labelledby="Arysbell ArismendiTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Arysbell ArismendiLabel">Arysbell Arismendi</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/ArysArismendi" alt="Arysbell Arismendi" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/ArysArismendi" target="_blank"><h5 class="mt-0 mb-1 text-primary">@ArysArismendi</h5></a>
+            <p></p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> San Salvador, El Salvador</p>
+            
+            
+            <p><i class="fas fa-tag"></i>  <a href="/investigacion.html" class="btn btn-outline-secondary btn-sm">Investigación</a>   <a href="/redaccion.html" class="btn btn-outline-secondary btn-sm">Redacción</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Beatriz Gálvez" tabindex="-1" role="dialog" aria-labelledby="Beatriz GálvezTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Beatriz GálvezLabel">Beatriz Gálvez</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/beaglvz" alt="Beatriz Gálvez" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/beaglvz" target="_blank"><h5 class="mt-0 mb-1 text-primary">@beaglvz</h5></a>
+            <p>Data &amp; Investigative Journalist. Antes, en @24h_tve y @tve_catalunya. miembro de @ACCC_ y @P_Investigacion. PGP: https://goo.gl/hsvzVb</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Madrid, Comunidad de Madrid</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://about.me/beatrizgalvez" target="_blank">Sitio web</a></p>
+            
+            <p><i class="fas fa-tag"></i>  <a href="/analisis.html" class="btn btn-outline-secondary btn-sm">Análisis</a>   <a href="/redaccion.html" class="btn btn-outline-secondary btn-sm">Redacción</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Belén Belmonte" tabindex="-1" role="dialog" aria-labelledby="Belén BelmonteTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Belén BelmonteLabel">Belén Belmonte</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/bbelmontea" alt="Belén Belmonte" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/bbelmontea" target="_blank"><h5 class="mt-0 mb-1 text-primary">@bbelmontea</h5></a>
+            <p>Data journalist and news reporter at energy news and data provider @montelnews_ES bbelmontea@gmail.com</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Madrid, Comunidad de Madrid</p>
+            
+            
+            <p><i class="fas fa-tag"></i>  <a href="/visualizacion.html" class="btn btn-outline-secondary btn-sm">Visualización</a>   <a href="/redaccion.html" class="btn btn-outline-secondary btn-sm">Redacción</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Brom Ricardo German" tabindex="-1" role="dialog" aria-labelledby="Brom Ricardo GermanTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Brom Ricardo GermanLabel">Brom Ricardo German</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/rgbrom" alt="Brom Ricardo German" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/rgbrom" target="_blank"><h5 class="mt-0 mb-1 text-primary">@rgbrom</h5></a>
+            <p>From La Nacion, searching data, wherever it is.</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Buenos Aires (Argentina)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://lanacion.com.ar" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> La Nación</p>
+            <p><i class="fas fa-tag"></i>  <a href="/redaccion.html" class="btn btn-outline-secondary btn-sm">Redacción</a>   <a href="/analisis.html" class="btn btn-outline-secondary btn-sm">Análisis</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Claudia Ocaranza" tabindex="-1" role="dialog" aria-labelledby="Claudia OcaranzaTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Claudia OcaranzaLabel">Claudia Ocaranza</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/clauocaranza" alt="Claudia Ocaranza" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/clauocaranza" target="_blank"><h5 class="mt-0 mb-1 text-primary">@clauocaranza</h5></a>
+            <p>Periodista en @ProjectPODER. #Investigación &amp; #ddj. La Messi de las preguntas. Máster en @M_Investigacion. Tuits a título personal. México.</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Ciudad de México (México)</p>
+            
+            <p><i class="far fa-building"></i> Poder</p>
+            <p><i class="fas fa-tag"></i>  <a href="/investigacion.html" class="btn btn-outline-secondary btn-sm">Investigación</a>   <a href="/redaccion.html" class="btn btn-outline-secondary btn-sm">Redacción</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Elizabeth Ortiz" tabindex="-1" role="dialog" aria-labelledby="Elizabeth OrtizTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Elizabeth OrtizLabel">Elizabeth Ortiz</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/LizOrtizTapia" alt="Elizabeth Ortiz" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/LizOrtizTapia" target="_blank"><h5 class="mt-0 mb-1 text-primary">@LizOrtizTapia</h5></a>
+            <p>Generación de contenidos multimedia. Experiencia en cobertura de negocios. Periodismo de datos.</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Guadalajara, México</p>
+            
+            
+            <p><i class="fas fa-tag"></i>  <a href="/investigacion.html" class="btn btn-outline-secondary btn-sm">Investigación</a>   <a href="/redaccion.html" class="btn btn-outline-secondary btn-sm">Redacción</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Ernesto Guerra" tabindex="-1" role="dialog" aria-labelledby="Ernesto GuerraTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Ernesto GuerraLabel">Ernesto Guerra</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/ErnestoGuerra21" alt="Ernesto Guerra" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/ErnestoGuerra21" target="_blank"><h5 class="mt-0 mb-1 text-primary">@ErnestoGuerra21</h5></a>
+            <p>Uno de los fundadores de @PostdataClub, primer sitio cubano especializado en periodismo de datos. Jefe de Redacción en Juventud Técnica. Geek, nerd.</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> La Habana (Cuba)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="http://infulasdeescritor.wordpress.com" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> Juventud Técnica</p>
+            <p><i class="fas fa-tag"></i>  <a href="/proyectos.html" class="btn btn-outline-secondary btn-sm">Proyectos</a>   <a href="/redaccion.html" class="btn btn-outline-secondary btn-sm">Redacción</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Gabriela Miño" tabindex="-1" role="dialog" aria-labelledby="Gabriela MiñoTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Gabriela MiñoLabel">Gabriela Miño</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/gabymino" alt="Gabriela Miño" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/gabymino" target="_blank"><h5 class="mt-0 mb-1 text-primary">@gabymino</h5></a>
+            <p>Diario La Nación, integrante del equipo de periodismo de datos en LN DATA</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Argentina</p>
+            
+            
+            <p><i class="fas fa-tag"></i>  <a href="/redaccion.html" class="btn btn-outline-secondary btn-sm">Redacción</a>   <a href="/investigacion.html" class="btn btn-outline-secondary btn-sm">Investigación</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Hugo Alconada Mon" tabindex="-1" role="dialog" aria-labelledby="Hugo Alconada MonTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Hugo Alconada MonLabel">Hugo Alconada Mon</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/halconada" alt="Hugo Alconada Mon" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/halconada" target="_blank"><h5 class="mt-0 mb-1 text-primary">@halconada</h5></a>
+            <p>abogado; periodista en @lanacion; miembro de @icijorg; colaborador en @nytimesES; maestro de la @fnpi; http://alconadamon.com</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Buenos Aires (Argentina)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="http://facebook.com/halconada" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> La Nación</p>
+            <p><i class="fas fa-tag"></i>  <a href="/investigacion.html" class="btn btn-outline-secondary btn-sm">Investigación</a>   <a href="/redaccion.html" class="btn btn-outline-secondary btn-sm">Redacción</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Iván Ruiz" tabindex="-1" role="dialog" aria-labelledby="Iván RuizTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Iván RuizLabel">Iván Ruiz</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/iruiz" alt="Iván Ruiz" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/iruiz" target="_blank"><h5 class="mt-0 mb-1 text-primary">@iruiz</h5></a>
+            <p>Periodista/Journalist. Investigación &amp; Datos en @LANACION. Editor en @Connectasorg. Proud member of @ICIJorg. Siempre #PanamaPapers. Muy hincha de Vélez.</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Buenos Aires, Argentina</p>
+            
+            
+            <p><i class="fas fa-tag"></i>  <a href="/investigacion.html" class="btn btn-outline-secondary btn-sm">Investigación</a>   <a href="/redaccion.html" class="btn btn-outline-secondary btn-sm">Redacción</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Laura Placer Breijo" tabindex="-1" role="dialog" aria-labelledby="Laura Placer BreijoTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Laura Placer BreijoLabel">Laura Placer Breijo</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/Laurapbr" alt="Laura Placer Breijo" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/Laurapbr" target="_blank"><h5 class="mt-0 mb-1 text-primary">@Laurapbr</h5></a>
+            <p>Periodista por la USC, de datos por la UNIR. En La Voz de Galicia me dejan hacer infografías y hablar de Eurovisión.</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> A Coruña (España)</p>
+            
+            <p><i class="far fa-building"></i> La Voz de Galicia</p>
+            <p><i class="fas fa-tag"></i>  <a href="/visualizacion.html" class="btn btn-outline-secondary btn-sm">Visualización</a>   <a href="/redaccion.html" class="btn btn-outline-secondary btn-sm">Redacción</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Manuel Varela" tabindex="-1" role="dialog" aria-labelledby="Manuel VarelaTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Manuel VarelaLabel">Manuel Varela</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/manuel_varfar" alt="Manuel Varela" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/manuel_varfar" target="_blank"><h5 class="mt-0 mb-1 text-primary">@manuel_varfar</h5></a>
+            <p>Journalist. Xornalista #ddj @lavozdegalicia</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> A Coruña, Galicia</p>
+            
+            
+            <p><i class="fas fa-tag"></i>  <a href="/redaccion.html" class="btn btn-outline-secondary btn-sm">Redacción</a>   <a href="/visualizacion.html" class="btn btn-outline-secondary btn-sm">Visualización</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Marta Ley" tabindex="-1" role="dialog" aria-labelledby="Marta LeyTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Marta LeyLabel">Marta Ley</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/leymarta" alt="Marta Ley" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/leymarta" target="_blank"><h5 class="mt-0 mb-1 text-primary">@leymarta</h5></a>
+            <p>Periodista. Especializada en #periodismodatos en el @M_investigacion. En @elmundodata</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Alcalá de Henares. Madrid</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://www.elmundo.es/periodismo-de-datos.html" target="_blank">Sitio web</a></p>
+            
+            <p><i class="fas fa-tag"></i>  <a href="/redaccion.html" class="btn btn-outline-secondary btn-sm">Redacción</a>   <a href="/investigacion.html" class="btn btn-outline-secondary btn-sm">Investigación</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Oriana Vielma Gómez" tabindex="-1" role="dialog" aria-labelledby="Oriana Vielma GómezTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Oriana Vielma GómezLabel">Oriana Vielma Gómez</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/OriVielma" alt="Oriana Vielma Gómez" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/OriVielma" target="_blank"><h5 class="mt-0 mb-1 text-primary">@OriVielma</h5></a>
+            <p>Political journalist / Periodista de política incursionando en investigación / Periodismo de datos / Especialización en Sistemas Electorales (UCV). Ciudadana.</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Caracas, Venezuela</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="http://oevenezolano.org" target="_blank">Sitio web</a></p>
+            
+            <p><i class="fas fa-tag"></i>  <a href="/redaccion.html" class="btn btn-outline-secondary btn-sm">Redacción</a>   <a href="/investigacion.html" class="btn btn-outline-secondary btn-sm">Investigación</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Verónica Ramírez" tabindex="-1" role="dialog" aria-labelledby="Verónica RamírezTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Verónica RamírezLabel">Verónica Ramírez</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/VeritaRa" alt="Verónica Ramírez" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/VeritaRa" target="_blank"><h5 class="mt-0 mb-1 text-primary">@VeritaRa</h5></a>
+            <p>Journalist in http://laSexta.com  @sextanoticias. Profe en @UNIRuniversidad. Aprendí #ddj #transparencia en @M_Investigacion. Siempre aprendiendo.</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> San Sebastián de los Reyes (España)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://www.linkedin.com/in/veronicaramirezms/" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> La Sexta</p>
+            <p><i class="fas fa-tag"></i>  <a href="/redaccion.html" class="btn btn-outline-secondary btn-sm">Redacción</a>  </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+
+</div>
+:ET

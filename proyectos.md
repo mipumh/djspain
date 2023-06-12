@@ -1,27 +1,38 @@
 ---
 layout: default
 ---
-<div class="my-3 p-3 bg-white rounded box-shadow">
-        <div id="results-container"></div>  
+<div class="my-3 p-3">
 
-        <h6 class="border-bottom border-gray pb-2 mb-0">Profesionales en #proyectos</h6>
+      <h4 class="border-bottom border-gray pb-2 mt-3">Profesionales en #proyectos</h4>
+      
+      <div class="col-lg-12 mx-auto pb-3" id="search-demo-container">
+            <div class="filter-parent" id="search">
+            <label for="filter-by"></label>
+            <input type="text" placeholder="Buscar periodistas" id="search-input" class="form-control input-lg" tabindex="1">
+            </div>
+        </div>
+        <div class="col col-lg-12 col-sm-12">
+            <p class="small text-light"><a href="{{ site.baseurl }}/redaccion.html">#redacción</a> | <a href="/academia.html"> #academia</a> | <a href="/proyectos.html">#proyectos</a> | <a href="/desarrollo.html">#desarrollo</a> | <a href="/visualizacion.html">#visualización</a> | <a href="/verificacion.html">#verificación</a> | <a href="/transparencia.html">#transparencia</a> | <a href="/investigacion.html">#investigación</a> | <a href="/analisis.html">#análisis</a></p>
+        </div>
+
+      <div class="list-group mb-3" id="results-container"></div>  
+
+      <div class="list-group mb-3">
+        {% for journos in site.data.journos %}
+            {% if journos.tag_1 == "Proyectos" or journos.tag_2 == "Proyectos" %}
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#{{ journos.nombre }}">
+            <img id="{{ journos.modal }}" src="https://unavatar.io/twitter/{{ journos.alias }}" alt="{{ journos.nombre }}" width="32" height="32" class="rounded me-2" loading="lazy">
+            <span>
+              <strong>{{ journos.nombre }}</strong> @{{ journos.alias }}
+            </span>
+          </a>
+            {% endif %}
+          {% endfor %}
+      </div>
 
     {% for journos in site.data.journos %}
-	
-	  {% if journos.tag_1 == "Proyectos" or journos.tag_2 == "Proyectos" %}
-
-      <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#{{ journos.nombre }}">
-          <img id="{{ journos.modal }}" src="https://unavatar.io/twitter/{{ journos.alias }}" alt="{{ journos.nombre }}" class="mr-2 rounded" width="48" height="48">
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#{{ journos.nombre }}"><strong class="text-gray-dark">{{ journos.nombre }}</strong></a>
-            </div>
-            <a class="text-secondary" href="{{ journos.twitter }}" target="_blank"><span class="d-block">@{{ journos.alias }}</span></a>
-          </div>
-        </div>
+            {% if journos.tag_1 == "Proyectos" or journos.tag_2 == "Proyectos" %}
 
       <!-- Modal -->
       <div class="modal fade" id="{{ journos.nombre }}" tabindex="-1" role="dialog" aria-labelledby="{{ journos.nombre }}Title" aria-hidden="true">
@@ -35,8 +46,7 @@ layout: default
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="{{ journos.imagen }}" alt="{{ journos.nombre }}" width="72" height="72">
-            <img id="{{ journos.modal }}" src="https://unavatar.io/twitter/{{ journos.alias }}" alt="{{ journos.nombre }}" class="mr-2 rounded" width="72" height="72">            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/{{ journos.alias }}" alt="{{ journos.nombre }}" width="72" height="72">
             <div class="media-body">
             <a style="text-decoration:none" href="{{ journos.twitter }}" target="_blank"><h5 class="mt-0 mb-1 text-primary">@{{ journos.alias }}</h5></a>
             <p>{{ journos.perfil }}</p>
@@ -54,6 +64,6 @@ layout: default
         </div>
       </div>
         {% endif %}
-
     {% endfor %}
-      </div>
+
+</div>

@@ -1,0 +1,3111 @@
+I"��<div class="my-3 p-3">
+
+      <h4 class="border-bottom border-gray pb-2 mt-3">Profesionales en #transparencia</h4>
+      
+      <div class="col-lg-12 mx-auto pb-3" id="search-demo-container">
+            <div class="filter-parent" id="search">
+            <label for="filter-by"></label>
+            <input type="text" placeholder="Buscar periodistas" id="search-input" class="form-control input-lg" tabindex="1" />
+            </div>
+        </div>
+        <div class="col col-lg-12 col-sm-12">
+            <p class="small text-light"><a href="/redaccion.html">#redacción</a> | <a href="/academia.html"> #academia</a> | <a href="/proyectos.html">#proyectos</a> | <a href="/desarrollo.html">#desarrollo</a> | <a href="/visualizacion.html">#visualización</a> | <a href="/verificacion.html">#verificación</a> | <a href="/transparencia.html">#transparencia</a> | <a href="/investigacion.html">#investigación</a> | <a href="/analisis.html">#análisis</a></p>
+        </div>
+
+      <div class="list-group mb-3" id="results-container"></div>  
+
+      <div class="list-group mb-3">
+        
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Almudena Sánchez">
+            <img id="popAlmudena Sánchez" src="https://unavatar.io/twitter/abresesion" alt="Almudena Sánchez" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Almudena Sánchez</strong> @abresesion
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Ana Ordaz">
+            <img id="popAna Ordaz" src="https://unavatar.io/twitter/AnaOrdaz_" alt="Ana Ordaz" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Ana Ordaz</strong> @AnaOrdaz_
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Andrés Jiménez MacKellar">
+            <img id="popAndrés Jiménez" src="https://unavatar.io/twitter/brydenjimenez" alt="Andrés Jiménez MacKellar" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Andrés Jiménez MacKellar</strong> @brydenjimenez
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Barbara Maseda">
+            <img id="popBarbara Maseda" src="https://unavatar.io/twitter/barbaramaseda" alt="Barbara Maseda" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Barbara Maseda</strong> @barbaramaseda
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Carolina Cerrejón Hernández ">
+            <img id="popCarolina Cerrejón Hernández " src="https://unavatar.io/twitter/ccerrejon" alt="Carolina Cerrejón Hernández " width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Carolina Cerrejón Hernández </strong> @ccerrejon
+            </span>
+          </a>
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Cecília do Lago">
+            <img id="popCecília do Lago" src="https://unavatar.io/twitter/ceciliadolago" alt="Cecília do Lago" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Cecília do Lago</strong> @ceciliadolago
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Concha Catalan">
+            <img id="popConcha Catalan" src="https://unavatar.io/twitter/conchacatalan" alt="Concha Catalan" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Concha Catalan</strong> @conchacatalan
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Daniela Aguilar">
+            <img id="popDaniela Aguilar" src="https://unavatar.io/twitter/danielaaguilard" alt="Daniela Aguilar" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Daniela Aguilar</strong> @danielaaguilard
+            </span>
+          </a>
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Daniela Q. Lépiz ن">
+            <img id="popDaniela Q. Lépiz ن" src="https://unavatar.io/twitter/Dqlepiz" alt="Daniela Q. Lépiz ن" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Daniela Q. Lépiz ن</strong> @Dqlepiz
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#David Cabo">
+            <img id="popDavid Cabo" src="https://unavatar.io/twitter/dcabo" alt="David Cabo" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>David Cabo</strong> @dcabo
+            </span>
+          </a>
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#David MartínBorregón">
+            <img id="popDavid MartínBorregón" src="https://unavatar.io/twitter/DavidMartinB" alt="David MartínBorregón" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>David MartínBorregón</strong> @DavidMartinB
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Elena Parra Paredes">
+            <img id="popElena Paredes" src="https://unavatar.io/twitter/elena_paredes90" alt="Elena Parra Paredes" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Elena Parra Paredes</strong> @elena_paredes90
+            </span>
+          </a>
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Elena Sevillano">
+            <img id="popElena Sevillano" src="https://unavatar.io/twitter/elenasevillano" alt="Elena Sevillano" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Elena Sevillano</strong> @elenasevillano
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Eva Belmonte Belda">
+            <img id="popEva Belmonte" src="https://unavatar.io/twitter/evabelmonte" alt="Eva Belmonte Belda" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Eva Belmonte Belda</strong> @evabelmonte
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Fermín Grodira">
+            <img id="popFermín Grodira" src="https://unavatar.io/twitter/grodira" alt="Fermín Grodira" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Fermín Grodira</strong> @grodira
+            </span>
+          </a>
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Flor Coelho">
+            <img id="popFlor Coelho" src="https://unavatar.io/twitter/fcoel" alt="Flor Coelho" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Flor Coelho</strong> @fcoel
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Gabriela Bouret">
+            <img id="popGabriela Bouret" src="https://unavatar.io/twitter/gabybouret" alt="Gabriela Bouret" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Gabriela Bouret</strong> @gabybouret
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Incho Cordero">
+            <img id="popIncho Cordero" src="https://unavatar.io/twitter/inchocordero" alt="Incho Cordero" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Incho Cordero</strong> @inchocordero
+            </span>
+          </a>
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Inés Calderón ">
+            <img id="popInés Calderón de Ant" src="https://unavatar.io/twitter/ines_calderon" alt="Inés Calderón " width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Inés Calderón </strong> @ines_calderon
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Javier Galán">
+            <img id="popFJ. Galán Caballero" src="https://unavatar.io/twitter/Antonmileo" alt="Javier Galán" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Javier Galán</strong> @Antonmileo
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Jesús Escudero">
+            <img id="popJesús Escudero" src="https://unavatar.io/twitter/jescuderoma" alt="Jesús Escudero" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Jesús Escudero</strong> @jescuderoma
+            </span>
+          </a>
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Jesús María López de Uribe y García">
+            <img id="popJesús María López de Uribe y García" src="https://unavatar.io/twitter/UribeX" alt="Jesús María López de Uribe y García" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Jesús María López de Uribe y García</strong> @UribeX
+            </span>
+          </a>
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Joan Llop Cabo">
+            <img id="popJoan Llop" src="https://unavatar.io/twitter/jouerl" alt="Joan Llop Cabo" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Joan Llop Cabo</strong> @jouerl
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Judith Calderón">
+            <img id="popJudith C. Clavain" src="https://unavatar.io/twitter/judithclavain" alt="Judith Calderón" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Judith Calderón</strong> @judithclavain
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Karma Peiró">
+            <img id="popKarma Peiró" src="https://unavatar.io/twitter/kpeiro" alt="Karma Peiró" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Karma Peiró</strong> @kpeiro
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Laura Pérez Yanes">
+            <img id="popLaura P. Yanes" src="https://unavatar.io/twitter/LPYanes" alt="Laura Pérez Yanes" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Laura Pérez Yanes</strong> @LPYanes
+            </span>
+          </a>
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Laura Zommer">
+            <img id="popLaura Zommer" src="https://unavatar.io/twitter/lauzommer" alt="Laura Zommer" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Laura Zommer</strong> @lauzommer
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Liliana Elósegui">
+            <img id="popLiliana Elósegui" src="https://unavatar.io/twitter/lilakoi" alt="Liliana Elósegui" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Liliana Elósegui</strong> @lilakoi
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#lourdes Muñoz">
+            <img id="poplourdes Muñoz" src="https://unavatar.io/twitter/lourdesmunoz" alt="lourdes Muñoz" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>lourdes Muñoz</strong> @lourdesmunoz
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Magda Nicolau Vives">
+            <img id="popMagda Nicolau Vives" src="https://unavatar.io/twitter/magdanicovives" alt="Magda Nicolau Vives" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Magda Nicolau Vives</strong> @magdanicovives
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Marcelo Soares">
+            <img id="popMarcelo Soares" src="https://unavatar.io/twitter/msoares" alt="Marcelo Soares" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Marcelo Soares</strong> @msoares
+            </span>
+          </a>
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Marcos García">
+            <img id="popMarcos García" src="https://unavatar.io/twitter/marcosgcm" alt="Marcos García" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Marcos García</strong> @marcosgcm
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#María Álvarez del Vayo">
+            <img id="popMaría ÁlvarezdelVayo" src="https://unavatar.io/twitter/malvarezdelvayo" alt="María Álvarez del Vayo" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>María Álvarez del Vayo</strong> @malvarezdelvayo
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Miguel Ángel Gavilanes">
+            <img id="popM. Ángel Gavilanes" src="https://unavatar.io/twitter/MAngelGavilanes" alt="Miguel Ángel Gavilanes" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Miguel Ángel Gavilanes</strong> @MAngelGavilanes
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Nacho Calle">
+            <img id="popNacho Calle" src="https://unavatar.io/twitter/ignaciocalle" alt="Nacho Calle" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Nacho Calle</strong> @ignaciocalle
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Neus Vidal">
+            <img id="popNeus Vidal" src="https://unavatar.io/twitter/neusvidal" alt="Neus Vidal" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Neus Vidal</strong> @neusvidal
+            </span>
+          </a>
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Nuria Gutiérrez">
+            <img id="popNuria Gutiérrez" src="https://unavatar.io/twitter/nuria_gut" alt="Nuria Gutiérrez" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Nuria Gutiérrez</strong> @nuria_gut
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Pablo Castellano">
+            <img id="popPablo Castellano" src="https://unavatar.io/twitter/_pablog" alt="Pablo Castellano" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Pablo Castellano</strong> @_pablog
+            </span>
+          </a>
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Pablo Rey Mazón">
+            <img id="popPablo Rey Mazón" src="https://unavatar.io/twitter/numeroteca" alt="Pablo Rey Mazón" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Pablo Rey Mazón</strong> @numeroteca
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Roberto Díaz">
+            <img id="popRoberto Díaz" src="https://unavatar.io/twitter/robertodiaz" alt="Roberto Díaz" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Roberto Díaz</strong> @robertodiaz
+            </span>
+          </a>
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Rocío Romero Benites">
+            <img id="popRocío Romero Benites" src="https://unavatar.io/twitter/rocioromerox" alt="Rocío Romero Benites" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Rocío Romero Benites</strong> @rocioromerox
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Romina Colman">
+            <img id="popRomina Colman" src="https://unavatar.io/twitter/colmanromi" alt="Romina Colman" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Romina Colman</strong> @colmanromi
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Sergio Sangiao Pérez">
+            <img id="popSergio Sangiao Pérez" src="https://unavatar.io/twitter/SergioSangiao" alt="Sergio Sangiao Pérez" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Sergio Sangiao Pérez</strong> @SergioSangiao
+            </span>
+          </a>
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Silvia Oramas Pérez">
+            <img id="popSilvia Oramas Perez" src="https://unavatar.io/twitter/oramas_silvia" alt="Silvia Oramas Pérez" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Silvia Oramas Pérez</strong> @oramas_silvia
+            </span>
+          </a>
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Spongenberg">
+            <img id="popSpongenberg" src="https://unavatar.io/twitter/Spongenberg" alt="Spongenberg" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Spongenberg</strong> @Spongenberg
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Vickybol">
+            <img id="popVickybol" src="https://unavatar.io/twitter/VickyBol" alt="Vickybol" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Vickybol</strong> @VickyBol
+            </span>
+          </a>
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Víctor Martínez Maciá">
+            <img id="popVíctor Martínez Maciá" src="https://unavatar.io/twitter/victormtnm" alt="Víctor Martínez Maciá" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Víctor Martínez Maciá</strong> @victormtnm
+            </span>
+          </a>
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Victoria Anderica">
+            <img id="popVictoria Anderica" src="https://unavatar.io/twitter/vickyande" alt="Victoria Anderica" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Victoria Anderica</strong> @vickyande
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Yuly Jara">
+            <img id="popYuly Jara" src="https://unavatar.io/twitter/YulyJara" alt="Yuly Jara" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Yuly Jara</strong> @YulyJara
+            </span>
+          </a>
+            
+          
+      </div>
+
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Almudena Sánchez" tabindex="-1" role="dialog" aria-labelledby="Almudena SánchezTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Almudena SánchezLabel">Almudena Sánchez</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/abresesion" alt="Almudena Sánchez" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/abresesion" target="_blank"><h5 class="mt-0 mb-1 text-primary">@abresesion</h5></a>
+            <p>Periodista: desconfiada por profesión, #transparencia por interés, ingenua por vocación, interactiva por curiosidad.  En FB y IG: @abresesion</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Santa Cruz de Tenerife (España)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://www.canarias7.es/autor/-/meta/almudena-sanchez" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> Canarias7</p>
+            <p><i class="fas fa-tag"></i>  <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a>   <a href="/verificacion.html" class="btn btn-outline-secondary btn-sm">Verificación</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Ana Ordaz" tabindex="-1" role="dialog" aria-labelledby="Ana OrdazTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Ana OrdazLabel">Ana Ordaz</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/AnaOrdaz_" alt="Ana Ordaz" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/AnaOrdaz_" target="_blank"><h5 class="mt-0 mb-1 text-primary">@AnaOrdaz_</h5></a>
+            <p>Periodista. Ahora haciendo cosas con datos en @eldiarioes. Del @M_Investigacion. Siempre tengo los pies fríos. aordaz@eldiario.es</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Madrid (España)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://www.eldiario.es/autores/ana_ordaz/" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> El Diario</p>
+            <p><i class="fas fa-tag"></i>  <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a>   <a href="/analisis.html" class="btn btn-outline-secondary btn-sm">Análisis</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Andrés Jiménez MacKellar" tabindex="-1" role="dialog" aria-labelledby="Andrés Jiménez MacKellarTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Andrés Jiménez MacKellarLabel">Andrés Jiménez MacKellar</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/brydenjimenez" alt="Andrés Jiménez MacKellar" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/brydenjimenez" target="_blank"><h5 class="mt-0 mb-1 text-primary">@brydenjimenez</h5></a>
+            <p>Periodista en @maldita_es. Fundador de @facterbot.</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Madrid (España)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://medium.com/@BrydenJimenez" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> Maldita</p>
+            <p><i class="fas fa-tag"></i>  <a href="/investigacion.html" class="btn btn-outline-secondary btn-sm">Investigación</a>   <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Barbara Maseda" tabindex="-1" role="dialog" aria-labelledby="Barbara MasedaTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Barbara MasedaLabel">Barbara Maseda</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/barbaramaseda" alt="Barbara Maseda" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/barbaramaseda" target="_blank"><h5 class="mt-0 mb-1 text-primary">@barbaramaseda</h5></a>
+            <p>Editora/Fundadora de Proyecto Inventario, una iniciativa de datos abiertos para Cuba que ayuda a periodistas de otros medios a encontrar y usar datos en sus historias</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> La Habana (Cuba)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="http://proyectoinventario.org/" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> Proyecto Inventario</p>
+            <p><i class="fas fa-tag"></i>  <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a>   <a href="/analisis.html" class="btn btn-outline-secondary btn-sm">Análisis</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Carolina Cerrejón Hernández " tabindex="-1" role="dialog" aria-labelledby="Carolina Cerrejón Hernández Title" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Carolina Cerrejón Hernández Label">Carolina Cerrejón Hernández </h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/ccerrejon" alt="Carolina Cerrejón Hernández " width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/ccerrejon" target="_blank"><h5 class="mt-0 mb-1 text-primary">@ccerrejon</h5></a>
+            <p>Master de Periodismo de datos. Prácticas en El Economista y eldiario.es y freelance para CIECODE. Antes Jefa y presentadora de informativos en Alacanti tv, redactora COPE Alicante. </p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Madrid (España)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://www.linkedin.com/in/carolinacerrejónhernández" target="_blank">Sitio web</a></p>
+            
+            <p><i class="fas fa-tag"></i>  <a href="/proyectos.html" class="btn btn-outline-secondary btn-sm">Proyectos</a>   <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Cecília do Lago" tabindex="-1" role="dialog" aria-labelledby="Cecília do LagoTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Cecília do LagoLabel">Cecília do Lago</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/ceciliadolago" alt="Cecília do Lago" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/ceciliadolago" target="_blank"><h5 class="mt-0 mb-1 text-primary">@ceciliadolago</h5></a>
+            <p>Repórter no @estadaodados  #jornalismodedados #ddj  #sql #rstats</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> São Paulo (Brasil)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://www.linkedin.com/in/ceciliadolago/" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> Estadão</p>
+            <p><i class="fas fa-tag"></i>  <a href="/investigacion.html" class="btn btn-outline-secondary btn-sm">Investigación</a>   <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Concha Catalan" tabindex="-1" role="dialog" aria-labelledby="Concha CatalanTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Concha CatalanLabel">Concha Catalan</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/conchacatalan" alt="Concha Catalan" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/conchacatalan" target="_blank"><h5 class="mt-0 mb-1 text-primary">@conchacatalan</h5></a>
+            <p>Licenciada en Periodismo (UPF) y en Filología Inglesa (UB). Cofundadora de la asociación sin ánimo de lucro Innovación y Derechos Humanos (ihr.world), cuyo proyecto principal es la base de datos centralizada de la Guerra Civil y el franquismo.  Cofundadora del proyecto de transparencia gubernamental opengov.cat. Periodista de datos y Profesora de inglés. Pro-transparencia y pro-acceso a la información. Se inició en el periodismo de investigación con Xavier Vinader. Ha trabajado en diversos medios de comunicación, impartido clases en diversas universidades y colaborado con el Global Editors Network. Su interés por la Guerra Civil surge por un proyecto sobre los bombardeos en Barcelona (https://ihr.world/es/los-bombardeos-de-barcelona). Amante de la interdisciplinariedad y defensora del papel fundamental de los archivos en la memoria democrática.  </p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Barcelona (España)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://barcelonalittleshell.blogspot.com/" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> Innovation and Human Rights</p>
+            <p><i class="fas fa-tag"></i>  <a href="/investigacion.html" class="btn btn-outline-secondary btn-sm">Investigación</a>   <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Daniela Aguilar" tabindex="-1" role="dialog" aria-labelledby="Daniela AguilarTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Daniela AguilarLabel">Daniela Aguilar</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/danielaaguilard" alt="Daniela Aguilar" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/danielaaguilard" target="_blank"><h5 class="mt-0 mb-1 text-primary">@danielaaguilard</h5></a>
+            <p>Periodista especializada en Investigación, Datos y Visualización en Madrid. Con experiencia en medios impresos y digitales tanto en Ecuador, Colombia y España. Es cofundadora de LaHistoria.ec donde publicó Caso Chevron: Relato de los olvidados, que ganó el Lorenzo Natali Media Prize 2015 de la Unión Europea. </p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Guayaquil (Ecuador)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://ec.linkedin.com/in/daniela-aguilar-180aa586" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> La Historia</p>
+            <p><i class="fas fa-tag"></i>  <a href="/investigacion.html" class="btn btn-outline-secondary btn-sm">Investigación</a>   <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Daniela Q. Lépiz ن" tabindex="-1" role="dialog" aria-labelledby="Daniela Q. Lépiz نTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Daniela Q. Lépiz نLabel">Daniela Q. Lépiz ن</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/Dqlepiz" alt="Daniela Q. Lépiz ن" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/Dqlepiz" target="_blank"><h5 class="mt-0 mb-1 text-primary">@Dqlepiz</h5></a>
+            <p>Costa Rican #DataJournalist  and DataJ Trainer. Previously in West Africa &amp; Cape Town.</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> San José (Costa Rica)</p>
+            
+            <p><i class="far fa-building"></i> Freelance</p>
+            <p><i class="fas fa-tag"></i>  <a href="/proyectos.html" class="btn btn-outline-secondary btn-sm">Proyectos</a>   <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="David Cabo" tabindex="-1" role="dialog" aria-labelledby="David CaboTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="David CaboLabel">David Cabo</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/dcabo" alt="David Cabo" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/dcabo" target="_blank"><h5 class="mt-0 mb-1 text-primary">@dcabo</h5></a>
+            <p>Founder of @civio, promoting Open Data/Government, transparency and data journalism. Creator of dondevanmisimpuestos.es, @quien_manda and @tuderechoasaber</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Madrid (España)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="http://civio.es" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> Civio</p>
+            <p><i class="fas fa-tag"></i>  <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a>   <a href="/analisis.html" class="btn btn-outline-secondary btn-sm">Análisis</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="David MartínBorregón" tabindex="-1" role="dialog" aria-labelledby="David MartínBorregónTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="David MartínBorregónLabel">David MartínBorregón</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/DavidMartinB" alt="David MartínBorregón" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/DavidMartinB" target="_blank"><h5 class="mt-0 mb-1 text-primary">@DavidMartinB</h5></a>
+            <p>I try to transform data into knowledge. Data Scientist at @badi. Formerly @typeform, @icoolhunt/@nextatlas and co-founder of @datanpress</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Barcelona</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://es.linkedin.com/in/davidmbd" target="_blank">Sitio web</a></p>
+            
+            <p><i class="fas fa-tag"></i>  <a href="/desarrollo.html" class="btn btn-outline-secondary btn-sm">Desarrollo</a>   <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Elena Parra Paredes" tabindex="-1" role="dialog" aria-labelledby="Elena Parra ParedesTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Elena Parra ParedesLabel">Elena Parra Paredes</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/elena_paredes90" alt="Elena Parra Paredes" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/elena_paredes90" target="_blank"><h5 class="mt-0 mb-1 text-primary">@elena_paredes90</h5></a>
+            <p>Periodista de datos en @Ep_data y gestión de redes en @EPEconomia y @Epturismo. De Huelva y Badajoz, del Sur. Exalumna de @M_Investigacion.</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Madrid (España)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://www.linkedin.com/in/elena-paredes-98883683/" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> Europa Press</p>
+            <p><i class="fas fa-tag"></i>  <a href="/investigacion.html" class="btn btn-outline-secondary btn-sm">Investigación</a>   <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Elena Sevillano" tabindex="-1" role="dialog" aria-labelledby="Elena SevillanoTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Elena SevillanoLabel">Elena Sevillano</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/elenasevillano" alt="Elena Sevillano" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/elenasevillano" target="_blank"><h5 class="mt-0 mb-1 text-primary">@elenasevillano</h5></a>
+            <p>Periodista. Escribo en la sección de Economía de El País (y otras). Investigación, datos, transparencia. Uso el punto y coma y atiendo en esevillano@elpais.es</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Madrid / Barcelona</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://elpais.com/autor/elena_sevillano_gonzalez/a/" target="_blank">Sitio web</a></p>
+            
+            <p><i class="fas fa-tag"></i>  <a href="/investigacion.html" class="btn btn-outline-secondary btn-sm">Investigación</a>   <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Eva Belmonte Belda" tabindex="-1" role="dialog" aria-labelledby="Eva Belmonte BeldaTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Eva Belmonte BeldaLabel">Eva Belmonte Belda</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/evabelmonte" alt="Eva Belmonte Belda" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/evabelmonte" target="_blank"><h5 class="mt-0 mb-1 text-primary">@evabelmonte</h5></a>
+            <p>Periodista de investigación y datos. Directora de Civio.</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Madrid (España)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://civio.es/equipo/eva-belmonte/" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> Civio</p>
+            <p><i class="fas fa-tag"></i>  <a href="/investigacion.html" class="btn btn-outline-secondary btn-sm">Investigación</a>   <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Fermín Grodira" tabindex="-1" role="dialog" aria-labelledby="Fermín GrodiraTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Fermín GrodiraLabel">Fermín Grodira</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/grodira" alt="Fermín Grodira" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/grodira" target="_blank"><h5 class="mt-0 mb-1 text-primary">@grodira</h5></a>
+            <p>Periodismo en @maldita_es, temporero de la información en otros lares. Pessoano  DM abiertos ////  grodira@pm.me ////   PGP http://bit.ly/grodiraPGP</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Madrid (España)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://grodira.wordpress.com/" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> Maldita</p>
+            <p><i class="fas fa-tag"></i>  <a href="/investigacion.html" class="btn btn-outline-secondary btn-sm">Investigación</a>   <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Flor Coelho" tabindex="-1" role="dialog" aria-labelledby="Flor CoelhoTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Flor CoelhoLabel">Flor Coelho</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/fcoel" alt="Flor Coelho" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/fcoel" target="_blank"><h5 class="mt-0 mb-1 text-primary">@fcoel</h5></a>
+            <p>Proud @JSKStanford 2019 Fellow &amp; @LNdata member. Now researching on AI opportunities for journalists. @ONA Intl #emojidelmate #NeverStopLearning =)</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Buenos Aires, Argentina</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="http://blogs.lanacion.com.ar/data/florencia-coelho/" target="_blank">Sitio web</a></p>
+            
+            <p><i class="fas fa-tag"></i>  <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a>   <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Gabriela Bouret" tabindex="-1" role="dialog" aria-labelledby="Gabriela BouretTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Gabriela BouretLabel">Gabriela Bouret</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/gabybouret" alt="Gabriela Bouret" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/gabybouret" target="_blank"><h5 class="mt-0 mb-1 text-primary">@gabybouret</h5></a>
+            <p>Data Analyst at @LNData/@LANACION Master in Data Mining || Tableau Ambassador 2019 &amp; 2018 || WiDS Ambassador 2018 || #WINN Comité</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Buenos Aires, Argentina</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="http://blogs.lanacion.com.ar/data" target="_blank">Sitio web</a></p>
+            
+            <p><i class="fas fa-tag"></i>  <a href="/proyectos.html" class="btn btn-outline-secondary btn-sm">Proyectos</a>   <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Incho Cordero" tabindex="-1" role="dialog" aria-labelledby="Incho CorderoTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Incho CorderoLabel">Incho Cordero</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/inchocordero" alt="Incho Cordero" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/inchocordero" target="_blank"><h5 class="mt-0 mb-1 text-primary">@inchocordero</h5></a>
+            <p>Comunicopático compulsivo, utópico irredento y algo perdido entre lo imperfecto y lo pluscuamperfecto #Mediactivismo #Filmmaker #OpenData #PeriodismoDatos</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Twitterland</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="http://linkedin.com/in/inchocordero" target="_blank">Sitio web</a></p>
+            
+            <p><i class="fas fa-tag"></i>  <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a>   <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Inés Calderón " tabindex="-1" role="dialog" aria-labelledby="Inés Calderón Title" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Inés Calderón Label">Inés Calderón </h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/ines_calderon" alt="Inés Calderón " width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/ines_calderon" target="_blank"><h5 class="mt-0 mb-1 text-primary">@ines_calderon</h5></a>
+            <p>Periodista. Quiero ser presidenta del Betis. #SLQH en @objetivolasexta y @Transparentia_ en @newtral. A veces paso por @eleconomistaes. Siempre sonrío #running</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Madrid (España)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="http://www.sueldospublicos.com/" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> Newtral</p>
+            <p><i class="fas fa-tag"></i>  <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a>   <a href="/analisis.html" class="btn btn-outline-secondary btn-sm">Análisis</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Javier Galán" tabindex="-1" role="dialog" aria-labelledby="Javier GalánTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Javier GalánLabel">Javier Galán</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/Antonmileo" alt="Javier Galán" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/Antonmileo" target="_blank"><h5 class="mt-0 mb-1 text-primary">@Antonmileo</h5></a>
+            <p>Del todo, este poco. Datos, infografía y transparencia en @el_pais</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Madrid (España)</p>
+            
+            <p><i class="far fa-building"></i> El País</p>
+            <p><i class="fas fa-tag"></i>  <a href="/visualizacion.html" class="btn btn-outline-secondary btn-sm">Visualización</a>   <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Jesús Escudero" tabindex="-1" role="dialog" aria-labelledby="Jesús EscuderoTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Jesús EscuderoLabel">Jesús Escudero</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/jescuderoma" alt="Jesús Escudero" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/jescuderoma" target="_blank"><h5 class="mt-0 mb-1 text-primary">@jescuderoma</h5></a>
+            <p>Periodista de datos y #transparencia. Investigative data reporter &amp; #FOIA at @elconfidencial. Member of @ICIJorg. PGP http://bit.ly/1oMQfGe  Threema T9M7FFN6</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Madrid (España)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://www.elconfidencial.com/autores/jesus-escudero-445/" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> El Confidencial</p>
+            <p><i class="fas fa-tag"></i>  <a href="/investigacion.html" class="btn btn-outline-secondary btn-sm">Investigación</a>   <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Jesús María López de Uribe y García" tabindex="-1" role="dialog" aria-labelledby="Jesús María López de Uribe y GarcíaTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Jesús María López de Uribe y GarcíaLabel">Jesús María López de Uribe y García</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/UribeX" alt="Jesús María López de Uribe y García" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/UribeX" target="_blank"><h5 class="mt-0 mb-1 text-primary">@UribeX</h5></a>
+            <p>Periodista de Investigación en temas locales y Ciencia, Tecnología, Historia, Datos, Transparencia, Gobierno Abierto y Política.</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> León (España)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="http://www.uribex.com" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> iLeon</p>
+            <p><i class="fas fa-tag"></i>  <a href="/investigacion.html" class="btn btn-outline-secondary btn-sm">Investigación</a>   <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Joan Llop Cabo" tabindex="-1" role="dialog" aria-labelledby="Joan Llop CaboTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Joan Llop CaboLabel">Joan Llop Cabo</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/jouerl" alt="Joan Llop Cabo" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/jouerl" target="_blank"><h5 class="mt-0 mb-1 text-primary">@jouerl</h5></a>
+            <p>La de twitter está bien!</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Madrid (España)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://jotadata.wordpress.com" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> BBVA Data &amp; Analytics</p>
+            <p><i class="fas fa-tag"></i>  <a href="/investigacion.html" class="btn btn-outline-secondary btn-sm">Investigación</a>   <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Judith Calderón" tabindex="-1" role="dialog" aria-labelledby="Judith CalderónTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Judith CalderónLabel">Judith Calderón</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/judithclavain" alt="Judith Calderón" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/judithclavain" target="_blank"><h5 class="mt-0 mb-1 text-primary">@judithclavain</h5></a>
+            <p>Periodista de investigación y datos. Graduada en la UAB. Máster en la UNIR. Un año en El Periódico.</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Barcelona (España)</p>
+            
+            <p><i class="far fa-building"></i> InternNews</p>
+            <p><i class="fas fa-tag"></i>  <a href="/investigacion.html" class="btn btn-outline-secondary btn-sm">Investigación</a>   <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Karma Peiró" tabindex="-1" role="dialog" aria-labelledby="Karma PeiróTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Karma PeiróLabel">Karma Peiró</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/kpeiro" alt="Karma Peiró" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/kpeiro" target="_blank"><h5 class="mt-0 mb-1 text-primary">@kpeiro</h5></a>
+            <p>Digital/Data Journalism. Following path of technological innovation #Algorithms, #Accountability Co-director of Specialization Diploma in @datajournalism1</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Barcelona</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="http://karmapeiro.cat" target="_blank">Sitio web</a></p>
+            
+            <p><i class="fas fa-tag"></i>  <a href="/proyectos.html" class="btn btn-outline-secondary btn-sm">Proyectos</a>   <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Laura Pérez Yanes" tabindex="-1" role="dialog" aria-labelledby="Laura Pérez YanesTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Laura Pérez YanesLabel">Laura Pérez Yanes</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/LPYanes" alt="Laura Pérez Yanes" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/LPYanes" target="_blank"><h5 class="mt-0 mb-1 text-primary">@LPYanes</h5></a>
+            <p>Aprendiendo.</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Santa Cruz de Tenerife (España)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://www.linkedin.com/in/lauraperezyanesperiodista" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> Bara Bara Comunicación</p>
+            <p><i class="fas fa-tag"></i>  <a href="/investigacion.html" class="btn btn-outline-secondary btn-sm">Investigación</a>   <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Laura Zommer" tabindex="-1" role="dialog" aria-labelledby="Laura ZommerTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Laura ZommerLabel">Laura Zommer</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/lauzommer" alt="Laura Zommer" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/lauzommer" target="_blank"><h5 class="mt-0 mb-1 text-primary">@lauzommer</h5></a>
+            <p>Directora ejecutiva y periodística de Chequeado, la primera iniciativa de fact checking de América Latina. Es miembro del Board de la International Fact-Checking Network, del consejo consultivo de Sembramedia y de Gênero e Número. Licenciada en Ciencias de la Comunicación y abogada, egresada de la Universidad de Buenos Aires (UBA).</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Buenos Aires (Argentina)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="http://www.chequeado.com" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> Chequeado</p>
+            <p><i class="fas fa-tag"></i>  <a href="/proyectos.html" class="btn btn-outline-secondary btn-sm">Proyectos</a>   <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Liliana Elósegui" tabindex="-1" role="dialog" aria-labelledby="Liliana ElóseguiTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Liliana ElóseguiLabel">Liliana Elósegui</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/lilakoi" alt="Liliana Elósegui" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/lilakoi" target="_blank"><h5 class="mt-0 mb-1 text-primary">@lilakoi</h5></a>
+            <p>Profesional de la comunicación, con más de 20 años de experiencia, enfocada en el periodismo, el fact checking, la comunicación social, la educación mediática y los derechos humanos.</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Monterrey (México)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://www.linkedin.com/in/liliana-elosegui/" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> Verificado MX</p>
+            <p><i class="fas fa-tag"></i>  <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a>   <a href="/verificacion.html" class="btn btn-outline-secondary btn-sm">Verificación</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="lourdes Muñoz" tabindex="-1" role="dialog" aria-labelledby="lourdes MuñozTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="lourdes MuñozLabel">lourdes Muñoz</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/lourdesmunoz" alt="lourdes Muñoz" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/lourdesmunoz" target="_blank"><h5 class="mt-0 mb-1 text-primary">@lourdesmunoz</h5></a>
+            <p>Comprometida con una visión social de la tecnología y la igualdad. Promoviendo uso del #opendata @iopendatabcn Lanzando @SheLeadernet Presidenta @donesenxarxa</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Barcelona</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="http://bloc.lourdesmunozsantamaria.cat" target="_blank">Sitio web</a></p>
+            
+            <p><i class="fas fa-tag"></i>  <a href="/proyectos.html" class="btn btn-outline-secondary btn-sm">Proyectos</a>   <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Magda Nicolau Vives" tabindex="-1" role="dialog" aria-labelledby="Magda Nicolau VivesTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Magda Nicolau VivesLabel">Magda Nicolau Vives</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/magdanicovives" alt="Magda Nicolau Vives" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/magdanicovives" target="_blank"><h5 class="mt-0 mb-1 text-primary">@magdanicovives</h5></a>
+            <p>#Periodista #Televisión #Socialmedia #Redacción #Madrid #Valencia Ahora aprendiendo de los #Datos y en @apunt_media i @apuntnoticies</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Valencia (España)</p>
+            
+            <p><i class="far fa-building"></i> À Punt</p>
+            <p><i class="fas fa-tag"></i>  <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a>   <a href="/verificacion.html" class="btn btn-outline-secondary btn-sm">Verificación</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Marcelo Soares" tabindex="-1" role="dialog" aria-labelledby="Marcelo SoaresTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Marcelo SoaresLabel">Marcelo Soares</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/msoares" alt="Marcelo Soares" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/msoares" target="_blank"><h5 class="mt-0 mb-1 text-primary">@msoares</h5></a>
+            <p>Aquel tipo que habla con los datos</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> São Paulo (Brasil)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="http://www.lagomdata.com.br" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> Lagom Data</p>
+            <p><i class="fas fa-tag"></i>  <a href="/investigacion.html" class="btn btn-outline-secondary btn-sm">Investigación</a>   <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Marcos García" tabindex="-1" role="dialog" aria-labelledby="Marcos GarcíaTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Marcos GarcíaLabel">Marcos García</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/marcosgcm" alt="Marcos García" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/marcosgcm" target="_blank"><h5 class="mt-0 mb-1 text-primary">@marcosgcm</h5></a>
+            <p></p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> madrid</p>
+            
+            
+            <p><i class="fas fa-tag"></i>  <a href="/proyectos.html" class="btn btn-outline-secondary btn-sm">Proyectos</a>   <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="María Álvarez del Vayo" tabindex="-1" role="dialog" aria-labelledby="María Álvarez del VayoTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="María Álvarez del VayoLabel">María Álvarez del Vayo</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/malvarezdelvayo" alt="María Álvarez del Vayo" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/malvarezdelvayo" target="_blank"><h5 class="mt-0 mb-1 text-primary">@malvarezdelvayo</h5></a>
+            <p>Periodista de datos. Del @M_Investigacion aprendiendo en @civio. The future ain't what it used to be.</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Madrid (España)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://www.flickr.com/photos/130337994@N03/" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> Civio</p>
+            <p><i class="fas fa-tag"></i>  <a href="/investigacion.html" class="btn btn-outline-secondary btn-sm">Investigación</a>   <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Miguel Ángel Gavilanes" tabindex="-1" role="dialog" aria-labelledby="Miguel Ángel GavilanesTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Miguel Ángel GavilanesLabel">Miguel Ángel Gavilanes</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/MAngelGavilanes" alt="Miguel Ángel Gavilanes" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/MAngelGavilanes" target="_blank"><h5 class="mt-0 mb-1 text-primary">@MAngelGavilanes</h5></a>
+            <p>Periodista de datos e investigación, especializado en derecho de acceso a la información, transparencia y políticas públicas.</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Madrid (España)</p>
+            
+            <p><i class="far fa-building"></i> Civio</p>
+            <p><i class="fas fa-tag"></i>  <a href="/investigacion.html" class="btn btn-outline-secondary btn-sm">Investigación</a>   <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Nacho Calle" tabindex="-1" role="dialog" aria-labelledby="Nacho CalleTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Nacho CalleLabel">Nacho Calle</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/ignaciocalle" alt="Nacho Calle" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/ignaciocalle" target="_blank"><h5 class="mt-0 mb-1 text-primary">@ignaciocalle</h5></a>
+            <p>Coordinador de Maldito Dato en Maldita.es. Antes, coordinador del equipo de datos de laSexta hasta octubre de 2018. Exalumno del máster de periodismo de investigación, datos y visualización de Unidad Editorial y la URJC</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Madrid (España)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://maldita.es/quienes-somos/" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> Maldita</p>
+            <p><i class="fas fa-tag"></i>  <a href="/investigacion.html" class="btn btn-outline-secondary btn-sm">Investigación</a>   <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Neus Vidal" tabindex="-1" role="dialog" aria-labelledby="Neus VidalTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Neus VidalLabel">Neus Vidal</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/neusvidal" alt="Neus Vidal" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/neusvidal" target="_blank"><h5 class="mt-0 mb-1 text-primary">@neusvidal</h5></a>
+            <p>Journalist &amp; Political Scientist. Professor @uocuniversity #FOIA researcher. Published @thetimes @el_pais @93metros @cityjournalism with @becarioslacaixa.</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Barcelona (España)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://www.linkedin.com/in/neusvidalmarti" target="_blank">Sitio web</a></p>
+            
+            <p><i class="fas fa-tag"></i>  <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a>   <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Nuria Gutiérrez" tabindex="-1" role="dialog" aria-labelledby="Nuria GutiérrezTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Nuria GutiérrezLabel">Nuria Gutiérrez</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/nuria_gut" alt="Nuria Gutiérrez" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/nuria_gut" target="_blank"><h5 class="mt-0 mb-1 text-primary">@nuria_gut</h5></a>
+            <p>Periodista. Me interesa el periodismo de datos</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Barcelona</p>
+            
+            
+            <p><i class="fas fa-tag"></i>  <a href="/visualizacion.html" class="btn btn-outline-secondary btn-sm">Visualización</a>   <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Pablo Castellano" tabindex="-1" role="dialog" aria-labelledby="Pablo CastellanoTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Pablo CastellanoLabel">Pablo Castellano</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/_pablog" alt="Pablo Castellano" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/_pablog" target="_blank"><h5 class="mt-0 mb-1 text-primary">@_pablog</h5></a>
+            <p>Free software developer. Now focused on @libreborme. I like cryptography, networks, wikis and #opendata. | PGP: https://keybase.io/pablog</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Barcelona (España)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://www.linkedin.com/in/pablo-castellano-568549111/" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> LibreBOR</p>
+            <p><i class="fas fa-tag"></i>  <a href="/proyectos.html" class="btn btn-outline-secondary btn-sm">Proyectos</a>   <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Pablo Rey Mazón" tabindex="-1" role="dialog" aria-labelledby="Pablo Rey MazónTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Pablo Rey MazónLabel">Pablo Rey Mazón</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/numeroteca" alt="Pablo Rey Mazón" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/numeroteca" target="_blank"><h5 class="mt-0 mb-1 text-primary">@numeroteca</h5></a>
+            <p>Nada es raro, porque nada es normal.  Waste/corruption/dataviz. Working @montera34 + @basurama. Also @global_rec @wiki_toki @PageOneX @bilbaodatalab @publiclab</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Bilbao (España)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="http://numeroteca.org" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> Numeroteca</p>
+            <p><i class="fas fa-tag"></i>  <a href="/proyectos.html" class="btn btn-outline-secondary btn-sm">Proyectos</a>   <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Roberto Díaz" tabindex="-1" role="dialog" aria-labelledby="Roberto DíazTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Roberto DíazLabel">Roberto Díaz</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/robertodiaz" alt="Roberto Díaz" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/robertodiaz" target="_blank"><h5 class="mt-0 mb-1 text-primary">@robertodiaz</h5></a>
+            <p>Periodista / Journalist / Reporter | Investigación &amp; Datos | Pro Transparencia y OpenData | Criado en el @M_investigacion | Constructor de sueños |</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Madrid (España)</p>
+            
+            <p><i class="far fa-building"></i> Freelance</p>
+            <p><i class="fas fa-tag"></i>  <a href="/investigacion.html" class="btn btn-outline-secondary btn-sm">Investigación</a>   <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Rocío Romero Benites" tabindex="-1" role="dialog" aria-labelledby="Rocío Romero BenitesTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Rocío Romero BenitesLabel">Rocío Romero Benites</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/rocioromerox" alt="Rocío Romero Benites" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/rocioromerox" target="_blank"><h5 class="mt-0 mb-1 text-primary">@rocioromerox</h5></a>
+            <p>Information analyst at @pcmperu - @pnud | Before: @saludconlupa, @ojo_publico, @rppnoticias and 2018 @icfj professional fellow / @propublica</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Lima (Perú)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://about.me/rocioromerox" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> La Caja Datera</p>
+            <p><i class="fas fa-tag"></i>  <a href="/investigacion.html" class="btn btn-outline-secondary btn-sm">Investigación</a>   <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Romina Colman" tabindex="-1" role="dialog" aria-labelledby="Romina ColmanTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Romina ColmanLabel">Romina Colman</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/colmanromi" alt="Romina Colman" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/colmanromi" target="_blank"><h5 class="mt-0 mb-1 text-primary">@colmanromi</h5></a>
+            <p>Data journalist at @LNData w/ focus on Polítics &amp; Anti-corruption. Fellow in #OpenGov @OEA_oficial 2016. Lecturer, researcher &amp; adviser. #Changemaker since 1984</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Argentina</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://www.linkedin.com/in/romina-colman-695574165" target="_blank">Sitio web</a></p>
+            
+            <p><i class="fas fa-tag"></i>  <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a>   <a href="/academia.html" class="btn btn-outline-secondary btn-sm">Academia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Sergio Sangiao Pérez" tabindex="-1" role="dialog" aria-labelledby="Sergio Sangiao PérezTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Sergio Sangiao PérezLabel">Sergio Sangiao Pérez</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/SergioSangiao" alt="Sergio Sangiao Pérez" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/SergioSangiao" target="_blank"><h5 class="mt-0 mb-1 text-primary">@SergioSangiao</h5></a>
+            <p>Periodista. De @maldita_es. #ddj, #transparencia e #investigación en @MalditoDato. DM abiertos / ssangiao@maldita.es / PGP: https://bit.ly/2GcLYJH .</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Madrid (España)</p>
+            
+            <p><i class="far fa-building"></i> Maldita</p>
+            <p><i class="fas fa-tag"></i>  <a href="/investigacion.html" class="btn btn-outline-secondary btn-sm">Investigación</a>   <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Silvia Oramas Pérez" tabindex="-1" role="dialog" aria-labelledby="Silvia Oramas PérezTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Silvia Oramas PérezLabel">Silvia Oramas Pérez</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/oramas_silvia" alt="Silvia Oramas Pérez" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/oramas_silvia" target="_blank"><h5 class="mt-0 mb-1 text-primary">@oramas_silvia</h5></a>
+            <p>Periodista de Datos, investigadora en reportajes de CNN Chile y CHV Noticias</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Santiago de Chile (Chile)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://www.linkedin.com/in/silvia-oramas-p%C3%A9rez-86b3a2129/" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> Turner Chile</p>
+            <p><i class="fas fa-tag"></i>  <a href="/investigacion.html" class="btn btn-outline-secondary btn-sm">Investigación</a>   <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Spongenberg" tabindex="-1" role="dialog" aria-labelledby="SpongenbergTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="SpongenbergLabel">Spongenberg</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/Spongenberg" alt="Spongenberg" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/Spongenberg" target="_blank"><h5 class="mt-0 mb-1 text-primary">@Spongenberg</h5></a>
+            <p>journalist, optimist, realist</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Barcelona</p>
+            
+            
+            <p><i class="fas fa-tag"></i>  <a href="/investigacion.html" class="btn btn-outline-secondary btn-sm">Investigación</a>   <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Vickybol" tabindex="-1" role="dialog" aria-labelledby="VickybolTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="VickybolLabel">Vickybol</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/VickyBol" alt="Vickybol" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/VickyBol" target="_blank"><h5 class="mt-0 mb-1 text-primary">@VickyBol</h5></a>
+            <p>Periodista | Comunicación de Participación Ciudadana, Transparencia y Gobierno Abierto en @MADRID</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Mallorquina en Madrid</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="http://medium.com/@vickybol" target="_blank">Sitio web</a></p>
+            
+            <p><i class="fas fa-tag"></i>  <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a>   <a href="/proyectos.html" class="btn btn-outline-secondary btn-sm">Proyectos</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Víctor Martínez Maciá" tabindex="-1" role="dialog" aria-labelledby="Víctor Martínez MaciáTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Víctor Martínez MaciáLabel">Víctor Martínez Maciá</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/victormtnm" alt="Víctor Martínez Maciá" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/victormtnm" target="_blank"><h5 class="mt-0 mb-1 text-primary">@victormtnm</h5></a>
+            <p>Periodista de #ddj y #transparencia. Ilicitano en Madrid. Aprendo en @Servimedia. Formado en @PeriodismoUMH y el @M_Investigacion. Pasé por Gestiona Radio Elche</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Madrid (España)</p>
+            <p><i class="fas fa-link"></i> <a class="text-secondary" href="https://victormartinezmp.wordpress.com/" target="_blank">Sitio web</a></p>
+            <p><i class="far fa-building"></i> Servimedia</p>
+            <p><i class="fas fa-tag"></i>  <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a>   <a href="/analisis.html" class="btn btn-outline-secondary btn-sm">Análisis</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Victoria Anderica" tabindex="-1" role="dialog" aria-labelledby="Victoria AndericaTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Victoria AndericaLabel">Victoria Anderica</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/vickyande" alt="Victoria Anderica" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/vickyande" target="_blank"><h5 class="mt-0 mb-1 text-primary">@vickyande</h5></a>
+            <p>Experta en transparencia, participación ciudadana y gobierno abierto.</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Madrid</p>
+            
+            
+            <p><i class="fas fa-tag"></i>  <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a>   <a href="/proyectos.html" class="btn btn-outline-secondary btn-sm">Proyectos</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+    
+            
+
+      <!-- Modal -->
+      <div class="modal fade" id="Yuly Jara" tabindex="-1" role="dialog" aria-labelledby="Yuly JaraTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="Yuly JaraLabel">Yuly Jara</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <div class="media">
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/YulyJara" alt="Yuly Jara" width="72" height="72" />
+            <div class="media-body">
+            <a style="text-decoration:none" href="https://twitter.com/YulyJara" target="_blank"><h5 class="mt-0 mb-1 text-primary">@YulyJara</h5></a>
+            <p>Periodista. Investigación, datos y transparencia. Te miro y te desmiento en @m_migracion y colaboro en más sitios bonitos :) #ddj</p>
+            <p class="text-success"><i class="fas fa-map-marker-alt"></i> Madrid (España)</p>
+            
+            <p><i class="far fa-building"></i> Maldita</p>
+            <p><i class="fas fa-tag"></i>  <a href="/investigacion.html" class="btn btn-outline-secondary btn-sm">Investigación</a>   <a href="/transparencia.html" class="btn btn-outline-secondary btn-sm">Transparencia</a> </p>
+            </div>
+          </div>
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    
+
+</div>
+:ET

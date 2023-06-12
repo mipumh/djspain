@@ -1,28 +1,1159 @@
-I"�<div class="my-3 p-3 bg-white rounded box-shadow">
-        <div id="results-container"></div>  
+I"V�<div class="my-3 p-3">
 
-        <h6 class="border-bottom border-gray pb-2 mb-0">Profesionales en #visualización</h6>
-
-    
-	
-	  
-
-    
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Adrián Blanco Ramos">
-          <img id="popAdrián Blanco" src="https://unavatar.io/twitter/AdrianBlancoR" alt="Adrián Blanco Ramos" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Adrián Blanco Ramos"><strong class="text-gray-dark">Adrián Blanco Ramos</strong></a>
+      <h4 class="border-bottom border-gray pb-2 mt-3">Profesionales en #visualización</h4>
+      
+      <div class="col-lg-12 mx-auto pb-3" id="search-demo-container">
+            <div class="filter-parent" id="search">
+            <label for="filter-by"></label>
+            <input type="text" placeholder="Buscar periodistas" id="search-input" class="form-control input-lg" tabindex="1" />
             </div>
-            <a class="text-secondary" href="https://twitter.com/AdrianBlancoR" target="_blank"><span class="d-block">@AdrianBlancoR</span></a>
-          </div>
         </div>
+        <div class="col col-lg-12 col-sm-12">
+            <p class="small text-light"><a href="/redaccion.html">#redacción</a> | <a href="/academia.html"> #academia</a> | <a href="/proyectos.html">#proyectos</a> | <a href="/desarrollo.html">#desarrollo</a> | <a href="/visualizacion.html">#visualización</a> | <a href="/verificacion.html">#verificación</a> | <a href="/transparencia.html">#transparencia</a> | <a href="/investigacion.html">#investigación</a> | <a href="/analisis.html">#análisis</a></p>
+        </div>
+
+      <div class="list-group mb-3" id="results-container"></div>  
+
+      <div class="list-group mb-3">
+        
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Adrián Blanco Ramos">
+            <img id="popAdrián Blanco" src="https://unavatar.io/twitter/AdrianBlancoR" alt="Adrián Blanco Ramos" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Adrián Blanco Ramos</strong> @AdrianBlancoR
+            </span>
+          </a>
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Adrián Caballero">
+            <img id="popAdrián Caballero" src="https://unavatar.io/twitter/a__caballero" alt="Adrián Caballero" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Adrián Caballero</strong> @a__caballero
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Alex Riera Fischer">
+            <img id="popAlex Riera Fischer" src="https://unavatar.io/twitter/Alex_R_Fischer" alt="Alex Riera Fischer" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Alex Riera Fischer</strong> @Alex_R_Fischer
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Amaya Verde">
+            <img id="popAmaya Verde" src="https://unavatar.io/twitter/amayaverde" alt="Amaya Verde" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Amaya Verde</strong> @amayaverde
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Antonio Alonso">
+            <img id="popAntonio Alonso" src="https://unavatar.io/twitter/aalonsobe" alt="Antonio Alonso" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Antonio Alonso</strong> @aalonsobe
+            </span>
+          </a>
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Antonio Esquembre">
+            <img id="popEsquembre" src="https://unavatar.io/twitter/__esquembre" alt="Antonio Esquembre" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Antonio Esquembre</strong> @__esquembre
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Arnau Udina">
+            <img id="popArnau Udina" src="https://unavatar.io/twitter/arnauuc" alt="Arnau Udina" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Arnau Udina</strong> @arnauuc
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Belén Belmonte">
+            <img id="popBelén Belmonte" src="https://unavatar.io/twitter/bbelmontea" alt="Belén Belmonte" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Belén Belmonte</strong> @bbelmontea
+            </span>
+          </a>
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Borja Andrino Turón">
+            <img id="popBorja Andrino Turón" src="https://unavatar.io/twitter/borjandrinot" alt="Borja Andrino Turón" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Borja Andrino Turón</strong> @borjandrinot
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Carlos Herrera">
+            <img id="popCarlos Herrera" src="https://unavatar.io/twitter/MundoGister" alt="Carlos Herrera" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Carlos Herrera</strong> @MundoGister
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Carmen Torrecillas">
+            <img id="popCarmen Torrecillas" src="https://unavatar.io/twitter/carmen_TM_" alt="Carmen Torrecillas" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Carmen Torrecillas</strong> @carmen_TM_
+            </span>
+          </a>
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Carolina Ávila Caruso">
+            <img id="popCarolina Ávila" src="https://unavatar.io/twitter/caroavilac" alt="Carolina Ávila Caruso" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Carolina Ávila Caruso</strong> @caroavilac
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Cecilio Galdón">
+            <img id="popCecilio Galdón" src="https://unavatar.io/twitter/CecilioGaldon" alt="Cecilio Galdón" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Cecilio Galdón</strong> @CecilioGaldon
+            </span>
+          </a>
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Chiqui Esteban">
+            <img id="popChiqui Esteban (pronounced 'Cheeky')" src="https://unavatar.io/twitter/chiquiesteban" alt="Chiqui Esteban" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Chiqui Esteban</strong> @chiquiesteban
+            </span>
+          </a>
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Clara Penín">
+            <img id="popClara Penín" src="https://unavatar.io/twitter/arake14" alt="Clara Penín" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Clara Penín</strong> @arake14
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Cristian Bertelegni">
+            <img id="popCristian Bertelegni" src="https://unavatar.io/twitter/cbertelegni" alt="Cristian Bertelegni" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Cristian Bertelegni</strong> @cbertelegni
+            </span>
+          </a>
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Cristina Ramon">
+            <img id="popCristina Ramon" src="https://unavatar.io/twitter/crisodisy" alt="Cristina Ramon" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Cristina Ramon</strong> @crisodisy
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Daniel G Cappa">
+            <img id="popDaniel G Cappa" src="https://unavatar.io/twitter/Danicappa" alt="Daniel G Cappa" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Daniel G Cappa</strong> @Danicappa
+            </span>
+          </a>
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Daniel Villatoro G">
+            <img id="popDaniel Villatoro G" src="https://unavatar.io/twitter/danyvillatoro" alt="Daniel Villatoro G" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Daniel Villatoro G</strong> @danyvillatoro
+            </span>
+          </a>
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Daniela Guazo">
+            <img id="popDaniela Guazo" src="https://unavatar.io/twitter/danygm87" alt="Daniela Guazo" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Daniela Guazo</strong> @danygm87
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#David Ruiz López">
+            <img id="popDavid Ruiz López" src="https://unavatar.io/twitter/ruizfrontend" alt="David Ruiz López" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>David Ruiz López</strong> @ruizfrontend
+            </span>
+          </a>
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Dénnys Eduardo Mejía Bardales">
+            <img id="popDénnys Eduardo Mejía Bardales" src="https://unavatar.io/twitter/murdijuy" alt="Dénnys Eduardo Mejía Bardales" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Dénnys Eduardo Mejía Bardales</strong> @murdijuy
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Elena Pinilla">
+            <img id="popElena Pinilla" src="https://unavatar.io/twitter/Elena_Pinilla_" alt="Elena Pinilla" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Elena Pinilla</strong> @Elena_Pinilla_
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Endika Nuñez">
+            <img id="popEndika Nuñez" src="https://unavatar.io/twitter/endikasatu" alt="Endika Nuñez" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Endika Nuñez</strong> @endikasatu
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Ernesto Mislej">
+            <img id="popErnesto Mislej" src="https://unavatar.io/twitter/emislej" alt="Ernesto Mislej" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Ernesto Mislej</strong> @emislej
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Florencia Rodríguez Altube">
+            <img id="popFlorencia Rodríguez Altube" src="https://unavatar.io/twitter/florraltube" alt="Florencia Rodríguez Altube" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Florencia Rodríguez Altube</strong> @florraltube
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Gilberto León">
+            <img id="popGilberto León" src="https://unavatar.io/twitter/gilbertoleon" alt="Gilberto León" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Gilberto León</strong> @gilbertoleon
+            </span>
+          </a>
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Guillermo Villar">
+            <img id="popGuillermo Villar" src="https://unavatar.io/twitter/_gvillar" alt="Guillermo Villar" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Guillermo Villar</strong> @_gvillar
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Irene de la Torre Arenas">
+            <img id="popIrene de la Torre" src="https://unavatar.io/twitter/inari_ta" alt="Irene de la Torre Arenas" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Irene de la Torre Arenas</strong> @inari_ta
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#javier barriocanal">
+            <img id="popJavier J.Barriocanal" src="https://unavatar.io/twitter/jbarriocanal" alt="javier barriocanal" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>javier barriocanal</strong> @jbarriocanal
+            </span>
+          </a>
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Javier Galán">
+            <img id="popFJ. Galán Caballero" src="https://unavatar.io/twitter/Antonmileo" alt="Javier Galán" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Javier Galán</strong> @Antonmileo
+            </span>
+          </a>
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Javier Zarracina">
+            <img id="popJavier Zarracina" src="https://unavatar.io/twitter/JZarracina" alt="Javier Zarracina" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Javier Zarracina</strong> @JZarracina
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Juan C Sanchez">
+            <img id="popJuan C Sanchez" src="https://unavatar.io/twitter/_JuanCsanchez_" alt="Juan C Sanchez" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Juan C Sanchez</strong> @_JuanCsanchez_
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Juanjo Cerero">
+            <img id="popJuanjo Cerero" src="https://unavatar.io/twitter/juanjocerero" alt="Juanjo Cerero" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Juanjo Cerero</strong> @juanjocerero
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Laura Aragó">
+            <img id="popLaura Aragó" src="https://unavatar.io/twitter/arago_la" alt="Laura Aragó" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Laura Aragó</strong> @arago_la
+            </span>
+          </a>
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Laura Martín">
+            <img id="popLaura Martín" src="https://unavatar.io/twitter/lmartingrx" alt="Laura Martín" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Laura Martín</strong> @lmartingrx
+            </span>
+          </a>
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Laura Placer Breijo">
+            <img id="popLaura Placer Breijo" src="https://unavatar.io/twitter/Laurapbr" alt="Laura Placer Breijo" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Laura Placer Breijo</strong> @Laurapbr
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Leyre Pejenaute">
+            <img id="popLeyre Pejenaute" src="https://unavatar.io/twitter/Leyretxuu" alt="Leyre Pejenaute" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Leyre Pejenaute</strong> @Leyretxuu
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Lucía Martínez">
+            <img id="popLucía Martínez" src="https://unavatar.io/twitter/martinezluciap" alt="Lucía Martínez" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Lucía Martínez</strong> @martinezluciap
+            </span>
+          </a>
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Luis Cano">
+            <img id="popLuis Cano" src="https://unavatar.io/twitter/lcsantacruz" alt="Luis Cano" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Luis Cano</strong> @lcsantacruz
+            </span>
+          </a>
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Luis Melgar">
+            <img id="popLuis Melgar" src="https://unavatar.io/twitter/asincopado" alt="Luis Melgar" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Luis Melgar</strong> @asincopado
+            </span>
+          </a>
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Luis Sevillano">
+            <img id="popLuis Sevillano" src="https://unavatar.io/twitter/sepirdata" alt="Luis Sevillano" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Luis Sevillano</strong> @sepirdata
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Manuel Rodríguez">
+            <img id="popManuel Rodríguez" src="https://unavatar.io/twitter/manuelromu" alt="Manuel Rodríguez" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Manuel Rodríguez</strong> @manuelromu
+            </span>
+          </a>
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Manuel Varela">
+            <img id="popManuel Varela" src="https://unavatar.io/twitter/manuel_varfar" alt="Manuel Varela" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Manuel Varela</strong> @manuel_varfar
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#María Erandi Flores Romero">
+            <img id="popMaría Flores" src="https://unavatar.io/twitter/erandiita" alt="María Erandi Flores Romero" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>María Erandi Flores Romero</strong> @erandiita
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#maria llop">
+            <img id="popmaria llop" src="https://unavatar.io/twitter/m_llop" alt="maria llop" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>maria llop</strong> @m_llop
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Mariluz Congosto">
+            <img id="popMariluz Congosto" src="https://unavatar.io/twitter/congosto" alt="Mariluz Congosto" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Mariluz Congosto</strong> @congosto
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Mario Sánchez">
+            <img id="popMario Sánchez" src="https://unavatar.io/twitter/MSanchez_HN" alt="Mario Sánchez" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Mario Sánchez</strong> @MSanchez_HN
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Martín González">
+            <img id="popMartín González" src="https://unavatar.io/twitter/martgnz" alt="Martín González" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Martín González</strong> @martgnz
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Miguel Rodríguez">
+            <img id="popMiguel Rodríguez" src="https://unavatar.io/twitter/miguelrofer" alt="Miguel Rodríguez" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Miguel Rodríguez</strong> @miguelrofer
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Monica Serrano">
+            <img id="popMonica Serrano" src="https://unavatar.io/twitter/MonicaSerrano_" alt="Monica Serrano" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Monica Serrano</strong> @MonicaSerrano_
+            </span>
+          </a>
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Montse Hidalgo">
+            <img id="popMontse Hidalgo" src="https://unavatar.io/twitter/montsehid" alt="Montse Hidalgo" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Montse Hidalgo</strong> @montsehid
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Nalini Lepetit">
+            <img id="popNaliniLepetit-Chella" src="https://unavatar.io/twitter/naliniLC" alt="Nalini Lepetit" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Nalini Lepetit</strong> @naliniLC
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Nuria Gutiérrez">
+            <img id="popNuria Gutiérrez" src="https://unavatar.io/twitter/nuria_gut" alt="Nuria Gutiérrez" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Nuria Gutiérrez</strong> @nuria_gut
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Patrícia Álvarez">
+            <img id="popPatrícia Álvarez" src="https://unavatar.io/twitter/patalgar" alt="Patrícia Álvarez" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Patrícia Álvarez</strong> @patalgar
+            </span>
+          </a>
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Patricia López">
+            <img id="popPatricia López" src="https://unavatar.io/twitter/lopezg_patricia" alt="Patricia López" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Patricia López</strong> @lopezg_patricia
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Pere Rovira Samblancat">
+            <img id="poppere rovira" src="https://unavatar.io/twitter/pere_rovira" alt="Pere Rovira Samblancat" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Pere Rovira Samblancat</strong> @pere_rovira
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Ramiro Aznar Ballarin">
+            <img id="popRamiro Aznar" src="https://unavatar.io/twitter/ramiroaznar" alt="Ramiro Aznar Ballarin" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Ramiro Aznar Ballarin</strong> @ramiroaznar
+            </span>
+          </a>
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Raúl Camañas">
+            <img id="popRaúl Camañas" src="https://unavatar.io/twitter/raulcamanas" alt="Raúl Camañas" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Raúl Camañas</strong> @raulcamanas
+            </span>
+          </a>
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Raúl Díaz Poblete">
+            <img id="popRaúl Díaz Poblete" src="https://unavatar.io/twitter/grunegasse" alt="Raúl Díaz Poblete" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Raúl Díaz Poblete</strong> @grunegasse
+            </span>
+          </a>
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Ricard Gràcia">
+            <img id="popRicard Gràcia" src="https://unavatar.io/twitter/ricardgracia" alt="Ricard Gràcia" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Ricard Gràcia</strong> @ricardgracia
+            </span>
+          </a>
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Rocío Arias Puga">
+            <img id="popRocío" src="https://unavatar.io/twitter/unatalR" alt="Rocío Arias Puga" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Rocío Arias Puga</strong> @unatalR
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Rodrigo Silva">
+            <img id="popRodrigo Silva" src="https://unavatar.io/twitter/rodrigo0silva" alt="Rodrigo Silva" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Rodrigo Silva</strong> @rodrigo0silva
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Santiago Espinosa de los Monteros">
+            <img id="popSaigesp" src="https://unavatar.io/twitter/saigesp" alt="Santiago Espinosa de los Monteros" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Santiago Espinosa de los Monteros</strong> @saigesp
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#vpascual">
+            <img id="popVíctor Pascual" src="https://unavatar.io/twitter/vpascual" alt="vpascual" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>vpascual</strong> @vpascual
+            </span>
+          </a>
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Xaquín G.V.">
+            <img id="popXaquín G.V." src="https://unavatar.io/twitter/xocasgv" alt="Xaquín G.V." width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Xaquín G.V.</strong> @xocasgv
+            </span>
+          </a>
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Xavi Giménez Baqués">
+            <img id="popXavi Gimenez" src="https://unavatar.io/twitter/xavigimenez" alt="Xavi Giménez Baqués" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Xavi Giménez Baqués</strong> @xavigimenez
+            </span>
+          </a>
+            
+          
+            
+          
+            
+
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#Yolanda Clemente Pomeda">
+            <img id="popYolanda Clemente" src="https://unavatar.io/twitter/yolsclemente" alt="Yolanda Clemente Pomeda" width="32" height="32" class="rounded me-2" loading="lazy" />
+            <span>
+              <strong>Yolanda Clemente Pomeda</strong> @yolsclemente
+            </span>
+          </a>
+            
+          
+            
+          
+            
+          
+            
+          
+      </div>
+
+    
+            
+    
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Adrián Blanco Ramos" tabindex="-1" role="dialog" aria-labelledby="Adrián Blanco RamosTitle" aria-hidden="true">
@@ -36,8 +1167,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/927112645844627456/32J3d9TA_400x400.jpg" alt="Adrián Blanco Ramos" width="72" height="72" />
-            <img id="popAdrián Blanco" src="https://unavatar.io/twitter/AdrianBlancoR" alt="Adrián Blanco Ramos" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/AdrianBlancoR" alt="Adrián Blanco Ramos" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/AdrianBlancoR" target="_blank"><h5 class="mt-0 mb-1 text-primary">@AdrianBlancoR</h5></a>
             <p>Graphics Reporter intern at The Washington Post</p>
@@ -55,23 +1185,8 @@
         </div>
       </div>
         
-
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Adrián Caballero">
-          <img id="popAdrián Caballero" src="https://unavatar.io/twitter/a__caballero" alt="Adrián Caballero" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Adrián Caballero"><strong class="text-gray-dark">Adrián Caballero</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/a__caballero" target="_blank"><span class="d-block">@a__caballero</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Adrián Caballero" tabindex="-1" role="dialog" aria-labelledby="Adrián CaballeroTitle" aria-hidden="true">
@@ -85,8 +1200,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/773515569102553088/t_Mlp3fL_400x400.jpg" alt="Adrián Caballero" width="72" height="72" />
-            <img id="popAdrián Caballero" src="https://unavatar.io/twitter/a__caballero" alt="Adrián Caballero" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/a__caballero" alt="Adrián Caballero" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/a__caballero" target="_blank"><h5 class="mt-0 mb-1 text-primary">@a__caballero</h5></a>
             <p>#Data &amp; #Politics freelance journalist &amp; professor | Hago #periodismo y lo analizo | Creo que si el contenido es exclusivo y de calidad, la gente paga</p>
@@ -104,55 +1218,24 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Alex Riera Fischer">
-          <img id="popAlex Riera Fischer" src="https://unavatar.io/twitter/Alex_R_Fischer" alt="Alex Riera Fischer" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Alex Riera Fischer"><strong class="text-gray-dark">Alex Riera Fischer</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/Alex_R_Fischer" target="_blank"><span class="d-block">@Alex_R_Fischer</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Alex Riera Fischer" tabindex="-1" role="dialog" aria-labelledby="Alex Riera FischerTitle" aria-hidden="true">
@@ -166,8 +1249,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/378800000196512789/0728f813714d311fe9bf254caee0f3d4_400x400.jpeg" alt="Alex Riera Fischer" width="72" height="72" />
-            <img id="popAlex Riera Fischer" src="https://unavatar.io/twitter/Alex_R_Fischer" alt="Alex Riera Fischer" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/Alex_R_Fischer" alt="Alex Riera Fischer" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/Alex_R_Fischer" target="_blank"><h5 class="mt-0 mb-1 text-primary">@Alex_R_Fischer</h5></a>
             <p>Infógrafo. Las opiniones expresadas aquí son de carácter personal</p>
@@ -185,43 +1267,18 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Amaya Verde">
-          <img id="popAmaya Verde" src="https://unavatar.io/twitter/amayaverde" alt="Amaya Verde" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Amaya Verde"><strong class="text-gray-dark">Amaya Verde</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/amayaverde" target="_blank"><span class="d-block">@amayaverde</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Amaya Verde" tabindex="-1" role="dialog" aria-labelledby="Amaya VerdeTitle" aria-hidden="true">
@@ -235,8 +1292,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/971463917661773824/lTK5-w72_400x400.jpg" alt="Amaya Verde" width="72" height="72" />
-            <img id="popAmaya Verde" src="https://unavatar.io/twitter/amayaverde" alt="Amaya Verde" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/amayaverde" alt="Amaya Verde" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/amayaverde" target="_blank"><h5 class="mt-0 mb-1 text-primary">@amayaverde</h5></a>
             <p>Infographics. Information design and data visualization @Univision | Infografía. Diseño de información y visualización de datos en Univision</p>
@@ -254,59 +1310,26 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Antonio Alonso">
-          <img id="popAntonio Alonso" src="https://unavatar.io/twitter/aalonsobe" alt="Antonio Alonso" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Antonio Alonso"><strong class="text-gray-dark">Antonio Alonso</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/aalonsobe" target="_blank"><span class="d-block">@aalonsobe</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Antonio Alonso" tabindex="-1" role="dialog" aria-labelledby="Antonio AlonsoTitle" aria-hidden="true">
@@ -320,8 +1343,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/1120015776671502336/YS6FEyMh_400x400.jpg" alt="Antonio Alonso" width="72" height="72" />
-            <img id="popAntonio Alonso" src="https://unavatar.io/twitter/aalonsobe" alt="Antonio Alonso" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/aalonsobe" alt="Antonio Alonso" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/aalonsobe" target="_blank"><h5 class="mt-0 mb-1 text-primary">@aalonsobe</h5></a>
             <p>Filólogo, documentalista, periodista, infografista</p>
@@ -339,27 +1361,10 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Antonio Esquembre">
-          <img id="popEsquembre" src="https://unavatar.io/twitter/__esquembre" alt="Antonio Esquembre" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Antonio Esquembre"><strong class="text-gray-dark">Antonio Esquembre</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/__esquembre" target="_blank"><span class="d-block">@__esquembre</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Antonio Esquembre" tabindex="-1" role="dialog" aria-labelledby="Antonio EsquembreTitle" aria-hidden="true">
@@ -373,8 +1378,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/684840290797109248/mQl53uYw_400x400.jpg" alt="Antonio Esquembre" width="72" height="72" />
-            <img id="popEsquembre" src="https://unavatar.io/twitter/__esquembre" alt="Antonio Esquembre" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/__esquembre" alt="Antonio Esquembre" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/__esquembre" target="_blank"><h5 class="mt-0 mb-1 text-primary">@__esquembre</h5></a>
             <p>Freelance front-end, dataviz and WebGL developer</p>
@@ -392,43 +1396,18 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Arnau Udina">
-          <img id="popArnau Udina" src="https://unavatar.io/twitter/arnauuc" alt="Arnau Udina" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Arnau Udina"><strong class="text-gray-dark">Arnau Udina</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/arnauuc" target="_blank"><span class="d-block">@arnauuc</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Arnau Udina" tabindex="-1" role="dialog" aria-labelledby="Arnau UdinaTitle" aria-hidden="true">
@@ -442,8 +1421,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/1706493614/arnauucfoto2_400x400.JPG" alt="Arnau Udina" width="72" height="72" />
-            <img id="popArnau Udina" src="https://unavatar.io/twitter/arnauuc" alt="Arnau Udina" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/arnauuc" alt="Arnau Udina" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/arnauuc" target="_blank"><h5 class="mt-0 mb-1 text-primary">@arnauuc</h5></a>
             <p></p>
@@ -461,35 +1439,14 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Belén Belmonte">
-          <img id="popBelén Belmonte" src="https://unavatar.io/twitter/bbelmontea" alt="Belén Belmonte" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Belén Belmonte"><strong class="text-gray-dark">Belén Belmonte</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/bbelmontea" target="_blank"><span class="d-block">@bbelmontea</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Belén Belmonte" tabindex="-1" role="dialog" aria-labelledby="Belén BelmonteTitle" aria-hidden="true">
@@ -503,8 +1460,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/1081498433452761089/zK9a3Rpq_400x400.jpg" alt="Belén Belmonte" width="72" height="72" />
-            <img id="popBelén Belmonte" src="https://unavatar.io/twitter/bbelmontea" alt="Belén Belmonte" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/bbelmontea" alt="Belén Belmonte" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/bbelmontea" target="_blank"><h5 class="mt-0 mb-1 text-primary">@bbelmontea</h5></a>
             <p>Data journalist and news reporter at energy news and data provider @montelnews_ES bbelmontea@gmail.com</p>
@@ -522,27 +1478,10 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Borja Andrino Turón">
-          <img id="popBorja Andrino Turón" src="https://unavatar.io/twitter/borjandrinot" alt="Borja Andrino Turón" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Borja Andrino Turón"><strong class="text-gray-dark">Borja Andrino Turón</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/borjandrinot" target="_blank"><span class="d-block">@borjandrinot</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Borja Andrino Turón" tabindex="-1" role="dialog" aria-labelledby="Borja Andrino TurónTitle" aria-hidden="true">
@@ -556,8 +1495,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/1107742689339101188/6FJN_1Qd_400x400.jpg" alt="Borja Andrino Turón" width="72" height="72" />
-            <img id="popBorja Andrino Turón" src="https://unavatar.io/twitter/borjandrinot" alt="Borja Andrino Turón" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/borjandrinot" alt="Borja Andrino Turón" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/borjandrinot" target="_blank"><h5 class="mt-0 mb-1 text-primary">@borjandrinot</h5></a>
             <p>Data Scientist en @PRISA. Trabajo con @el_pais, @diarioas y muchos muchos datos.</p>
@@ -575,39 +1513,16 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Carlos Herrera">
-          <img id="popCarlos Herrera" src="https://unavatar.io/twitter/MundoGister" alt="Carlos Herrera" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Carlos Herrera"><strong class="text-gray-dark">Carlos Herrera</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/MundoGister" target="_blank"><span class="d-block">@MundoGister</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Carlos Herrera" tabindex="-1" role="dialog" aria-labelledby="Carlos HerreraTitle" aria-hidden="true">
@@ -621,8 +1536,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/778292910395629572/4pHLcIAG_400x400.jpg" alt="Carlos Herrera" width="72" height="72" />
-            <img id="popCarlos Herrera" src="https://unavatar.io/twitter/MundoGister" alt="Carlos Herrera" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/MundoGister" alt="Carlos Herrera" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/MundoGister" target="_blank"><h5 class="mt-0 mb-1 text-primary">@MundoGister</h5></a>
             <p>Frontend developer</p>
@@ -640,31 +1554,12 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Carmen Torrecillas">
-          <img id="popCarmen Torrecillas" src="https://unavatar.io/twitter/carmen_TM_" alt="Carmen Torrecillas" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Carmen Torrecillas"><strong class="text-gray-dark">Carmen Torrecillas</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/carmen_TM_" target="_blank"><span class="d-block">@carmen_TM_</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Carmen Torrecillas" tabindex="-1" role="dialog" aria-labelledby="Carmen TorrecillasTitle" aria-hidden="true">
@@ -678,8 +1573,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/1128220211642097665/NTUPCCSr_400x400.jpg" alt="Carmen Torrecillas" width="72" height="72" />
-            <img id="popCarmen Torrecillas" src="https://unavatar.io/twitter/carmen_TM_" alt="Carmen Torrecillas" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/carmen_TM_" alt="Carmen Torrecillas" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/carmen_TM_" target="_blank"><h5 class="mt-0 mb-1 text-primary">@carmen_TM_</h5></a>
             <p>Junior front-end developer thanks to @AdaLab_Digital | Passionate about #dataviz, #GIS maps &amp; #parametricdesign | Past: architect and @ooopart co-founder |</p>
@@ -697,27 +1591,10 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Carolina Ávila Caruso">
-          <img id="popCarolina Ávila" src="https://unavatar.io/twitter/caroavilac" alt="Carolina Ávila Caruso" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Carolina Ávila Caruso"><strong class="text-gray-dark">Carolina Ávila Caruso</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/caroavilac" target="_blank"><span class="d-block">@caroavilac</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Carolina Ávila Caruso" tabindex="-1" role="dialog" aria-labelledby="Carolina Ávila CarusoTitle" aria-hidden="true">
@@ -731,8 +1608,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/821595283738001408/TRCwDN_9_400x400.jpg" alt="Carolina Ávila Caruso" width="72" height="72" />
-            <img id="popCarolina Ávila" src="https://unavatar.io/twitter/caroavilac" alt="Carolina Ávila Caruso" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/caroavilac" alt="Carolina Ávila Caruso" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/caroavilac" target="_blank"><h5 class="mt-0 mb-1 text-primary">@caroavilac</h5></a>
             <p>Periodista y project manager. Coordino proyectos interactivos en equipos interdisciplinarios: diseñadores, programadores y periodistas.</p>
@@ -750,31 +1626,12 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Cecilio Galdón">
-          <img id="popCecilio Galdón" src="https://unavatar.io/twitter/CecilioGaldon" alt="Cecilio Galdón" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Cecilio Galdón"><strong class="text-gray-dark">Cecilio Galdón</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/CecilioGaldon" target="_blank"><span class="d-block">@CecilioGaldon</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Cecilio Galdón" tabindex="-1" role="dialog" aria-labelledby="Cecilio GaldónTitle" aria-hidden="true">
@@ -788,8 +1645,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/732744705847513089/Vxs5FHcl_400x400.jpg" alt="Cecilio Galdón" width="72" height="72" />
-            <img id="popCecilio Galdón" src="https://unavatar.io/twitter/CecilioGaldon" alt="Cecilio Galdón" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/CecilioGaldon" alt="Cecilio Galdón" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/CecilioGaldon" target="_blank"><h5 class="mt-0 mb-1 text-primary">@CecilioGaldon</h5></a>
             <p>Periodista especializado en investigación y #periodismodatos. Colaborador de @elmundoes y @lamarea_com. Cantera de @M_Investigacion. El #MedioAmbiente importa.</p>
@@ -807,23 +1663,8 @@
         </div>
       </div>
         
-
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Chiqui Esteban">
-          <img id="popChiqui Esteban (pronounced 'Cheeky')" src="https://unavatar.io/twitter/chiquiesteban" alt="Chiqui Esteban" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Chiqui Esteban"><strong class="text-gray-dark">Chiqui Esteban</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/chiquiesteban" target="_blank"><span class="d-block">@chiquiesteban</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Chiqui Esteban" tabindex="-1" role="dialog" aria-labelledby="Chiqui EstebanTitle" aria-hidden="true">
@@ -837,8 +1678,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/1129483801187540992/e8fBnZBO_400x400.png" alt="Chiqui Esteban" width="72" height="72" />
-            <img id="popChiqui Esteban (pronounced 'Cheeky')" src="https://unavatar.io/twitter/chiquiesteban" alt="Chiqui Esteban" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/chiquiesteban" alt="Chiqui Esteban" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/chiquiesteban" target="_blank"><h5 class="mt-0 mb-1 text-primary">@chiquiesteban</h5></a>
             <p>Graphics Director @washingtonpost. Before: @NatGeo @BostonGlobe, Spain. Baseball (Red Sox) and soccer fan, reads American history, eats albóndigas.</p>
@@ -856,27 +1696,10 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Clara Penín">
-          <img id="popClara Penín" src="https://unavatar.io/twitter/arake14" alt="Clara Penín" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Clara Penín"><strong class="text-gray-dark">Clara Penín</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/arake14" target="_blank"><span class="d-block">@arake14</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Clara Penín" tabindex="-1" role="dialog" aria-labelledby="Clara PenínTitle" aria-hidden="true">
@@ -890,8 +1713,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/473204433048707073/20QGXGgd_400x400.jpeg" alt="Clara Penín" width="72" height="72" />
-            <img id="popClara Penín" src="https://unavatar.io/twitter/arake14" alt="Clara Penín" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/arake14" alt="Clara Penín" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/arake14" target="_blank"><h5 class="mt-0 mb-1 text-primary">@arake14</h5></a>
             <p>Infografista en La Vanguardia</p>
@@ -909,35 +1731,14 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Cristian Bertelegni">
-          <img id="popCristian Bertelegni" src="https://unavatar.io/twitter/cbertelegni" alt="Cristian Bertelegni" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Cristian Bertelegni"><strong class="text-gray-dark">Cristian Bertelegni</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/cbertelegni" target="_blank"><span class="d-block">@cbertelegni</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Cristian Bertelegni" tabindex="-1" role="dialog" aria-labelledby="Cristian BertelegniTitle" aria-hidden="true">
@@ -951,8 +1752,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/877694430354051072/KHsBqWV5_400x400.jpg" alt="Cristian Bertelegni" width="72" height="72" />
-            <img id="popCristian Bertelegni" src="https://unavatar.io/twitter/cbertelegni" alt="Cristian Bertelegni" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/cbertelegni" alt="Cristian Bertelegni" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/cbertelegni" target="_blank"><h5 class="mt-0 mb-1 text-primary">@cbertelegni</h5></a>
             <p>News application developer en @LNdata @LNCreativa, diario @LANACION. Firme como viendo al Invisible. #dataviz #newsApps</p>
@@ -970,27 +1770,10 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Cristina Ramon">
-          <img id="popCristina Ramon" src="https://unavatar.io/twitter/crisodisy" alt="Cristina Ramon" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Cristina Ramon"><strong class="text-gray-dark">Cristina Ramon</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/crisodisy" target="_blank"><span class="d-block">@crisodisy</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Cristina Ramon" tabindex="-1" role="dialog" aria-labelledby="Cristina RamonTitle" aria-hidden="true">
@@ -1004,8 +1787,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/378800000210104133/a3420c9a02402dde3d09a1e41f1688e5_400x400.jpeg" alt="Cristina Ramon" width="72" height="72" />
-            <img id="popCristina Ramon" src="https://unavatar.io/twitter/crisodisy" alt="Cristina Ramon" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/crisodisy" alt="Cristina Ramon" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/crisodisy" target="_blank"><h5 class="mt-0 mb-1 text-primary">@crisodisy</h5></a>
             <p>Periodista. Data, coding, economía, R, python, caos...</p>
@@ -1023,39 +1805,16 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Daniel G Cappa">
-          <img id="popDaniel G Cappa" src="https://unavatar.io/twitter/Danicappa" alt="Daniel G Cappa" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Daniel G Cappa"><strong class="text-gray-dark">Daniel G Cappa</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/Danicappa" target="_blank"><span class="d-block">@Danicappa</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Daniel G Cappa" tabindex="-1" role="dialog" aria-labelledby="Daniel G CappaTitle" aria-hidden="true">
@@ -1069,8 +1828,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/1073706426407796736/18Hxjnff_400x400.jpg" alt="Daniel G Cappa" width="72" height="72" />
-            <img id="popDaniel G Cappa" src="https://unavatar.io/twitter/Danicappa" alt="Daniel G Cappa" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/Danicappa" alt="Daniel G Cappa" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/Danicappa" target="_blank"><h5 class="mt-0 mb-1 text-primary">@Danicappa</h5></a>
             <p>Periodista venezolano. Hago cositas con datos @M_investigacion #DDJ #DataViz</p>
@@ -1088,27 +1846,10 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Daniel Villatoro G">
-          <img id="popDaniel Villatoro G" src="https://unavatar.io/twitter/danyvillatoro" alt="Daniel Villatoro G" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Daniel Villatoro G"><strong class="text-gray-dark">Daniel Villatoro G</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/danyvillatoro" target="_blank"><span class="d-block">@danyvillatoro</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Daniel Villatoro G" tabindex="-1" role="dialog" aria-labelledby="Daniel Villatoro GTitle" aria-hidden="true">
@@ -1122,8 +1863,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/1085532346537992192/Jx9POay9_400x400.jpg" alt="Daniel Villatoro G" width="72" height="72" />
-            <img id="popDaniel Villatoro G" src="https://unavatar.io/twitter/danyvillatoro" alt="Daniel Villatoro G" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/danyvillatoro" alt="Daniel Villatoro G" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/danyvillatoro" target="_blank"><h5 class="mt-0 mb-1 text-primary">@danyvillatoro</h5></a>
             <p>Trabajo en innovación para el cambio en @EscuelaDeDatos y @socialTIC. Sueño con vivir en un país sin discriminación junto a @Visibles_gt . Send Data.</p>
@@ -1141,27 +1881,10 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Daniela Guazo">
-          <img id="popDaniela Guazo" src="https://unavatar.io/twitter/danygm87" alt="Daniela Guazo" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Daniela Guazo"><strong class="text-gray-dark">Daniela Guazo</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/danygm87" target="_blank"><span class="d-block">@danygm87</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Daniela Guazo" tabindex="-1" role="dialog" aria-labelledby="Daniela GuazoTitle" aria-hidden="true">
@@ -1175,8 +1898,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/896933230095597574/Umk1g4I8_400x400.jpg" alt="Daniela Guazo" width="72" height="72" />
-            <img id="popDaniela Guazo" src="https://unavatar.io/twitter/danygm87" alt="Daniela Guazo" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/danygm87" alt="Daniela Guazo" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/danygm87" target="_blank"><h5 class="mt-0 mb-1 text-primary">@danygm87</h5></a>
             <p>Datajournalist at @Univ_Data #dataviz #data #journalist Buscando historias en los datos</p>
@@ -1194,51 +1916,22 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#David Ruiz López">
-          <img id="popDavid Ruiz López" src="https://unavatar.io/twitter/ruizfrontend" alt="David Ruiz López" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#David Ruiz López"><strong class="text-gray-dark">David Ruiz López</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/ruizfrontend" target="_blank"><span class="d-block">@ruizfrontend</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="David Ruiz López" tabindex="-1" role="dialog" aria-labelledby="David Ruiz LópezTitle" aria-hidden="true">
@@ -1252,8 +1945,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/1132578184174690304/pejtaUSG_400x400.jpg" alt="David Ruiz López" width="72" height="72" />
-            <img id="popDavid Ruiz López" src="https://unavatar.io/twitter/ruizfrontend" alt="David Ruiz López" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/ruizfrontend" alt="David Ruiz López" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/ruizfrontend" target="_blank"><h5 class="mt-0 mb-1 text-primary">@ruizfrontend</h5></a>
             <p>Cranky full stack developer, product development lover. @eldiarioes, @_El_InterCambio, @lab_rtvees. Ahora en @reclamador</p>
@@ -1271,27 +1963,10 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Dénnys Eduardo Mejía Bardales">
-          <img id="popDénnys Eduardo Mejía Bardales" src="https://unavatar.io/twitter/murdijuy" alt="Dénnys Eduardo Mejía Bardales" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Dénnys Eduardo Mejía Bardales"><strong class="text-gray-dark">Dénnys Eduardo Mejía Bardales</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/murdijuy" target="_blank"><span class="d-block">@murdijuy</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Dénnys Eduardo Mejía Bardales" tabindex="-1" role="dialog" aria-labelledby="Dénnys Eduardo Mejía BardalesTitle" aria-hidden="true">
@@ -1305,8 +1980,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/892912504833167361/XEDy3240_400x400.jpg" alt="Dénnys Eduardo Mejía Bardales" width="72" height="72" />
-            <img id="popDénnys Eduardo Mejía Bardales" src="https://unavatar.io/twitter/murdijuy" alt="Dénnys Eduardo Mejía Bardales" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/murdijuy" alt="Dénnys Eduardo Mejía Bardales" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/murdijuy" target="_blank"><h5 class="mt-0 mb-1 text-primary">@murdijuy</h5></a>
             <p>Licenciado en comunicación y diseño, me desempeño como comunicador visual e infografista. Mi profesión consiste en traducir historias y conceptos complejos a lenguaje visual y narrativas alternas para hacer del conocimiento algo accesible a la mayoría de las personas. </p>
@@ -1324,55 +1998,24 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Elena Pinilla">
-          <img id="popElena Pinilla" src="https://unavatar.io/twitter/Elena_Pinilla_" alt="Elena Pinilla" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Elena Pinilla"><strong class="text-gray-dark">Elena Pinilla</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/Elena_Pinilla_" target="_blank"><span class="d-block">@Elena_Pinilla_</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Elena Pinilla" tabindex="-1" role="dialog" aria-labelledby="Elena PinillaTitle" aria-hidden="true">
@@ -1386,8 +2029,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/787224527503757312/MAQ3r_s-_400x400.jpg" alt="Elena Pinilla" width="72" height="72" />
-            <img id="popElena Pinilla" src="https://unavatar.io/twitter/Elena_Pinilla_" alt="Elena Pinilla" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/Elena_Pinilla_" alt="Elena Pinilla" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/Elena_Pinilla_" target="_blank"><h5 class="mt-0 mb-1 text-primary">@Elena_Pinilla_</h5></a>
             <p>Periodista. Ahora, buceo entre #periodismo de #datos y #fútbol http://elenapinilla.esy.es</p>
@@ -1405,39 +2047,16 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Endika Nuñez">
-          <img id="popEndika Nuñez" src="https://unavatar.io/twitter/endikasatu" alt="Endika Nuñez" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Endika Nuñez"><strong class="text-gray-dark">Endika Nuñez</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/endikasatu" target="_blank"><span class="d-block">@endikasatu</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Endika Nuñez" tabindex="-1" role="dialog" aria-labelledby="Endika NuñezTitle" aria-hidden="true">
@@ -1451,8 +2070,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/1151000791144116224/AkolZ-Lo_400x400.jpg" alt="Endika Nuñez" width="72" height="72" />
-            <img id="popEndika Nuñez" src="https://unavatar.io/twitter/endikasatu" alt="Endika Nuñez" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/endikasatu" alt="Endika Nuñez" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/endikasatu" target="_blank"><h5 class="mt-0 mb-1 text-primary">@endikasatu</h5></a>
             <p>Visualización y análisis de datos. Ingeniero de desarrollo de procesos.</p>
@@ -1470,31 +2088,12 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Ernesto Mislej">
-          <img id="popErnesto Mislej" src="https://unavatar.io/twitter/emislej" alt="Ernesto Mislej" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Ernesto Mislej"><strong class="text-gray-dark">Ernesto Mislej</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/emislej" target="_blank"><span class="d-block">@emislej</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Ernesto Mislej" tabindex="-1" role="dialog" aria-labelledby="Ernesto MislejTitle" aria-hidden="true">
@@ -1508,8 +2107,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/911990128708636672/S2AekXjo_400x400.jpg" alt="Ernesto Mislej" width="72" height="72" />
-            <img id="popErnesto Mislej" src="https://unavatar.io/twitter/emislej" alt="Ernesto Mislej" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/emislej" alt="Ernesto Mislej" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/emislej" target="_blank"><h5 class="mt-0 mb-1 text-primary">@emislej</h5></a>
             <p>Co-founder of 7Puentes. Data Scientist, entrepreneur and Irina &amp; León's father. Machine Learning &amp; Artificial Intelligence professor at CS Department, UBA</p>
@@ -1527,71 +2125,32 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Florencia Rodríguez Altube">
-          <img id="popFlorencia Rodríguez Altube" src="https://unavatar.io/twitter/florraltube" alt="Florencia Rodríguez Altube" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Florencia Rodríguez Altube"><strong class="text-gray-dark">Florencia Rodríguez Altube</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/florraltube" target="_blank"><span class="d-block">@florraltube</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Florencia Rodríguez Altube" tabindex="-1" role="dialog" aria-labelledby="Florencia Rodríguez AltubeTitle" aria-hidden="true">
@@ -1605,8 +2164,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/1138520253724581888/SRr1nc6N_400x400.jpg" alt="Florencia Rodríguez Altube" width="72" height="72" />
-            <img id="popFlorencia Rodríguez Altube" src="https://unavatar.io/twitter/florraltube" alt="Florencia Rodríguez Altube" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/florraltube" alt="Florencia Rodríguez Altube" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/florraltube" target="_blank"><h5 class="mt-0 mb-1 text-primary">@florraltube</h5></a>
             <p>Periodismo de datos e innovación en @LNData @LANACION</p>
@@ -1624,39 +2182,16 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Gilberto León">
-          <img id="popGilberto León" src="https://unavatar.io/twitter/gilbertoleon" alt="Gilberto León" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Gilberto León"><strong class="text-gray-dark">Gilberto León</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/gilbertoleon" target="_blank"><span class="d-block">@gilbertoleon</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Gilberto León" tabindex="-1" role="dialog" aria-labelledby="Gilberto LeónTitle" aria-hidden="true">
@@ -1670,8 +2205,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/1422464571/Edhel_cuadro_400x400.jpg" alt="Gilberto León" width="72" height="72" />
-            <img id="popGilberto León" src="https://unavatar.io/twitter/gilbertoleon" alt="Gilberto León" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/gilbertoleon" alt="Gilberto León" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/gilbertoleon" target="_blank"><h5 class="mt-0 mb-1 text-primary">@gilbertoleon</h5></a>
             <p>#Webdev y #dataviz (#d3js, @narcodata, #Trendlecciones, #MuertosSilenciados), domestico escuincles en la @uamcuajimalpa, soy #MADIC y ñoñeo harto.  Él/He/His</p>
@@ -1689,27 +2223,10 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Guillermo Villar">
-          <img id="popGuillermo Villar" src="https://unavatar.io/twitter/_gvillar" alt="Guillermo Villar" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Guillermo Villar"><strong class="text-gray-dark">Guillermo Villar</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/_gvillar" target="_blank"><span class="d-block">@_gvillar</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Guillermo Villar" tabindex="-1" role="dialog" aria-labelledby="Guillermo VillarTitle" aria-hidden="true">
@@ -1723,8 +2240,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/1111045895863353344/XdcSh7GR_400x400.png" alt="Guillermo Villar" width="72" height="72" />
-            <img id="popGuillermo Villar" src="https://unavatar.io/twitter/_gvillar" alt="Guillermo Villar" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/_gvillar" alt="Guillermo Villar" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/_gvillar" target="_blank"><h5 class="mt-0 mb-1 text-primary">@_gvillar</h5></a>
             <p>Periodista de datos, estudiante de Máster en Data Science and Society (especialización en medios) en Países Bajos y fan de Python y R. Hice prácticas de periodismo de datos en El País y en el Lab RTVE.</p>
@@ -1742,63 +2258,28 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Irene de la Torre Arenas">
-          <img id="popIrene de la Torre" src="https://unavatar.io/twitter/inari_ta" alt="Irene de la Torre Arenas" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Irene de la Torre Arenas"><strong class="text-gray-dark">Irene de la Torre Arenas</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/inari_ta" target="_blank"><span class="d-block">@inari_ta</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Irene de la Torre Arenas" tabindex="-1" role="dialog" aria-labelledby="Irene de la Torre ArenasTitle" aria-hidden="true">
@@ -1812,8 +2293,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/530415046967320576/Za9Syquu_400x400.png" alt="Irene de la Torre Arenas" width="72" height="72" />
-            <img id="popIrene de la Torre" src="https://unavatar.io/twitter/inari_ta" alt="Irene de la Torre Arenas" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/inari_ta" alt="Irene de la Torre Arenas" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/inari_ta" target="_blank"><h5 class="mt-0 mb-1 text-primary">@inari_ta</h5></a>
             <p>Estudié periodismo y publicidad. Luego animación 3D. Años más tarde, comunicación visual y visualización de datos en la Universidad Northeastern en Boston (gracias a una beca de la Fundación La Caixa). Actualmente soy una mezcla de contadora de historias, diseñadora de la información y programadora (soy una auténtica fan de D3.js). Y sigo aprendiendo. </p>
@@ -1831,31 +2311,12 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#javier barriocanal">
-          <img id="popJavier J.Barriocanal" src="https://unavatar.io/twitter/jbarriocanal" alt="javier barriocanal" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#javier barriocanal"><strong class="text-gray-dark">javier barriocanal</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/jbarriocanal" target="_blank"><span class="d-block">@jbarriocanal</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="javier barriocanal" tabindex="-1" role="dialog" aria-labelledby="javier barriocanalTitle" aria-hidden="true">
@@ -1869,8 +2330,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/677994625496387585/zN2NHQne_400x400.png" alt="javier barriocanal" width="72" height="72" />
-            <img id="popJavier J.Barriocanal" src="https://unavatar.io/twitter/jbarriocanal" alt="javier barriocanal" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/jbarriocanal" alt="javier barriocanal" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/jbarriocanal" target="_blank"><h5 class="mt-0 mb-1 text-primary">@jbarriocanal</h5></a>
             <p>Infografista especializado en visualización de datos y multimedia</p>
@@ -1888,27 +2348,10 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Javier Galán">
-          <img id="popFJ. Galán Caballero" src="https://unavatar.io/twitter/Antonmileo" alt="Javier Galán" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Javier Galán"><strong class="text-gray-dark">Javier Galán</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/Antonmileo" target="_blank"><span class="d-block">@Antonmileo</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Javier Galán" tabindex="-1" role="dialog" aria-labelledby="Javier GalánTitle" aria-hidden="true">
@@ -1922,8 +2365,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/1151461131921309701/PW2FzbzX_400x400.png" alt="Javier Galán" width="72" height="72" />
-            <img id="popFJ. Galán Caballero" src="https://unavatar.io/twitter/Antonmileo" alt="Javier Galán" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/Antonmileo" alt="Javier Galán" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/Antonmileo" target="_blank"><h5 class="mt-0 mb-1 text-primary">@Antonmileo</h5></a>
             <p>Del todo, este poco. Datos, infografía y transparencia en @el_pais</p>
@@ -1941,27 +2383,10 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Javier Zarracina">
-          <img id="popJavier Zarracina" src="https://unavatar.io/twitter/JZarracina" alt="Javier Zarracina" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Javier Zarracina"><strong class="text-gray-dark">Javier Zarracina</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/JZarracina" target="_blank"><span class="d-block">@JZarracina</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Javier Zarracina" tabindex="-1" role="dialog" aria-labelledby="Javier ZarracinaTitle" aria-hidden="true">
@@ -1975,8 +2400,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/862096867844390912/x-BgtkaC_400x400.jpg" alt="Javier Zarracina" width="72" height="72" />
-            <img id="popJavier Zarracina" src="https://unavatar.io/twitter/JZarracina" alt="Javier Zarracina" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/JZarracina" alt="Javier Zarracina" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/JZarracina" target="_blank"><h5 class="mt-0 mb-1 text-primary">@JZarracina</h5></a>
             <p>Vox.co Graphics editor , previamente Los Angeles Times, Boston Globe y El Correo</p>
@@ -1994,59 +2418,26 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Juan C Sanchez">
-          <img id="popJuan C Sanchez" src="https://unavatar.io/twitter/_JuanCsanchez_" alt="Juan C Sanchez" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Juan C Sanchez"><strong class="text-gray-dark">Juan C Sanchez</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/_JuanCsanchez_" target="_blank"><span class="d-block">@_JuanCsanchez_</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Juan C Sanchez" tabindex="-1" role="dialog" aria-labelledby="Juan C SanchezTitle" aria-hidden="true">
@@ -2060,8 +2451,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/627025463618224128/HjqcUNQW_400x400.jpg" alt="Juan C Sanchez" width="72" height="72" />
-            <img id="popJuan C Sanchez" src="https://unavatar.io/twitter/_JuanCsanchez_" alt="Juan C Sanchez" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/_JuanCsanchez_" alt="Juan C Sanchez" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/_JuanCsanchez_" target="_blank"><h5 class="mt-0 mb-1 text-primary">@_JuanCsanchez_</h5></a>
             <p>Visualization and Infographic Multimedia at http://ELMUNDO.es  Interactivos-DataViz-UX-Nuevos Formatos-Tecnología-Web Mobile Redes. Profesor @M_Investigacion</p>
@@ -2079,35 +2469,14 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Juanjo Cerero">
-          <img id="popJuanjo Cerero" src="https://unavatar.io/twitter/juanjocerero" alt="Juanjo Cerero" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Juanjo Cerero"><strong class="text-gray-dark">Juanjo Cerero</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/juanjocerero" target="_blank"><span class="d-block">@juanjocerero</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Juanjo Cerero" tabindex="-1" role="dialog" aria-labelledby="Juanjo CereroTitle" aria-hidden="true">
@@ -2121,8 +2490,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/949275016746676225/ISFzjc2L_400x400.jpg" alt="Juanjo Cerero" width="72" height="72" />
-            <img id="popJuanjo Cerero" src="https://unavatar.io/twitter/juanjocerero" alt="Juanjo Cerero" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/juanjocerero" alt="Juanjo Cerero" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/juanjocerero" target="_blank"><h5 class="mt-0 mb-1 text-primary">@juanjocerero</h5></a>
             <p>Periodista de datos en IDEAL</p>
@@ -2140,51 +2508,22 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Laura Aragó">
-          <img id="popLaura Aragó" src="https://unavatar.io/twitter/arago_la" alt="Laura Aragó" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Laura Aragó"><strong class="text-gray-dark">Laura Aragó</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/arago_la" target="_blank"><span class="d-block">@arago_la</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Laura Aragó" tabindex="-1" role="dialog" aria-labelledby="Laura AragóTitle" aria-hidden="true">
@@ -2198,8 +2537,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/1120766868955041798/9_QEGaRu_400x400.jpg" alt="Laura Aragó" width="72" height="72" />
-            <img id="popLaura Aragó" src="https://unavatar.io/twitter/arago_la" alt="Laura Aragó" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/arago_la" alt="Laura Aragó" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/arago_la" target="_blank"><h5 class="mt-0 mb-1 text-primary">@arago_la</h5></a>
             <p>Periodista especialitzada en #periodismodatos #ddj | Made in @M_Investigacion | Journalist at @LaVanguardia</p>
@@ -2217,23 +2555,8 @@
         </div>
       </div>
         
-
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Laura Martín">
-          <img id="popLaura Martín" src="https://unavatar.io/twitter/lmartingrx" alt="Laura Martín" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Laura Martín"><strong class="text-gray-dark">Laura Martín</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/lmartingrx" target="_blank"><span class="d-block">@lmartingrx</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Laura Martín" tabindex="-1" role="dialog" aria-labelledby="Laura MartínTitle" aria-hidden="true">
@@ -2247,8 +2570,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/856891196467183617/F301GZms_400x400.jpg" alt="Laura Martín" width="72" height="72" />
-            <img id="popLaura Martín" src="https://unavatar.io/twitter/lmartingrx" alt="Laura Martín" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/lmartingrx" alt="Laura Martín" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/lmartingrx" target="_blank"><h5 class="mt-0 mb-1 text-primary">@lmartingrx</h5></a>
             <p>Periodista. Me obsesionan los datos, las tipografías y las paletas de color. Diseño cosas en @elconfidencial</p>
@@ -2266,27 +2588,10 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Laura Placer Breijo">
-          <img id="popLaura Placer Breijo" src="https://unavatar.io/twitter/Laurapbr" alt="Laura Placer Breijo" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Laura Placer Breijo"><strong class="text-gray-dark">Laura Placer Breijo</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/Laurapbr" target="_blank"><span class="d-block">@Laurapbr</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Laura Placer Breijo" tabindex="-1" role="dialog" aria-labelledby="Laura Placer BreijoTitle" aria-hidden="true">
@@ -2300,8 +2605,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/676181582546366465/r0J2eXoe_400x400.jpg" alt="Laura Placer Breijo" width="72" height="72" />
-            <img id="popLaura Placer Breijo" src="https://unavatar.io/twitter/Laurapbr" alt="Laura Placer Breijo" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/Laurapbr" alt="Laura Placer Breijo" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/Laurapbr" target="_blank"><h5 class="mt-0 mb-1 text-primary">@Laurapbr</h5></a>
             <p>Periodista por la USC, de datos por la UNIR. En La Voz de Galicia me dejan hacer infografías y hablar de Eurovisión.</p>
@@ -2319,35 +2623,14 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Leyre Pejenaute">
-          <img id="popLeyre Pejenaute" src="https://unavatar.io/twitter/Leyretxuu" alt="Leyre Pejenaute" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Leyre Pejenaute"><strong class="text-gray-dark">Leyre Pejenaute</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/Leyretxuu" target="_blank"><span class="d-block">@Leyretxuu</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Leyre Pejenaute" tabindex="-1" role="dialog" aria-labelledby="Leyre PejenauteTitle" aria-hidden="true">
@@ -2361,8 +2644,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/1232009329/DSCN4082_400x400.JPG" alt="Leyre Pejenaute" width="72" height="72" />
-            <img id="popLeyre Pejenaute" src="https://unavatar.io/twitter/Leyretxuu" alt="Leyre Pejenaute" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/Leyretxuu" alt="Leyre Pejenaute" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/Leyretxuu" target="_blank"><h5 class="mt-0 mb-1 text-primary">@Leyretxuu</h5></a>
             <p>Journalist. Cuentacuentos. En tránsito, del frío siberiano al calor tropical, rumbo a las Antípodas... de los datos. @93metros más allá. A ver qué pasa.</p>
@@ -2380,51 +2662,22 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Lucía Martínez">
-          <img id="popLucía Martínez" src="https://unavatar.io/twitter/martinezluciap" alt="Lucía Martínez" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Lucía Martínez"><strong class="text-gray-dark">Lucía Martínez</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/martinezluciap" target="_blank"><span class="d-block">@martinezluciap</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Lucía Martínez" tabindex="-1" role="dialog" aria-labelledby="Lucía MartínezTitle" aria-hidden="true">
@@ -2438,8 +2691,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/974450392242245632/WfcW5xfP_400x400.jpg" alt="Lucía Martínez" width="72" height="72" />
-            <img id="popLucía Martínez" src="https://unavatar.io/twitter/martinezluciap" alt="Lucía Martínez" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/martinezluciap" alt="Lucía Martínez" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/martinezluciap" target="_blank"><h5 class="mt-0 mb-1 text-primary">@martinezluciap</h5></a>
             <p>Periodista en @Chequeado. Trabajo con datos y visualizaciones. Podés encontrar algunos de mis proyectos acá:</p>
@@ -2457,23 +2709,8 @@
         </div>
       </div>
         
-
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Luis Cano">
-          <img id="popLuis Cano" src="https://unavatar.io/twitter/lcsantacruz" alt="Luis Cano" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Luis Cano"><strong class="text-gray-dark">Luis Cano</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/lcsantacruz" target="_blank"><span class="d-block">@lcsantacruz</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Luis Cano" tabindex="-1" role="dialog" aria-labelledby="Luis CanoTitle" aria-hidden="true">
@@ -2487,8 +2724,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/1168496085/lazaroiv_400x400.jpg" alt="Luis Cano" width="72" height="72" />
-            <img id="popLuis Cano" src="https://unavatar.io/twitter/lcsantacruz" alt="Luis Cano" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/lcsantacruz" alt="Luis Cano" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/lcsantacruz" target="_blank"><h5 class="mt-0 mb-1 text-primary">@lcsantacruz</h5></a>
             <p>Periodista. Datos, visualización, interactividad en ABC</p>
@@ -2506,23 +2742,8 @@
         </div>
       </div>
         
-
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Luis Melgar">
-          <img id="popLuis Melgar" src="https://unavatar.io/twitter/asincopado" alt="Luis Melgar" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Luis Melgar"><strong class="text-gray-dark">Luis Melgar</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/asincopado" target="_blank"><span class="d-block">@asincopado</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Luis Melgar" tabindex="-1" role="dialog" aria-labelledby="Luis MelgarTitle" aria-hidden="true">
@@ -2536,8 +2757,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/581926450485325824/v6CssBKm_400x400.png" alt="Luis Melgar" width="72" height="72" />
-            <img id="popLuis Melgar" src="https://unavatar.io/twitter/asincopado" alt="Luis Melgar" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/asincopado" alt="Luis Melgar" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/asincopado" target="_blank"><h5 class="mt-0 mb-1 text-primary">@asincopado</h5></a>
             <p>Data + visualization at @GunsReporting (@wamu885). Former life: @UniGraficos. @UMSoC alumnus. Ideas, data?  lmelgar@wamu.org</p>
@@ -2555,23 +2775,8 @@
         </div>
       </div>
         
-
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Luis Sevillano">
-          <img id="popLuis Sevillano" src="https://unavatar.io/twitter/sepirdata" alt="Luis Sevillano" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Luis Sevillano"><strong class="text-gray-dark">Luis Sevillano</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/sepirdata" target="_blank"><span class="d-block">@sepirdata</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Luis Sevillano" tabindex="-1" role="dialog" aria-labelledby="Luis SevillanoTitle" aria-hidden="true">
@@ -2585,8 +2790,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/890241852250697728/vBlIt50V_400x400.jpg" alt="Luis Sevillano" width="72" height="72" />
-            <img id="popLuis Sevillano" src="https://unavatar.io/twitter/sepirdata" alt="Luis Sevillano" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/sepirdata" alt="Luis Sevillano" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/sepirdata" target="_blank"><h5 class="mt-0 mb-1 text-primary">@sepirdata</h5></a>
             <p>I  d3js, data visualization and maps. Formerly @icarto, @indpcom, @elespanolcom</p>
@@ -2604,35 +2808,14 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Manuel Rodríguez">
-          <img id="popManuel Rodríguez" src="https://unavatar.io/twitter/manuelromu" alt="Manuel Rodríguez" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Manuel Rodríguez"><strong class="text-gray-dark">Manuel Rodríguez</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/manuelromu" target="_blank"><span class="d-block">@manuelromu</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Manuel Rodríguez" tabindex="-1" role="dialog" aria-labelledby="Manuel RodríguezTitle" aria-hidden="true">
@@ -2646,8 +2829,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/1285464050/yo_si_400x400.jpg" alt="Manuel Rodríguez" width="72" height="72" />
-            <img id="popManuel Rodríguez" src="https://unavatar.io/twitter/manuelromu" alt="Manuel Rodríguez" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/manuelromu" alt="Manuel Rodríguez" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/manuelromu" target="_blank"><h5 class="mt-0 mb-1 text-primary">@manuelromu</h5></a>
             <p>Los datos también son fuentes informativas. Frase que resume a lo que me dedico. Creador de andaluciaendatos.es</p>
@@ -2665,23 +2847,8 @@
         </div>
       </div>
         
-
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Manuel Varela">
-          <img id="popManuel Varela" src="https://unavatar.io/twitter/manuel_varfar" alt="Manuel Varela" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Manuel Varela"><strong class="text-gray-dark">Manuel Varela</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/manuel_varfar" target="_blank"><span class="d-block">@manuel_varfar</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Manuel Varela" tabindex="-1" role="dialog" aria-labelledby="Manuel VarelaTitle" aria-hidden="true">
@@ -2695,8 +2862,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/1044702234896928768/3XUD9fsK_400x400.jpg" alt="Manuel Varela" width="72" height="72" />
-            <img id="popManuel Varela" src="https://unavatar.io/twitter/manuel_varfar" alt="Manuel Varela" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/manuel_varfar" alt="Manuel Varela" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/manuel_varfar" target="_blank"><h5 class="mt-0 mb-1 text-primary">@manuel_varfar</h5></a>
             <p>Journalist. Xornalista #ddj @lavozdegalicia</p>
@@ -2714,55 +2880,24 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#María Erandi Flores Romero">
-          <img id="popMaría Flores" src="https://unavatar.io/twitter/erandiita" alt="María Erandi Flores Romero" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#María Erandi Flores Romero"><strong class="text-gray-dark">María Erandi Flores Romero</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/erandiita" target="_blank"><span class="d-block">@erandiita</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="María Erandi Flores Romero" tabindex="-1" role="dialog" aria-labelledby="María Erandi Flores RomeroTitle" aria-hidden="true">
@@ -2776,8 +2911,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/1597209062/34__3_400x400.jpg" alt="María Erandi Flores Romero" width="72" height="72" />
-            <img id="popMaría Flores" src="https://unavatar.io/twitter/erandiita" alt="María Erandi Flores Romero" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/erandiita" alt="María Erandi Flores Romero" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/erandiita" target="_blank"><h5 class="mt-0 mb-1 text-primary">@erandiita</h5></a>
             <p>Interesada en el periodismo de datos</p>
@@ -2795,31 +2929,12 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#maria llop">
-          <img id="popmaria llop" src="https://unavatar.io/twitter/m_llop" alt="maria llop" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#maria llop"><strong class="text-gray-dark">maria llop</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/m_llop" target="_blank"><span class="d-block">@m_llop</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="maria llop" tabindex="-1" role="dialog" aria-labelledby="maria llopTitle" aria-hidden="true">
@@ -2833,8 +2948,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/2837208688/a7e47e6ca8cc7c9fc74a8ce61530b558_400x400.jpeg" alt="maria llop" width="72" height="72" />
-            <img id="popmaria llop" src="https://unavatar.io/twitter/m_llop" alt="maria llop" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/m_llop" alt="maria llop" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/m_llop" target="_blank"><h5 class="mt-0 mb-1 text-primary">@m_llop</h5></a>
             <p>Periodista. En un mar de datos</p>
@@ -2852,47 +2966,20 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Mariluz Congosto">
-          <img id="popMariluz Congosto" src="https://unavatar.io/twitter/congosto" alt="Mariluz Congosto" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Mariluz Congosto"><strong class="text-gray-dark">Mariluz Congosto</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/congosto" target="_blank"><span class="d-block">@congosto</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Mariluz Congosto" tabindex="-1" role="dialog" aria-labelledby="Mariluz CongostoTitle" aria-hidden="true">
@@ -2906,8 +2993,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/728984748677341184/a42Pkbh3_400x400.jpg" alt="Mariluz Congosto" width="72" height="72" />
-            <img id="popMariluz Congosto" src="https://unavatar.io/twitter/congosto" alt="Mariluz Congosto" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/congosto" alt="Mariluz Congosto" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/congosto" target="_blank"><h5 class="mt-0 mb-1 text-primary">@congosto</h5></a>
             <p>Investigando la propagación de mensajes y la caracterización de usuarios en Twitter. Hilos en http://bit.ly/hilos_congosto  Experimentos en http://t-hoarder.com</p>
@@ -2925,31 +3011,12 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Mario Sánchez">
-          <img id="popMario Sánchez" src="https://unavatar.io/twitter/MSanchez_HN" alt="Mario Sánchez" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Mario Sánchez"><strong class="text-gray-dark">Mario Sánchez</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/MSanchez_HN" target="_blank"><span class="d-block">@MSanchez_HN</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Mario Sánchez" tabindex="-1" role="dialog" aria-labelledby="Mario SánchezTitle" aria-hidden="true">
@@ -2963,8 +3030,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/378800000509020329/bab8c7d00004057a368e9b942146550e_400x400.jpeg" alt="Mario Sánchez" width="72" height="72" />
-            <img id="popMario Sánchez" src="https://unavatar.io/twitter/MSanchez_HN" alt="Mario Sánchez" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/MSanchez_HN" alt="Mario Sánchez" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/MSanchez_HN" target="_blank"><h5 class="mt-0 mb-1 text-primary">@MSanchez_HN</h5></a>
             <p>#Google certified / Productor y periodista Multimedia / #Media #Producer / #Journalism #PeriodismoDeDatos- Diario La Prensa</p>
@@ -2982,35 +3048,14 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Martín González">
-          <img id="popMartín González" src="https://unavatar.io/twitter/martgnz" alt="Martín González" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Martín González"><strong class="text-gray-dark">Martín González</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/martgnz" target="_blank"><span class="d-block">@martgnz</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Martín González" tabindex="-1" role="dialog" aria-labelledby="Martín GonzálezTitle" aria-hidden="true">
@@ -3024,8 +3069,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/1031260524871335937/qO9f1t2J_400x400.jpg" alt="Martín González" width="72" height="72" />
-            <img id="popMartín González" src="https://unavatar.io/twitter/martgnz" alt="Martín González" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/martgnz" alt="Martín González" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/martgnz" target="_blank"><h5 class="mt-0 mb-1 text-primary">@martgnz</h5></a>
             <p>Visual journalist at @TheEconomist and @politibot</p>
@@ -3043,47 +3087,20 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Miguel Rodríguez">
-          <img id="popMiguel Rodríguez" src="https://unavatar.io/twitter/miguelrofer" alt="Miguel Rodríguez" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Miguel Rodríguez"><strong class="text-gray-dark">Miguel Rodríguez</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/miguelrofer" target="_blank"><span class="d-block">@miguelrofer</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Miguel Rodríguez" tabindex="-1" role="dialog" aria-labelledby="Miguel RodríguezTitle" aria-hidden="true">
@@ -3097,8 +3114,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/1087031778827821057/ioI6mUQu_400x400.jpg" alt="Miguel Rodríguez" width="72" height="72" />
-            <img id="popMiguel Rodríguez" src="https://unavatar.io/twitter/miguelrofer" alt="Miguel Rodríguez" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/miguelrofer" alt="Miguel Rodríguez" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/miguelrofer" target="_blank"><h5 class="mt-0 mb-1 text-primary">@miguelrofer</h5></a>
             <p>Data Journalist at @radar_aiuk/@PA. Co-host at @tecongotas. Trained @compjcdf. Lusophile and proudly Galician. Views mine.</p>
@@ -3116,31 +3132,12 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Monica Serrano">
-          <img id="popMonica Serrano" src="https://unavatar.io/twitter/MonicaSerrano_" alt="Monica Serrano" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Monica Serrano"><strong class="text-gray-dark">Monica Serrano</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/MonicaSerrano_" target="_blank"><span class="d-block">@MonicaSerrano_</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Monica Serrano" tabindex="-1" role="dialog" aria-labelledby="Monica SerranoTitle" aria-hidden="true">
@@ -3154,8 +3151,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/664307989680136192/SvY5UX7s_400x400.jpg" alt="Monica Serrano" width="72" height="72" />
-            <img id="popMonica Serrano" src="https://unavatar.io/twitter/MonicaSerrano_" alt="Monica Serrano" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/MonicaSerrano_" alt="Monica Serrano" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/MonicaSerrano_" target="_blank"><h5 class="mt-0 mb-1 text-primary">@MonicaSerrano_</h5></a>
             <p>Senior Graphics Editor at National Geographic</p>
@@ -3173,23 +3169,8 @@
         </div>
       </div>
         
-
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Montse Hidalgo">
-          <img id="popMontse Hidalgo" src="https://unavatar.io/twitter/montsehid" alt="Montse Hidalgo" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Montse Hidalgo"><strong class="text-gray-dark">Montse Hidalgo</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/montsehid" target="_blank"><span class="d-block">@montsehid</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Montse Hidalgo" tabindex="-1" role="dialog" aria-labelledby="Montse HidalgoTitle" aria-hidden="true">
@@ -3203,8 +3184,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/1074625133787185152/VFvxZyf__400x400.jpg" alt="Montse Hidalgo" width="72" height="72" />
-            <img id="popMontse Hidalgo" src="https://unavatar.io/twitter/montsehid" alt="Montse Hidalgo" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/montsehid" alt="Montse Hidalgo" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/montsehid" target="_blank"><h5 class="mt-0 mb-1 text-primary">@montsehid</h5></a>
             <p>To be filled in later.</p>
@@ -3222,31 +3202,12 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Nalini Lepetit">
-          <img id="popNaliniLepetit-Chella" src="https://unavatar.io/twitter/naliniLC" alt="Nalini Lepetit" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Nalini Lepetit"><strong class="text-gray-dark">Nalini Lepetit</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/naliniLC" target="_blank"><span class="d-block">@naliniLC</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Nalini Lepetit" tabindex="-1" role="dialog" aria-labelledby="Nalini LepetitTitle" aria-hidden="true">
@@ -3260,8 +3221,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/586853221810987009/ZtnsQh5a_400x400.jpg" alt="Nalini Lepetit" width="72" height="72" />
-            <img id="popNaliniLepetit-Chella" src="https://unavatar.io/twitter/naliniLC" alt="Nalini Lepetit" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/naliniLC" alt="Nalini Lepetit" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/naliniLC" target="_blank"><h5 class="mt-0 mb-1 text-primary">@naliniLC</h5></a>
             <p>Journaliste @NewsTankHER passée par @ElMundoData, @elperiodico et @OuestFrance. Formée au #ddj dans le master @M_Investigacion et à l'@IjbaOfficiel. Fan de BD.</p>
@@ -3279,31 +3239,12 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Nuria Gutiérrez">
-          <img id="popNuria Gutiérrez" src="https://unavatar.io/twitter/nuria_gut" alt="Nuria Gutiérrez" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Nuria Gutiérrez"><strong class="text-gray-dark">Nuria Gutiérrez</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/nuria_gut" target="_blank"><span class="d-block">@nuria_gut</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Nuria Gutiérrez" tabindex="-1" role="dialog" aria-labelledby="Nuria GutiérrezTitle" aria-hidden="true">
@@ -3317,8 +3258,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/529382549080903680/-ZGd2WV__400x400.jpeg" alt="Nuria Gutiérrez" width="72" height="72" />
-            <img id="popNuria Gutiérrez" src="https://unavatar.io/twitter/nuria_gut" alt="Nuria Gutiérrez" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/nuria_gut" alt="Nuria Gutiérrez" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/nuria_gut" target="_blank"><h5 class="mt-0 mb-1 text-primary">@nuria_gut</h5></a>
             <p>Periodista. Me interesa el periodismo de datos</p>
@@ -3336,75 +3276,34 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Patrícia Álvarez">
-          <img id="popPatrícia Álvarez" src="https://unavatar.io/twitter/patalgar" alt="Patrícia Álvarez" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Patrícia Álvarez"><strong class="text-gray-dark">Patrícia Álvarez</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/patalgar" target="_blank"><span class="d-block">@patalgar</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Patrícia Álvarez" tabindex="-1" role="dialog" aria-labelledby="Patrícia ÁlvarezTitle" aria-hidden="true">
@@ -3418,8 +3317,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/706853481894776832/OH8Lo-Td_400x400.jpg" alt="Patrícia Álvarez" width="72" height="72" />
-            <img id="popPatrícia Álvarez" src="https://unavatar.io/twitter/patalgar" alt="Patrícia Álvarez" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/patalgar" alt="Patrícia Álvarez" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/patalgar" target="_blank"><h5 class="mt-0 mb-1 text-primary">@patalgar</h5></a>
             <p>Periodista (de baixa maternal). Visualització de dades. Caminant incansable. La vida dóna moltes voltes i les voltes donen molta vida.</p>
@@ -3437,23 +3335,8 @@
         </div>
       </div>
         
-
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Patricia López">
-          <img id="popPatricia López" src="https://unavatar.io/twitter/lopezg_patricia" alt="Patricia López" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Patricia López"><strong class="text-gray-dark">Patricia López</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/lopezg_patricia" target="_blank"><span class="d-block">@lopezg_patricia</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Patricia López" tabindex="-1" role="dialog" aria-labelledby="Patricia LópezTitle" aria-hidden="true">
@@ -3467,8 +3350,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/1111349623854194688/lF_jye0F_400x400.jpg" alt="Patricia López" width="72" height="72" />
-            <img id="popPatricia López" src="https://unavatar.io/twitter/lopezg_patricia" alt="Patricia López" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/lopezg_patricia" alt="Patricia López" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/lopezg_patricia" target="_blank"><h5 class="mt-0 mb-1 text-primary">@lopezg_patricia</h5></a>
             <p>Periodista. Especializada en #periodismodatos por @M_Investigacion. Antes, en @elespanolcom, @elmundoes y @sanitas.</p>
@@ -3486,39 +3368,16 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Pere Rovira Samblancat">
-          <img id="poppere rovira" src="https://unavatar.io/twitter/pere_rovira" alt="Pere Rovira Samblancat" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Pere Rovira Samblancat"><strong class="text-gray-dark">Pere Rovira Samblancat</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/pere_rovira" target="_blank"><span class="d-block">@pere_rovira</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Pere Rovira Samblancat" tabindex="-1" role="dialog" aria-labelledby="Pere Rovira SamblancatTitle" aria-hidden="true">
@@ -3532,8 +3391,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/771353131691208704/Hh0iV6bE_400x400.jpg" alt="Pere Rovira Samblancat" width="72" height="72" />
-            <img id="poppere rovira" src="https://unavatar.io/twitter/pere_rovira" alt="Pere Rovira Samblancat" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/pere_rovira" alt="Pere Rovira Samblancat" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/pere_rovira" target="_blank"><h5 class="mt-0 mb-1 text-primary">@pere_rovira</h5></a>
             <p>Lover of data-driven insights and the small pleasures of life. I visualize data at http://www.onetandem.com</p>
@@ -3551,35 +3409,14 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Ramiro Aznar Ballarin">
-          <img id="popRamiro Aznar" src="https://unavatar.io/twitter/ramiroaznar" alt="Ramiro Aznar Ballarin" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Ramiro Aznar Ballarin"><strong class="text-gray-dark">Ramiro Aznar Ballarin</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/ramiroaznar" target="_blank"><span class="d-block">@ramiroaznar</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Ramiro Aznar Ballarin" tabindex="-1" role="dialog" aria-labelledby="Ramiro Aznar BallarinTitle" aria-hidden="true">
@@ -3593,8 +3430,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/1113408514700005376/UUuqQr0E_400x400.jpg" alt="Ramiro Aznar Ballarin" width="72" height="72" />
-            <img id="popRamiro Aznar" src="https://unavatar.io/twitter/ramiroaznar" alt="Ramiro Aznar Ballarin" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/ramiroaznar" alt="Ramiro Aznar Ballarin" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/ramiroaznar" target="_blank"><h5 class="mt-0 mb-1 text-primary">@ramiroaznar</h5></a>
             <p>Biólogo ambiental, MSc en Sostenibilidad Urbana. Especialista en Análisis y Visualización de Datos Geoespaciales.</p>
@@ -3612,23 +3448,8 @@
         </div>
       </div>
         
-
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Raúl Camañas">
-          <img id="popRaúl Camañas" src="https://unavatar.io/twitter/raulcamanas" alt="Raúl Camañas" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Raúl Camañas"><strong class="text-gray-dark">Raúl Camañas</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/raulcamanas" target="_blank"><span class="d-block">@raulcamanas</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Raúl Camañas" tabindex="-1" role="dialog" aria-labelledby="Raúl CamañasTitle" aria-hidden="true">
@@ -3642,8 +3463,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/1094749284401115142/saG8lwh__400x400.jpg" alt="Raúl Camañas" width="72" height="72" />
-            <img id="popRaúl Camañas" src="https://unavatar.io/twitter/raulcamanas" alt="Raúl Camañas" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/raulcamanas" alt="Raúl Camañas" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/raulcamanas" target="_blank"><h5 class="mt-0 mb-1 text-primary">@raulcamanas</h5></a>
             <p>Infografista en @lavanguardia (ex @elmundocv). Familia de  (Cuenta personal)</p>
@@ -3661,23 +3481,8 @@
         </div>
       </div>
         
-
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Raúl Díaz Poblete">
-          <img id="popRaúl Díaz Poblete" src="https://unavatar.io/twitter/grunegasse" alt="Raúl Díaz Poblete" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Raúl Díaz Poblete"><strong class="text-gray-dark">Raúl Díaz Poblete</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/grunegasse" target="_blank"><span class="d-block">@grunegasse</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Raúl Díaz Poblete" tabindex="-1" role="dialog" aria-labelledby="Raúl Díaz PobleteTitle" aria-hidden="true">
@@ -3691,8 +3496,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/952989600724680704/j1XPPFWF_400x400.jpg" alt="Raúl Díaz Poblete" width="72" height="72" />
-            <img id="popRaúl Díaz Poblete" src="https://unavatar.io/twitter/grunegasse" alt="Raúl Díaz Poblete" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/grunegasse" alt="Raúl Díaz Poblete" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/grunegasse" target="_blank"><h5 class="mt-0 mb-1 text-primary">@grunegasse</h5></a>
             <p>Desarrollo web y visualización de datos. Sobrevivo a base de música.</p>
@@ -3710,27 +3514,10 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Ricard Gràcia">
-          <img id="popRicard Gràcia" src="https://unavatar.io/twitter/ricardgracia" alt="Ricard Gràcia" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Ricard Gràcia"><strong class="text-gray-dark">Ricard Gràcia</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/ricardgracia" target="_blank"><span class="d-block">@ricardgracia</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Ricard Gràcia" tabindex="-1" role="dialog" aria-labelledby="Ricard GràciaTitle" aria-hidden="true">
@@ -3744,8 +3531,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/919618947623813120/Sil0DIoB_400x400.jpg" alt="Ricard Gràcia" width="72" height="72" />
-            <img id="popRicard Gràcia" src="https://unavatar.io/twitter/ricardgracia" alt="Ricard Gràcia" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/ricardgracia" alt="Ricard Gràcia" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/ricardgracia" target="_blank"><h5 class="mt-0 mb-1 text-primary">@ricardgracia</h5></a>
             <p>Redactor Jefe del Departamento de Infografía de El Periódico.</p>
@@ -3763,27 +3549,10 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Rocío Arias Puga">
-          <img id="popRocío" src="https://unavatar.io/twitter/unatalR" alt="Rocío Arias Puga" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Rocío Arias Puga"><strong class="text-gray-dark">Rocío Arias Puga</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/unatalR" target="_blank"><span class="d-block">@unatalR</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Rocío Arias Puga" tabindex="-1" role="dialog" aria-labelledby="Rocío Arias PugaTitle" aria-hidden="true">
@@ -3797,8 +3566,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/1077753114323812353/BGj8uJs6_400x400.jpg" alt="Rocío Arias Puga" width="72" height="72" />
-            <img id="popRocío" src="https://unavatar.io/twitter/unatalR" alt="Rocío Arias Puga" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/unatalR" alt="Rocío Arias Puga" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/unatalR" target="_blank"><h5 class="mt-0 mb-1 text-primary">@unatalR</h5></a>
             <p>Graphic, editorial and information designer  Never make eye contact while eating a banana</p>
@@ -3816,31 +3584,12 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Rodrigo Silva">
-          <img id="popRodrigo Silva" src="https://unavatar.io/twitter/rodrigo0silva" alt="Rodrigo Silva" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Rodrigo Silva"><strong class="text-gray-dark">Rodrigo Silva</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/rodrigo0silva" target="_blank"><span class="d-block">@rodrigo0silva</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Rodrigo Silva" tabindex="-1" role="dialog" aria-labelledby="Rodrigo SilvaTitle" aria-hidden="true">
@@ -3854,8 +3603,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/378800000561363566/6e0893961764bef24309cd7a62ad264d_400x400.jpeg" alt="Rodrigo Silva" width="72" height="72" />
-            <img id="popRodrigo Silva" src="https://unavatar.io/twitter/rodrigo0silva" alt="Rodrigo Silva" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/rodrigo0silva" alt="Rodrigo Silva" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/rodrigo0silva" target="_blank"><h5 class="mt-0 mb-1 text-primary">@rodrigo0silva</h5></a>
             <p>Subjefe de Infografía e Ilustración en EL PAÍS (anteriormente en El Mundo). Informático de carrera y aficionado a la magia.</p>
@@ -3873,43 +3621,18 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Santiago Espinosa de los Monteros">
-          <img id="popSaigesp" src="https://unavatar.io/twitter/saigesp" alt="Santiago Espinosa de los Monteros" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Santiago Espinosa de los Monteros"><strong class="text-gray-dark">Santiago Espinosa de los Monteros</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/saigesp" target="_blank"><span class="d-block">@saigesp</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Santiago Espinosa de los Monteros" tabindex="-1" role="dialog" aria-labelledby="Santiago Espinosa de los MonterosTitle" aria-hidden="true">
@@ -3923,8 +3646,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/1095610095290015744/yOTBXXGJ_400x400.jpg" alt="Santiago Espinosa de los Monteros" width="72" height="72" />
-            <img id="popSaigesp" src="https://unavatar.io/twitter/saigesp" alt="Santiago Espinosa de los Monteros" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/saigesp" alt="Santiago Espinosa de los Monteros" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/saigesp" target="_blank"><h5 class="mt-0 mb-1 text-primary">@saigesp</h5></a>
             <p>Code, Design &amp; Politics | Datos en @data_hippo y @dadasign_</p>
@@ -3942,103 +3664,48 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#vpascual">
-          <img id="popVíctor Pascual" src="https://unavatar.io/twitter/vpascual" alt="vpascual" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#vpascual"><strong class="text-gray-dark">vpascual</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/vpascual" target="_blank"><span class="d-block">@vpascual</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="vpascual" tabindex="-1" role="dialog" aria-labelledby="vpascualTitle" aria-hidden="true">
@@ -4052,8 +3719,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/716584181552324608/X_I8ky1t_400x400.jpg" alt="vpascual" width="72" height="72" />
-            <img id="popVíctor Pascual" src="https://unavatar.io/twitter/vpascual" alt="vpascual" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/vpascual" alt="vpascual" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/vpascual" target="_blank"><h5 class="mt-0 mb-1 text-primary">@vpascual</h5></a>
             <p>Víctor Pascual Cid. PhD, Data Visualization consultant and lecturer. Co-founder at at http://www.onetandem.com , where I visualize data</p>
@@ -4071,27 +3737,10 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Xaquín G.V.">
-          <img id="popXaquín G.V." src="https://unavatar.io/twitter/xocasgv" alt="Xaquín G.V." class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Xaquín G.V."><strong class="text-gray-dark">Xaquín G.V.</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/xocasgv" target="_blank"><span class="d-block">@xocasgv</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Xaquín G.V." tabindex="-1" role="dialog" aria-labelledby="Xaquín G.V.Title" aria-hidden="true">
@@ -4105,8 +3754,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/902912562559254529/26SF9FVK_400x400.jpg" alt="Xaquín G.V." width="72" height="72" />
-            <img id="popXaquín G.V." src="https://unavatar.io/twitter/xocasgv" alt="Xaquín G.V." class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/xocasgv" alt="Xaquín G.V." width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/xocasgv" target="_blank"><h5 class="mt-0 mb-1 text-primary">@xocasgv</h5></a>
             <p>Visual Editor and consultant. @GuardianVisuals @guardian @NatGeo @nytimes alumnus. Dad, husband, Galician. I've been told I can cook.</p>
@@ -4124,23 +3772,8 @@
         </div>
       </div>
         
-
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Xavi Giménez Baqués">
-          <img id="popXavi Gimenez" src="https://unavatar.io/twitter/xavigimenez" alt="Xavi Giménez Baqués" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Xavi Giménez Baqués"><strong class="text-gray-dark">Xavi Giménez Baqués</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/xavigimenez" target="_blank"><span class="d-block">@xavigimenez</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Xavi Giménez Baqués" tabindex="-1" role="dialog" aria-labelledby="Xavi Giménez BaquésTitle" aria-hidden="true">
@@ -4154,8 +3787,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/570190826932690944/KJp3XWNr_400x400.jpeg" alt="Xavi Giménez Baqués" width="72" height="72" />
-            <img id="popXavi Gimenez" src="https://unavatar.io/twitter/xavigimenez" alt="Xavi Giménez Baqués" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/xavigimenez" alt="Xavi Giménez Baqués" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/xavigimenez" target="_blank"><h5 class="mt-0 mb-1 text-primary">@xavigimenez</h5></a>
             <p>Data Visualization · Interactive · Open Gov · Open Data · Data Science · Digital Humanities / having fun with all this stuff at @sirisacademic</p>
@@ -4173,27 +3805,10 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
-    <!-- Link trigger modal -->
-        <div class="media text-muted pt-3 border-bottom border-gray">
-        <a href="#" data-toggle="modal" data-target="#Yolanda Clemente Pomeda">
-          <img id="popYolanda Clemente" src="https://unavatar.io/twitter/yolsclemente" alt="Yolanda Clemente Pomeda" class="mr-2 rounded" width="48" height="48" />
-            </a>  
-          <div class="media-body pb-3 mb-0">
-            <div class="d-flex justify-content-between align-items-center w-100">
-              <a style="text-decoration:none" href="#" data-toggle="modal" data-target="#Yolanda Clemente Pomeda"><strong class="text-gray-dark">Yolanda Clemente Pomeda</strong></a>
-            </div>
-            <a class="text-secondary" href="https://twitter.com/yolsclemente" target="_blank"><span class="d-block">@yolsclemente</span></a>
-          </div>
-        </div>
+            
 
       <!-- Modal -->
       <div class="modal fade" id="Yolanda Clemente Pomeda" tabindex="-1" role="dialog" aria-labelledby="Yolanda Clemente PomedaTitle" aria-hidden="true">
@@ -4207,8 +3822,7 @@
             </div>
             <div class="modal-body">
             <div class="media">
-            <img class="align-self-start mr-3 rounded mb-4" src="https://pbs.twimg.com/profile_images/1039254471912706055/_5-E7W1C_400x400.jpg" alt="Yolanda Clemente Pomeda" width="72" height="72" />
-            <img id="popYolanda Clemente" src="https://unavatar.io/twitter/yolsclemente" alt="Yolanda Clemente Pomeda" class="mr-2 rounded" width="72" height="72" />            
+            <img class="align-self-start mr-3 rounded mb-4" src="https://unavatar.io/twitter/yolsclemente" alt="Yolanda Clemente Pomeda" width="72" height="72" />
             <div class="media-body">
             <a style="text-decoration:none" href="https://twitter.com/yolsclemente" target="_blank"><h5 class="mt-0 mb-1 text-primary">@yolsclemente</h5></a>
             <p>Periodista y miope, como Superman pero sin capa. Veo la realidad a mi manera (borrosa) y la pongo bonita en #infografías. Y sí, me sigue gustando sonreir</p>
@@ -4226,19 +3840,13 @@
         </div>
       </div>
         
-
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-	
-	  
-
+            
     
-      </div>
+
+</div>
 :ET
