@@ -1,4 +1,5 @@
-I"承<div class="my-3 p-3">
+I"晷<div class="col-md-12">
+<div class="my-3 p-3">
 
       <h4 class="border-bottom border-gray pb-2 mt-3">Profesionales en #an谩lisis</h4>
       
@@ -12,7 +13,7 @@
             <p class="small text-light"><a href="/redaccion.html">#redacci贸n</a> | <a href="/academia.html"> #academia</a> | <a href="/proyectos.html">#proyectos</a> | <a href="/desarrollo.html">#desarrollo</a> | <a href="/visualizacion.html">#visualizaci贸n</a> | <a href="/verificacion.html">#verificaci贸n</a> | <a href="/transparencia.html">#transparencia</a> | <a href="/investigacion.html">#investigaci贸n</a> | <a href="/analisis.html">#an谩lisis</a></p>
         </div>
 
-      <div id="results-container"></div>  
+      <div class="list-group mb-3" id="results-container"></div>  
 
       <div class="list-group mb-3">
         
@@ -4004,5 +4005,6 @@
             
     
 
+</div>
 </div>
 :ET

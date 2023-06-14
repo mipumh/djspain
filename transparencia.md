@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<div class="col-md-12">
 <div class="my-3 p-3">
 
       <h4 class="border-bottom border-gray pb-2 mt-3">Profesionales en #transparencia</h4>
@@ -66,4 +67,5 @@ layout: default
         {% endif %}
     {% endfor %}
 
+</div>
 </div>
