@@ -12,6 +12,11 @@ email:
 # Build settings
 markdown: kramdown
 
+collections:
+  entrevistas:
+    output: true
+    permalink: /:collection/:name
+    
 # Exclude nodes artifacts from build
 exclude:
   - package.json

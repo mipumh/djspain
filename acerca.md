@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 ---
 <h2>&iquest;Qu&eacute; es <strong>Periodistas de datos</strong>?</h2>
 <p><span style="font-weight: 400;">Un proyecto que aspira a reunir a todos los que ven en los datos la verdadera materia prima del periodismo. Esta lista es s&oacute;lo la </span><strong>primera fase</strong><span style="font-weight: 400;"> de una plataforma para visibilizar, estudiar y fomentar la colaboraci&oacute;n entre los art&iacute;fices de la especialidad con m&aacute;s presente y futuro en esta profesi&oacute;n.</span></p>
