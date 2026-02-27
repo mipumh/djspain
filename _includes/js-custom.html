@@ -33,11 +33,6 @@
   };
 
   document.addEventListener("DOMContentLoaded", function () {
-    var thanksMessage = document.getElementById("thank-you-message");
-    if (thanksMessage && window.location.hash === "#thank-you") {
-      thanksMessage.className = "alert alert-success";
-    }
-
     var scrollButton = document.getElementById("myBtn");
     if (scrollButton) {
       var toggleScrollButton = function () {
