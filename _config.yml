@@ -24,7 +24,8 @@ exclude:
   - gulpfile.js
   - _site
 
-url: "https://periodistasdedatos.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://periodistasdedatos.com"
+repository: mipumh/djspain
 twitter_username: #jekyllrb
 github_username:  #jekyll
 
