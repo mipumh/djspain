@@ -1,0 +1,135 @@
+---
+layout: post
+title: "En 2020, de las 50 historias más leídas de *El País*, diez eran de historias de datos cuando estas no representan ni un 3%"
+subtitle: "Kiko Llaneras reconoce que el periodismo de datos es caro, aunque asegura que existen muchas oportunidades en el ámbito local"
+antetitle: "KIKO LLANERAS | ANALISTA DE DATOS EN EL PAÍS"
+category: entrevistas
+date: 2021-12-21
+interviewee: "Kiko LLaneras"
+outlet: "El Pais"
+alias: "kikollan"
+source_docx: "Kiko LLaneras _ El País.docx"
+featured_image: "/img/entrevistas/kiko-llaneras-el-pais/media/image1.png"
+---
+
+Kiko Llaneras, periodista de datos en El País (latribunadealbacete.es)
+
+Kiko Llaneras (Alicante, 1981) estudió Ingeniería Industrial en la Universidad Politécnica de Valencia, lugar donde fue durante diez años académico e investigador. En 2006 empieza en el mundo de los blogs donde escribe con números, el que era por excelencia su lenguaje. Con el tiempo, las oportunidades le fueron llegando y empezó con ‘Politikon’ redactando siempre con mirada analítica. Tras las dos elecciones y con una excedencia en su trayectoria como profesor, las puertas de *El País* se abrieron.
+
+### Concepto y claves
+**P:** ¿Cómo describiría usted el periodismo de datos?
+
+**R:** Hay dos escuelas. Yo estoy en la que cree que el periodismo de datos es, en esencia, periodismo con datos. Es decir, creo que el periodismo se aplica de igual manera y la diferencia fundamental es que pones un énfasis especial en los datos. Además, creo que también es importante distinguir que cada vez más estamos haciendo periodismo analítico, donde obviamente trabajas con datos, pero hay que hacer más cosas. Pero como punto de partida, pensar que el periodismo de datos es periodismo con datos, que hereda todas las condiciones que le exige el periodismo y que añade un énfasis en la información cuantitativa, es un buen atajo.
+
+**P:** Dentro de esta especialidad, en el proceso de elaborar un reportaje, ¿cuál parte es la más importante?
+
+**R:** Lo más importante es el análisis a día de hoy. Venimos de un tiempo en el que los datos eran escasos, por lo que cualquier cosa que se hiciera con información cuantitativa era nueva, llamativa e interesante. Ese tiempo ha pasado. Ahora tenemos información cuantitativa sobre montones de fenómenos que nos interesan. Los datos son abundantes. Por lo tanto, la labor del periodista es tratar bien esos datos. Es decir, ver qué preguntas puedo resolver con esta información que tengo y cuáles no, cómo comunicar bien esto que he encontrado para evitar errores, cómo ser riguroso y garantizar que la fuente es confiable. En resumen, todo ese trabajo alrededor de los datos es donde está ahora el valor. Es un poco tramposo decir que es una sola cosa, porque son muchas. Pero podemos decir que toda esa labor de cuidar y tratar bien los datos es la más importante.
+
+### Estado de la especialidad
+**P:** ¿Cómo es el modo de trabajar del periodista de datos?
+
+**R:** Hay muchos perfiles dentro del periódico, pero dentro de esa familia, el periodismo de datos en general está en el carril más lento del periódico. En primer lugar, estamos muy ligados al fin de semana, que en el fondo es solo una excusa para hacerlo una vez a la semana en lugar de estar en el ritmo diario. Esto se debe a que pocas veces puedes trabajar para el día a día porque nunca llegas a tiempo. Aunque algunas veces se hace, es algo excepcional porque significa destruir tu jornada. Tampoco suele haber actualidad de datos, excepto en algunas ocasiones, pero en general, nunca trabajas en el día a día. Más bien, trabajamos en la semana y a veces muy fuera de la actualidad.
+
+En segundo lugar, el periodismo de datos es una sección casi cien por cien digital. Los periódicos, como El País, todavía funcionan en parte al ritmo del papel, que obviamente es un ritmo diario. Pero el periodismo de datos está en general muy alejado de eso, porque es prácticamente un trabajo doble. Es decir, un texto para papel o para web es muy parecido, es el mismo texto, solo que hay que cortarlo. Pero una visualización para papel o para web no tiene nada que ver. No tiene interacción y no se puede integrar el flujo narrativo, ya que no es lineal, sino que los gráficos van a otro lado. La restricción de espacio es atroz y las proporciones cambian, ya que el móvil es vertical pero las páginas son más bien horizontales.
+
+**P:** ¿Considera que el periodismo de datos tiene salida como tal?
+
+**R:** El periodismo de datos es el periodismo con datos. Es una señal de que vamos muy tarde que todavía llamemos periodismo de datos a trabajar con Excel. Que todavía tengamos la connotación de datos es una señal de la debilidad del sector, ya que la mayoría de los periodistas no tienen estas competencias. En ese sentido, creo que es una buena idea que, aunque no quieras ser un periodista especializado en datos, sepas manejarlos, porque en el mundo en el que vivimos va a ser necesario. En una redacción en este momento, no es tan necesario, pero eso es una anomalía, ya que en la mayor parte de las profesiones la gente está trabajando con números. El mundo se ha vuelto muy cuantitativo y en el periodismo vamos tarde. Bajo esa lógica, tener un cierto conocimiento de manejo de información cuantitativa o aprender a programar van a ser herramientas que servirán para ser periodista o para ser cualquier cosa. Es mucho más prometedor el mercado para aquellos con aptitudes para manejar números que el periodismo en sí. Si bien es cierto que no garantiza nada, creo que es una buena inversión en términos de formación profesional.
+
+> “Tener un cierto conocimiento de manejo de información cuantitativa o aprender a programar van a ser herramientas que van a servir para ser periodista”
+
+**P:** ¿Existe corporativismo entre periodistas de datos?
+
+**R:** Se conoce a todo el mundo porque es un círculo muy pequeño. Y luego, en España, más que corporativismo, los periodistas no nos criticamos mucho en abierto. No sé si es bueno o malo, pero es inevitable porque somos un sector muy pequeño. Creo que una parte de que nos critiquemos es normal porque conocemos los problemas que enfrentamos en general. Y luego, incluso si ves que hacen algo mal, no es tu papel salir a criticar, ya que hay otras personas que se encargan de juzgar a los medios.
+
+Una idea relacionada con esto es que en España, muy pocas personas hacen periodismo de medios y las redes son muy pequeñas. Penetrar en esas redes es muy valioso. Los másteres de periódicos y todo lo que ofrecen es dar a conocer a personas que están en ciertos sitios. Por lo tanto, cuando te plantees hacer un máster o prácticas, no pienses solo en lo que te van a enseñar, sino en quién vas a conocer. Esto no es por una cuestión perversa de relaciones, sino por una cuestión humana: la gente puede hacer favores a las personas que conocen. Las relaciones son necesarias para abrir puertas.
+
+**P:** Al igual que en *El País* realiza reportajes que están basados en datos, ¿cree que actualmente en los medios locales se apuesta por este tipo de periodismo?
+
+**R:** No quiero hablar por todos los medios locales, pero ocurre lo mismo que en el sector en general, y es que el periodismo de datos es caro. Lo es porque se necesita cierto tiempo para producir una historia y porque hay pocos profesionales que se dedican al periodismo de datos. Por lo tanto, muchos medios no lo hacen porque no tienen la capacidad de pagarlo. ¿Existen oportunidades para hacer periodismo de datos en el ámbito local? Muchísimas. Si dejamos de lado el tema del dinero, una de las áreas donde el periodismo tiene más éxito es en las historias sobre cualquier cosa que te quede cerca.
+
+En *El País*, tenemos esos mapas muy detallados sobre cómo se vota calle a calle o cuál es la renta por barrios. Estas historias sirven para hablar de fenómenos globales, pero la gente lo que quiere es mirar lo que pasa en su calle. La gente entra a ver cómo votan en su barrio. Lo que más nos interesa a las personas es nuestra propia vida. Así que el periodismo local tiene esa oportunidad de llevar la calle a la gente. No tengo dudas de que hay una demanda en ese sentido. El problema es si tienes la capacidad económica de ofrecer eso.
+
+**P:** ¿Cree que el periodismo de datos está en auge tras la pandemia?
+
+**R:** Por supuesto, el año pasado fue bestial. En 2020, de las 50 historias más leídas de *El País*, 9 o 10 eran historias de datos cuando no representan ni un 3% del contenido general del periódico. Claramente había una demanda y fue empujado por la audiencia. Cuando explota la pandemia no estaba planificado hacer tantas historias de datos, pero hubo una gran demanda de los lectores. Ya veníamos de que la información de datos se consume mucho en general. En 2019, cuando se produjeron las elecciones, también estas historias de datos que se llevaron a cabo fueron de las más leídas de *El País*. Por ello, la pandemia fue una causa y a la vez una consecuencia, ya que ya se venían publicando muchas historias de datos.
+
+**P:** ¿Cuál es la situación de la especialidad fuera de España?
+
+**R:** En todo el mundo los equipos de datos de los periódicos más grandes han crecido con la pandemia. Por ejemplo, *New York Times* y *Washington Post* han aumentado su equipo. Ha habido un movimiento grande y un buen crecimiento. *New York Times* lo está haciendo muy bien, porque además de tener una sección de visualización potente, tiene una persona editora de datos en la sección de opinión. La sección de opinión de este periódico tiene editores de datos para llevar a cabo columnas de gráficos, comparaciones…
+
+**P:** ¿Cuáles son los aspectos positivos y los problemas del periodismo de datos?
+
+**R:** Para el lector, hay varias ventajas. La primera es que, si quieres tratar temas más complejos con cierta profundidad, no tienes más remedio que tratar con los datos. El lenguaje para comprender el mundo es la rama de la ciencia, y la ciencia se construye con números. La gente quiere leer sobre asuntos más complejos en la prensa, sobre preguntas para las que quizá no tengamos respuesta. No espera que como periodista respondas si, por ejemplo, habrá una sexta ola. Pero ello no significa que no quieran leer sobre esa posibilidad y ese tema. El periodismo tradicional era muy reacio a hablar de cosas inciertas, y ese es un gran cambio. Las personas queremos leer noticias importantes, complejas, para las que no haya respuesta. Para ello, es imprescindible contar con datos.
+
+La segunda ventaja es comunicar de forma más horizontal. Si escribo una columna sobre la sexta ola, puedo escribir diciendo lo que va a pasar o lo que todos deberían hacer, siendo ello una comunicación más vertical o tradicional. La audiencia ha huido de estas formas y prefiere que se le muestre un poco las evidencias que soportan tu criterio. Quieren saber en qué te basas para decir si España lo ha hecho bien o mal contra el coronavirus.
+
+Un inconveniente es que es caro y otro es la dificultad que presenta a veces realizar preguntas difíciles. Te expone a hacer las cosas mal, y si se hace mal, es mejor que no entres a hablar de un tema en concreto.
+
+> “Si quieres tratar temas más complejos con cierta profundidad, no tienes más remedio que tratar con los datos”
+
+### Formación
+**P:** ¿Se puede llegar a ser periodista de datos sin una formación reglada?
+
+**R:** Aprendí a escribir escribiendo mal. La gran gracia de los blogs es que el ensayo-error es permanente. Esto es súper útil. Es tener un espacio de ensayo donde puedes probar muchas cosas y ver si funcionan o no. Poner tuits es un buen ejemplo. Tú pones un tuit y ves cuando uno funciona un poquito mejor. Tener un ecosistema donde pruebas cosas como escribir un primer párrafo o un titular y ver si eso despierta cierto interés es la mejor forma de aprender. No vale escribir por escribir. La clave es hacerlo de manera intencional, practicar y reflexionar sobre lo que estás haciendo. Esto lo sigo haciendo todos los días. Continuamente estoy viendo qué titulares nos funcionan en el periódico, pensando por qué esta historia no ha funcionado si yo pensaba que era muy buena… No solo hacer las cosas que te gusten a ti, sino tener alguna métrica de éxito que venga del otro lado, el de la audiencia. Esto para la comunicación es el camino más recto. El ensayo-repetición es muy útil.
+
+No se necesita necesariamente una formación reglada, pero sí una formación más ordenada. El aprendizaje es básicamente manejar lenguajes y son tres: saber escribir, hablar y comunicar con palabras; saber matemáticas; y saber programar. No todo el mundo necesita manejar los tres, pero cuanto más sepa de los tres, mejor. Hago el mismo discurso cuando hablo en ámbitos de mi ingeniería.
+
+En esos ámbitos me encuentro con gente que se maneja muy bien con los números, pero no solo no sabe comunicar, sino que no le importa nada intentar comunicar bien, y comunicar es una habilidad fundamental hoy en día. Ser conscientes de que esa habilidad va a seguir siendo cada vez más valiosa, porque la información ha pasado de ser escasa a ser abundante. Ahora mismo, la atención es escasísima, entonces tener habilidades para captar la atención es esencial. Programar ahora mismo se puede aprender por internet y no necesitas posgrados ni matricularte en ningún lado, solo necesitas horas. Programar no es para todo el mundo, pero al menos se debería pensar si hacerlo o no.
+
+**P:** ¿Cuál es su opinión acerca de la formación que hay en las universidades en cuanto a periodismo y periodismo de datos?
+
+**R:** Conozco poco los programas en general. Mi sensación es que los currículums están anticuados por definición, debido a que es muy difícil mantenerlos actualizados, a veces por cuestiones generacionales. La gente que enseña es de una generación anterior. No creo que sea algo específico del periodismo, también nos sucedía en ingeniería. La ventaja es que ahora, durante la carrera, se descubre que esto de los datos y programar es un tema importante. Hace 5 años era muy difícil encontrar periodistas jóvenes con capacidades de programar o manejar Datawrapper, o usar software avanzado. Lo que encontrábamos eran personas con cierta trayectoria detrás que habían aprendido un poco después y eran perfiles más caros, más raros. Pero ahora empezamos a ver que la gente que sale de la universidad, aunque no la mayoría, un 5–10%, ya saben que esto es algo que se podría aprender y que convendría aprender. Esto ya empieza a cambiar. Mi consejo aquí es no confiar ni esperar a la universidad. El día que la universidad enseñe esto, lo sabrá todo el mundo. Casi es mejor la situación en la que estáis ahora, donde no lo sabe todo el mundo, pero sé que es una buena idea aprenderlo. Creo que en ese sentido es casi ventajoso, así que aprovechad la oportunidad. Si tenéis una asignatura ahora, usadla. Si luego hay otras asignaturas más flexibles y podéis invertir unas horas en Excel, aprovechad el tiempo de la universidad, porque después no tendréis ese tiempo disponible.
+
+> “El aprendizaje es básicamente manejar tres lenguajes: saber comunicar, saber matemáticas y saber programar”
+
+**P:** Sabemos que hay un máster de periodismo en *El País*. ¿Usted realmente considera que se imparte el periodismo de datos en esa formación que ofrecen?
+
+**R:** No sé exactamente lo que hacen. Sé que hay una formación en periodismo de datos, no sé si para todos los alumnos o si se ofrece como una optativa. El máster de *El País*, y de otros medios, ha sido la puerta de entrada para prácticas o para trabajar en el medio. Es sumamente valioso.
+
+En el caso del periodismo de datos, el camino más directo para unirse al equipo no sería hacer el máster de *El País.* Por una parte, porque no buscamos eso, buscamos reclutar, o cuando podemos reclutar, buscamos gente que tenga al menos ciertas nociones de programación casi al 100%. Y en los másteres en general eso no se está enseñando. Por otra parte, porque somos unos 300 periodistas en la redacción, gente con capacidad de escribir, trabajar fuentes…, de eso tenemos mucha gente.
+
+Lo que es más escaso es gente con una mirada analítica, que sepa programar bien, que maneje datos digitales, habilidades que no encontramos en todos. Algunas de las habilidades que ya tienen los jóvenes que llegan a la redacción son escasas en el periodismo en general, lo cual es una ventaja. Pero programar ya es otra cosa. En conclusión, para entrar al periódico, el máster es una de las mejores opciones, pero para unirse al equipo de datos, seguramente no lo sea.
+
+**P:** ¿Cómo consigue estar actualizado en una especialidad cambiante y técnica?
+
+**R:** Supongo que me estoy quedando obsoleto en algunas cosas, eso es inevitable. Primero, porque me preocupa quedarme obsoleto. Buscamos excusas continuamente para innovar, para probar cosas nuevas en las historias, es continuo. Una semana hicimos un tema sobre la España vacía con un gráfico que es como una forma con un mapa. Hemos hecho algo con Datawrapper que nunca antes habíamos hecho. Y la verdad es que tampoco era imprescindible hacerlo esta vez, pero es una excusa. Ya hemos aprendido a hacerlo, entonces es como estar permanentemente ensayando. Y en general, lo demás es estar pendiente de las cosas que van sucediendo, que son más o menos importantes. Aun así, claro, se puede hasta cierto punto. Por ejemplo, en los últimos años, hago lo que puedo para apuntarme a todo lo que tenga que ver con podcasts, hablar, pensar en cómo hablar de reportajes de este estilo, que no es algo que haga en el periódico, no es mi trabajo. Pero lo hago como una inversión. Creo que es posible que vayas a ocupar un espacio en el futuro y ahí me conviene no ser el que menos sabe del tema en mi rama. Entonces eso es una buena costumbre en general.
+
+**P:** Según su punto de vista, ¿qué es lo más importante que nosotros deberíamos aprender teniendo en cuenta que nosotros estamos estudiando periodismo?
+
+**R:** Lo primero es manejar Excel, Google Sheets o cualquier hoja de cálculo. Ahora mismo da igual lo que cubras, alguien te hace llegar unos datos de Sanidad o de cualquier otro tema y te van a llegar noticias con una hoja de cálculo, ya sea filtrada o de cualquier otro modo. En este momento, una parte considerable de los periodistas tienen que buscar a alguien que sea capaz de trabajar con ello. No pueden abordar esa historia ellos solos y ni siquiera iniciarla. De hecho, creo que esto es algo que no os debería suceder. Por ejemplo, cuando haces matemáticas, siempre quieres tener a alguien que revise tus cálculos por si has cometido errores o para saber si has realizado determinados cálculos. No obstante, manejar una hoja de cálculo requiere cierta habilidad.
+
+En segundo lugar, crear gráficos con algún programa. Por ejemplo, Datawrapper tiene ahora una versión gratuita. Todos los medios españoles hemos estado utilizando Datawrapper durante varios años, ya que ahora es universal y tendrá un uso prolongado en el tiempo. Es bastante fácil de usar, con solo una semana usándolo, no debería haber problemas. Y si ya lo sabes usar, mucho mejor. Saber cómo usar estos medios de visualización, ya sea Datawrapper o mediante algún libro de Alberto Cairo sobre cómo crear buenos gráficos, y que en lugar de ser recargados, sean limpios y claros, es una habilidad muy útil. Luego, ya podemos hablar de programar en R y otras cosas, pero eso ya es el siguiente nivel.
+
+Para añadir algo más, en periodismo hay dos perspectivas: la mirada más tradicional del periodismo y la mirada más digital.
+
+Esta brecha se encuentra en muchos medios. O eres de los que les gusta mucho cómo se publican las noticias en medios digitales, o eres de los que prefieren las cosas como se hacían hace 20 años. Son cosas tan simples como titular las historias. Un titular tradicional está compuesto por 2-3 palabras. Por ejemplo: 'La Naranja Mecánica'. Aquí no sabes si el periodista se está refiriendo a la selección holandesa de Cruyff, al partido político de Rivera o a los productos cítricos de la Comunidad Valenciana.
+
+Estos titulares no existen en los medios digitales, porque nadie va a publicar un titular que sea un salto al vacío. Los titulares digitales son más largos, te avisan más de lo que hay y tratan de llamar la atención. En los medios impresos no hacía falta captar la atención con tanta intensidad, porque las personas que estaban leyendo el periódico estaban en un momento en el que no tenían otra cosa que hacer. Hoy en día, en Internet esto no funciona así. Puedes estar haciendo scroll hasta encontrar una noticia que te llame la atención o cualquier otra cosa. Captar la atención del lector es muy importante en los medios digitales.
+
+En resumen, vais a tener profesores de las dos escuelas y ahí es donde tendréis que ver exactamente dónde os queréis colocar. Yo soy nítidamente un periodista digital, creo que es lo que la gente prefiere y creo que es lo que debemos ofrecerles. Pero sí creo que es útil saber encontrarte y saber qué quieres hacer, cómo lo quieres hacer y para quién lo quieres hacer. Básicamente, saber controlar esa tensión entre la mirada tradicional y la mirada digital, es una habilidad muy útil también.
+
+### Experiencia personal
+**P:** ¿Cuándo decidió dedicarse a la comunicación ya que tiene estudios en ingeniería?
+
+**R:** Todo fue casualidad. Llegué a *El País* en 2016 y antes había sido académico durante diez años. Terminé la carrera, hice mi tesis doctoral y fui profesor en la universidad en un departamento de ingeniería donde me dediqué a la investigación. Lo que sucedió es que en 2006 empecé a escribir en blogs. La vida está llena de casualidades y es muy difícil llegar a los medios. Las ventanas de oportunidad se abren y se cierran a veces un poco por sorpresa. Mi oportunidad llegó en 2004, cuando la gente comenzó a escribir en internet sobre temas académicos o sofisticados que no se trataban en los medios. En mi caso, empecé a escribir sobre actualidad en el lenguaje de números, que era el lenguaje que manejaba debido a mi formación. Eso era algo escaso en 2006. Entonces se abrió una ventana de oportunidad. Comenzamos a hacer esto en internet y luego junté a la gente de 'Politikon', que escribía sobre política con una mirada más joven, analítica y técnica, algo que no se hacía en aquel entonces. Luego, hubo más casualidades, pero en esencia, eso fue lo que sucedió. Empezamos a hacer algo amateur que no existía en los medios.
+
+En 2015 cogí una excedencia en la universidad para cubrir las elecciones, y tuve la suerte de que hubo que repetirlas. Fue un pequeño golpe de suerte. Era algo que debía hacer cada cuatro años pero me tocó repetir, por lo tanto la campaña duró ocho meses en lugar de dos. Estuvimos ocho meses centrados en esto y, entonces, en esas segundas elecciones fue cuando salté a *El País*. Hace un par de años, renuncié a la excedencia.
+
+Mi consejo es que hay que estar atentos a estas ventanas de oportunidad, que no todas tienen el mismo valor. El blog fue una cosa que existió y murió en gran medida. Fue reemplazado por las redes sociales primero y luego, en parte, por algunas de las ventanas de oportunidad que aprovechamos las personas de mi generación se cerraron porque los medios absorbieron a personas de fuera. No sé cuáles son las ventanas de oportunidad que hay ahora. Ha habido más intentos después. Hubo una primera ventana con Youtube, se intentó con Instagram, en su día con los directos, pero tampoco terminaron de salir. Probablemente, con el podcast hay algo, es posible que haya gente que haga podcasts amateurs y luego salte a plataformas. Hay que estar atentos a estas cosas.
+
+> “Mi consejo es que hay que estar atentos a estas ventanas de oportunidad, que no todas tienen el mismo valor”
+
+**P:** ¿Cómo definiría su día a día en *El País*?
+
+**R:** Diría que en un día típico tengo una historia semanal en la que trabajo con más gente: alguien de visualización, algún compañero de datos, un compañero de otra sección, etc. Es un proyecto semanal. Además, no todos los días, pero sí día sí, día no, trabajo en análisis propios. Son historias más de análisis personal que de opinión, que normalmente las trabajo solo. Pueden ser una newsletter, una columna o algo así. Normalmente intercalo estos dos trabajos. Por un lado, la producción de estos análisis, que es el trabajo típico de un columnista, que está pensando en historias y luego trata de escribirlas uno o dos días a la semana. Por otro lado, el trabajo en equipo: conecto con compañeros, abrimos R, que es el programa que usamos para programar, descargamos datos, los revisamos, discutimos sobre lo que encontramos, empezamos a producir un borrador donde tomamos nota de lo que vamos encontrando y, al final, producimos un texto y unos gráficos generalmente para una pieza que saldrá, si hoy es lunes, este fin de semana o a lo mejor es un trabajo de dos semanas vista.
+
+**P:** ¿En qué especialidades trabaja dentro del periodismo de datos?
+
+**R:** Generalmente he hecho mucho de política electoral. También mucho de datos sociales, de rentas, precios de los alquileres…, temas de este estilo. Pero luego, por ejemplo, el año pasado, el año de la pandemia, básicamente me dediqué a entenderla y contarla. Es decir, no tengo un enfoque definido. Desde fuera, la gente tendrá la sensación de que hago un poco de todo, pero en realidad no. La política sí que es un carril que cojo y luego hay temas como el coronavirus por tramos o el cambio climático. Entonces es un privilegio, pero lo que hago es escoger los temas que me interesan, que me dan curiosidad.
+
+Al final es una excusa para leer. Leo mucho sobre ellos porque me interesa y algún día puedo decir: “Pues de esto se podría escribir”. Que luego hay muchas veces que estoy invirtiendo horas en leer sobre alguna historia que luego no acabo escribiendo. Por ejemplo, leo mucho sobre datos en el fútbol, estadísticas y análisis para fútbol, donde hay un campo fantástico y se pueden hacer mil cosas. Y luego, realmente escribo muy poco del tema porque me ocupan otros ángulos. En general, como consejo, hay dos cosas a evitar. Normalmente no depende de ti, sino del trabajo que te encarguen, pero en la medida que se pueda se han de evitar. Una son los carriles muy estrechos. A veces no hay más remedio, pero es mejor tener un campo más amplio. Y el otro riesgo es el carril de “última hora”. Durante una temporada, para un periodista es útil, pero es muy difícil destacar haciendo “última hora”, porque cubres el tema durante una tarde y compites con la gente que lo cubre a “full time”.
+
+**P:** ¿De qué trabajo de investigación se siente más orgulloso dentro de El País?
+
+**R:** Te diría que de todos, aunque se me olvida continuamente. El periodismo es efímero. Son cosas que haces y luego no te acuerdas, nadie se acuerda (risas). Pero diría que la cobertura de los primeros seis meses de la pandemia. Fue mucho trabajo, fue muy leída, y luego es un tema que fue muy importante para la gente. Y luego me he encontrado con mucha gente que, tiempo después, me dice: “Oye, yo todos los días leía o me metía para ver qué iba a pasar”.

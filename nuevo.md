@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<div class="col-lg-9 mx-auto">
 <h2>Añadir a la lista</h2>
 
 <p class="lead">
@@ -10,28 +11,34 @@ Si quieres añadir a alguien a la lista, por favor, completa el siguiente formul
   <strong>¡Muchas gracias!</strong> Has enviado correctamente la información.
 </div>
 
-<form action="https://getsimpleform.com/messages?form_api_token=783b6c9bb4e486be36be5ff73fc3803f" method="post">
-<input type="hidden" name="redirect_to" value='http://mip.umh.es/djspain{{ page.url }}#thank-you'/>
+<form action="https://getsimpleform.com/messages?form_api_token=783b6c9bb4e486be36be5ff73fc3803f" method="post" class="card p-4 shadow-sm border-0 rounded-4">
+<input type="hidden" name="redirect_to" value='{{ site.url }}{{ page.url }}#thank-you'/>
 
 <!-- Text input-->
 <div class="form-group">
-<input name="Formulario Periodistas de Datos" type="text" class="form-control" id="nombre" placeholder="Tu nombre y apellidos" required data-validation-required-message="Por favor, escribe tu nombre.">
+<label for="nombre">Tu nombre y apellidos</label>
+<input name="proponente_nombre" type="text" class="form-control" id="nombre" placeholder="Tu nombre y apellidos" required data-validation-required-message="Por favor, escribe tu nombre.">
 </div>
 <div class="form-group">
+<label for="email">Tu correo electrónico</label>
 <input name="email" id="email" type="email" class="form-control" placeholder="Tu correo electrónico" required data-validation-required-message="Escribe una dirección de correo válida.">
 </div>
 
 <p class="lead">Persona propuesta:</p>
 <div class="form-group">
+<label for="propuesta">Nombre y apellidos</label>
 <input name="nombre" id="propuesta" type="text" class="form-control" placeholder="Nombre y apellidos">
 </div>
 <div class="form-group">
-<input name="alias" id="twitter" type="text" class="form-control" placeholder="Enlace a perfil en Twitter">
+<label for="twitter">Perfil en Twitter/X</label>
+<input name="twitter" id="twitter" type="text" class="form-control" placeholder="https://twitter.com/usuario o @usuario">
 </div>
 <div class="form-group">
-<input name="sitio web" id="web" type="text" class="form-control" placeholder="Enlace a sitio web">
+<label for="web">Sitio web</label>
+<input name="sitio_web" id="web" type="url" class="form-control" placeholder="https://ejemplo.com">
 </div>
 <div class="form-group">
+<label for="ciudad">Ciudad y país</label>
 <input name="ciudad" id="ciudad" type="text" class="form-control" placeholder="Ciudad (País)">
 </div>
 
@@ -45,10 +52,13 @@ Si quieres añadir a alguien a la lista, por favor, completa el siguiente formul
 </div>
 input-->
 <div class="form-group">
+<label for="etiquetas">Especialidad</label>
 <input name="especialidad" id="etiquetas" type="text" class="form-control" placeholder="Especialidad (redacción, visualización...)">
 </div>                          
 <div class="form-group">
-<textarea name="razones" class="libre" id="libre" type="text" class="form-control" placeholder="¿Por qué crees que debemos añadirle?" rows="3"></textarea>
+<label for="libre">Justificación</label>
+<textarea name="razones" class="form-control" id="libre" placeholder="¿Por qué crees que debemos añadirle?" rows="5" required></textarea>
 </div>
 <button id="button" class="btn btn-primary btn-lg btn-block mb-3">Enviar</button>
 </form>
+</div>

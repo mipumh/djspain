@@ -1,0 +1,62 @@
+<section class="py-2 mb-4">
+  <p class="text-secondary small text-center mb-3">Muestra aleatoria de <code>{{ site.data.facepile.sample_size }}</code> perfiles con avatar de <code>{{ site.data.journos | size }}</code> periodistas registrados.</p>
+
+  <div class="facepile mb-4" aria-label="Facepile de periodistas registrados">
+    {% for p in site.data.facepile.profiles %}
+      <a href="javascript:void(0)" data-toggle="modal" data-target="#{{ p.alias | slugify }}" title="{{ p.nombre }}">
+        <picture>
+          <img loading="lazy" decoding="async" src="{{ p.avatar | relative_url }}" width="66" height="66" alt="Avatar de {{ p.nombre }}" class="avatar avatar-large rounded-circle">
+        </picture>
+        <span class="sr-only">{{ p.alias }}</span>
+      </a>
+    {% endfor %}
+  </div>
+
+  <div class="search-bar-wrap mx-auto mb-3">
+    <label for="search-input" class="visually-hidden">Busca por nombre o alias y abre su ficha</label>
+    <input type="text" placeholder="Busca por nombre o alias y abre su ficha" id="search-input" class="form-control form-control-lg" tabindex="1">
+  </div>
+
+  <div class="mb-3 text-center">
+    <p class="small text-secondary mb-0"><a href="{{ '/redaccion.html' | relative_url }}">#redacción</a> · <a href="{{ '/academia.html' | relative_url }}">#academia</a> · <a href="{{ '/proyectos.html' | relative_url }}">#proyectos</a> · <a href="{{ '/desarrollo.html' | relative_url }}">#desarrollo</a> · <a href="{{ '/visualizacion.html' | relative_url }}">#visualización</a> · <a href="{{ '/verificacion.html' | relative_url }}">#verificación</a> · <a href="{{ '/transparencia.html' | relative_url }}">#transparencia</a> · <a href="{{ '/investigacion.html' | relative_url }}">#investigación</a> · <a href="{{ '/analisis.html' | relative_url }}">#análisis</a></p>
+  </div>
+
+  <div class="list-group search-results mx-auto" id="results-container"></div>
+
+  {% for journos in site.data.journos %}
+    {% assign interview = site.entrevistas | where: "alias", journos.alias | first %}
+    {% assign base_modal_id = journos.alias | default: journos.modal | default: journos.nombre %}
+    {% assign modal_id = base_modal_id | slugify %}
+    <div class="modal fade" id="{{ modal_id }}" tabindex="-1" role="dialog" aria-labelledby="{{ modal_id }}-title" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="{{ modal_id }}-title">{{ journos.nombre }}</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <div class="media">
+              <img class="align-self-start mr-3 rounded mb-4" src="{{ '/img/' | append: journos.alias | append: '.jpg' | relative_url }}" data-base="{{ '/img/' | relative_url }}" data-alias="{{ journos.alias }}" data-attempt="0" onerror="avatarFallback(this)" alt="{{ journos.nombre }}" width="72" height="72" loading="lazy">
+              <div class="media-body">
+                <a style="text-decoration:none" href="{{ journos.twitter }}" target="_blank" rel="noopener noreferrer"><h5 class="mt-0 mb-1 text-primary">@{{ journos.alias }}</h5></a>
+                <p>{{ journos.perfil }}</p>
+                <p class="text-success"><i class="fas fa-map-marker-alt"></i> {{ journos.ciudad }}{% if journos.pais %} ({{ journos.pais }}){% endif %}</p>
+                {% if journos.web %}<p><i class="fas fa-link"></i> <a class="text-secondary" href="{{ journos.web }}" target="_blank" rel="noopener noreferrer">Sitio web</a></p>{% endif %}
+                {% if journos.medio %}<p><i class="far fa-building"></i> {{ journos.medio }}</p>{% endif %}
+                <p><i class="fas fa-tag"></i> {% if journos.tag_1 %} <a href="{{ '/' | append: journos.tag_1 | downcase | replace: 'ó', 'o' | replace: 'á', 'a' | append: '.html' | relative_url }}" class="btn btn-outline-secondary btn-sm">{{ journos.tag_1 }}</a> {% endif %} {% if journos.tag_2 %} <a href="{{ '/' | append: journos.tag_2 | downcase | replace: 'ó', 'o' | replace: 'á', 'a' | append: '.html' | relative_url }}" class="btn btn-outline-secondary btn-sm">{{ journos.tag_2 }}</a> {% endif %} {% if journos.tag_3 %} <a href="{{ '/' | append: journos.tag_3 | downcase | replace: 'ó', 'o' | replace: 'á', 'a' | append: '.html' | relative_url }}" class="btn btn-outline-secondary btn-sm">{{ journos.tag_3 }}</a> {% endif %}</p>
+              </div>
+            </div>
+          </div>
+          <div class="modal-footer">
+            {% if interview %}
+              <a href="{{ interview.url | relative_url }}" class="btn btn-primary">Leer entrevista</a>
+            {% endif %}
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+</section>

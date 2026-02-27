@@ -1,15 +1,20 @@
 ---
 layout: default
 ---
-<div class="col-md-7 offset-md-3">
-
-    <strong class="d-inline-block mb-3 text-tertiary-color">{{ page.antetitle }}</strong>
+<div class="col-lg-8 offset-lg-2">
+  <article class="card border-0 shadow-sm p-4 p-md-5 rounded-4">
+    <p class="highlight-meta mb-3">{{ page.interviewee | default: page.antetitle }} · {{ page.outlet | default: site.title }}</p>
     <h1 class="mb-3 lh-1 fw-bold">"{{ page.title }}"</h1>
-    <h4 class="mb-3">{{ page.subtitle }}</h4>
-    <span class="post-date">{{ page.date | date_to_string }}</span>
+    {% if page.subtitle %}
+      <h2 class="h5 mb-3 text-secondary">{{ page.subtitle }}</h2>
+    {% endif %}
+    <div class="small text-secondary mb-3">{{ page.date | date: "%d/%m/%Y" }}</div>
+    {% if page.featured_image %}
+      <img src="{{ page.featured_image | relative_url }}" alt="{{ page.interviewee | default: page.title }}" class="img-fluid rounded-3 mb-4 interview-cover" loading="lazy">
+    {% endif %}
 
-    <div class="post pt-4">
+    <div class="post pt-2">
     {{ content }}
     </div>
-
+  </article>
 </div>

@@ -1,0 +1,96 @@
+<div class="{{ include.column_class | default: 'col-md-12' }}">
+  <div class="my-3 p-3">
+    {% if include.heading %}
+      <h4 class="border-bottom border-gray pb-2 mt-3">{{ include.heading }}</h4>
+    {% endif %}
+
+    <div class="col-lg-12 mx-auto pb-3" id="search-demo-container">
+      <div class="filter-parent" id="search">
+        <label for="search-input" class="visually-hidden">Buscar periodistas</label>
+        <input type="text" placeholder="Buscar periodistas" id="search-input" class="form-control input-lg" tabindex="1">
+      </div>
+    </div>
+    <div class="col col-lg-12 col-sm-12">
+      <p class="small text-light"><a href="{{ '/redaccion.html' | relative_url }}">#redacción</a> | <a href="{{ '/academia.html' | relative_url }}"> #academia</a> | <a href="{{ '/proyectos.html' | relative_url }}">#proyectos</a> | <a href="{{ '/desarrollo.html' | relative_url }}">#desarrollo</a> | <a href="{{ '/visualizacion.html' | relative_url }}">#visualización</a> | <a href="{{ '/verificacion.html' | relative_url }}">#verificación</a> | <a href="{{ '/transparencia.html' | relative_url }}">#transparencia</a> | <a href="{{ '/investigacion.html' | relative_url }}">#investigación</a> | <a href="{{ '/analisis.html' | relative_url }}">#análisis</a></p>
+    </div>
+
+    <div class="list-group mb-3" id="results-container"></div>
+
+    {% assign selected_tag = include.tag | default: '' %}
+    {% assign has_tag_filter = selected_tag != '' %}
+
+    <div class="list-group mb-3">
+      {% for journos in site.data.journos %}
+        {% assign show_item = true %}
+        {% if has_tag_filter %}
+          {% assign show_item = false %}
+          {% if journos.tag_1 == selected_tag or journos.tag_2 == selected_tag or journos.tag_3 == selected_tag %}
+            {% assign show_item = true %}
+          {% endif %}
+        {% endif %}
+
+        {% if show_item %}
+          {% assign interview = site.entrevistas | where: "alias", journos.alias | first %}
+          {% assign base_modal_id = journos.alias | default: journos.modal | default: journos.nombre %}
+          {% assign modal_id = base_modal_id | slugify %}
+          <a class="list-group-item list-group-item-action d-flex align-items-center" href="#" data-toggle="modal" data-target="#{{ modal_id }}">
+            <img id="{{ modal_id }}-thumb" src="{{ '/img/' | append: journos.alias | append: '.jpg' | relative_url }}" data-base="{{ '/img/' | relative_url }}" data-alias="{{ journos.alias }}" data-attempt="0" onerror="avatarFallback(this)" alt="{{ journos.nombre }}" width="32" height="32" class="rounded me-2" loading="lazy">
+            <span>
+              <strong>{{ journos.nombre }}</strong> @{{ journos.alias }}
+              {% if interview %}
+                <span class="badge rounded-pill bg-success ms-2">Entrevista</span>
+              {% endif %}
+            </span>
+          </a>
+        {% endif %}
+      {% endfor %}
+    </div>
+
+    {% for journos in site.data.journos %}
+      {% assign show_item = true %}
+      {% if has_tag_filter %}
+        {% assign show_item = false %}
+        {% if journos.tag_1 == selected_tag or journos.tag_2 == selected_tag or journos.tag_3 == selected_tag %}
+          {% assign show_item = true %}
+        {% endif %}
+      {% endif %}
+
+      {% if show_item %}
+        {% assign interview = site.entrevistas | where: "alias", journos.alias | first %}
+        {% assign base_modal_id = journos.alias | default: journos.modal | default: journos.nombre %}
+        {% assign modal_id = base_modal_id | slugify %}
+        <div class="modal fade" id="{{ modal_id }}" tabindex="-1" role="dialog" aria-labelledby="{{ modal_id }}-title" aria-hidden="true">
+          <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="{{ modal_id }}-title">{{ journos.nombre }}</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+              <div class="modal-body">
+                <div class="media">
+                  <img class="align-self-start mr-3 rounded mb-4" src="{{ '/img/' | append: journos.alias | append: '.jpg' | relative_url }}" data-base="{{ '/img/' | relative_url }}" data-alias="{{ journos.alias }}" data-attempt="0" onerror="avatarFallback(this)" alt="{{ journos.nombre }}" width="72" height="72" loading="lazy">
+                  <div class="media-body">
+                    <a style="text-decoration:none" href="{{ journos.twitter }}" target="_blank" rel="noopener noreferrer"><h5 class="mt-0 mb-1 text-primary">@{{ journos.alias }}</h5></a>
+                    <p>{{ journos.perfil }}</p>
+                    <p class="text-success"><i class="fas fa-map-marker-alt"></i> {{ journos.ciudad }}{% if journos.pais %} ({{ journos.pais }}){% endif %}</p>
+                    {% if journos.web %}<p><i class="fas fa-link"></i> <a class="text-secondary" href="{{ journos.web }}" target="_blank" rel="noopener noreferrer">Sitio web</a></p>{% endif %}
+                    {% if journos.medio %}<p><i class="far fa-building"></i> {{ journos.medio }}</p>{% endif %}
+                    <p><i class="fas fa-tag"></i> {% if journos.tag_1 %} <a href="{{ '/' | append: journos.tag_1 | downcase | replace: 'ó', 'o' | replace: 'á', 'a' | append: '.html' | relative_url }}" class="btn btn-outline-secondary btn-sm">{{ journos.tag_1 }}</a> {% endif %} {% if journos.tag_2 %} <a href="{{ '/' | append: journos.tag_2 | downcase | replace: 'ó', 'o' | replace: 'á', 'a' | append: '.html' | relative_url }}" class="btn btn-outline-secondary btn-sm">{{ journos.tag_2 }}</a> {% endif %} {% if journos.tag_3 %} <a href="{{ '/' | append: journos.tag_3 | downcase | replace: 'ó', 'o' | replace: 'á', 'a' | append: '.html' | relative_url }}" class="btn btn-outline-secondary btn-sm">{{ journos.tag_3 }}</a> {% endif %}</p>
+                  </div>
+                </div>
+              </div>
+              <div class="modal-footer">
+                {% if interview %}
+                  <a href="{{ interview.url | relative_url }}" class="btn btn-primary">Leer entrevista</a>
+                {% endif %}
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>

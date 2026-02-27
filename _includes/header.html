@@ -1,24 +1,24 @@
 <!-- Header -->
 <header>
 
-<div class="bg-dark text-secondary px-4 py-5 text-center">
-        <nav class="navbar ml-3 mr-3 navbar-light bg-transparent justify-content-end">
-          <a class="btn btn-light" href="{{ site.baseurl }}/nuevo.html">+ Añadir</a>
-        </nav>
+  <div class="site-hero text-secondary px-4 py-5 text-center">
+    <nav class="navbar ml-3 mr-3 navbar-light bg-transparent justify-content-end">
+      <a class="btn btn-light" href="{{ '/nuevo.html' | relative_url }}">+ Añadir</a>
+    </nav>
 
     <div class="py-5">
-      <h1 class="display-5 fw-bold text-white"><a class="text-white" href="/">Periodistas de datos</a></h1>
-      <div class="col-lg-6 mx-auto">
-        <p class="fs-5 mb-4">Una lista de profesionales en España y Latinoamérica.</p>
-      </div> 
+      <h1 class="display-5 fw-bold text-white"><a class="text-white text-decoration-none" href="{{ '/' | relative_url }}">Periodistas de datos</a></h1>
+      <div class="col-lg-7 mx-auto">
+        <p class="fs-5 mb-4 text-white-75">Una lista de profesionales en España y Latinoamérica con perfiles y entrevistas.</p>
+      </div>
     </div>
   </div>
 
 </header>
-    <div class="nav-scroller bg-white box-shadow">
-      <nav class="nav nav-underline justify-content-center">
-        <a class="nav-link" href="/">Inicio</a>
-        <a class="nav-link" href="/acerca.html">Acerca</a>
-        <a class="nav-link" href="/contacto.html">Contacto</a>
-      </nav>
-    </div>
+<div class="nav-scroller bg-white box-shadow">
+  <nav class="nav nav-underline justify-content-center">
+    <a class="nav-link" href="{{ '/' | relative_url }}">Inicio</a>
+    <a class="nav-link" href="{{ '/acerca.html' | relative_url }}">Acerca</a>
+    <a class="nav-link" href="{{ '/contacto.html' | relative_url }}">Contacto</a>
+  </nav>
+</div>

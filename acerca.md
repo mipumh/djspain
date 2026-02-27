@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: default
 ---
+<div class="col-lg-8 mx-auto">
 <h2>&iquest;Qu&eacute; es <strong>Periodistas de datos</strong>?</h2>
 <p><span style="font-weight: 400;">Un proyecto que aspira a reunir a todos los que ven en los datos la verdadera materia prima del periodismo. Esta lista es s&oacute;lo la </span><strong>primera fase</strong><span style="font-weight: 400;"> de una plataforma para visibilizar, estudiar y fomentar la colaboraci&oacute;n entre los art&iacute;fices de la especialidad con m&aacute;s presente y futuro en esta profesi&oacute;n.</span></p>
 <h3><span style="font-weight: 400;">&iquest;Qui&eacute;nes somos?</span></h3>
@@ -19,3 +20,4 @@ layout: post
 <h3><span style="font-weight: 400;">&iquest;Y ahora qu&eacute;?</span></h3>
 <p><span style="font-weight: 400;">Esto no ha hecho m&aacute;s que empezar. Queremos a&ntilde;adir </span><strong>mejoras</strong><span style="font-weight: 400;"> como la posibilidad de registrarse y editar perfiles propios y ajenos, listados paralelos de proyectos y herramientas, un sistema de votaciones y otro de generaci&oacute;n de colaboraciones&hellip; Y por supuesto, que para eso es nuestro trabajo, estudiar los resultados obtenidos.</span></p>
 <p><span style="font-weight: 400;">Pero lo primero que necesitamos es tu colaboraci&oacute;n. Queremos saber tus cr&iacute;ticas, tus sugerencias y tus propuestas. Y si no nos las env&iacute;as, en breve </span><strong>te las pediremos</strong><span style="font-weight: 400;"> :)</span></p>
+</div>

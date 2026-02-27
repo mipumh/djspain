@@ -1,3 +1,17 @@
+:root {
+  --brand-900: #0f172a;
+  --brand-700: #1e293b;
+  --accent-500: #0f766e;
+  --accent-300: #2dd4bf;
+  --surface: #f8fafc;
+  --card: #ffffff;
+}
+
+body {
+  background: linear-gradient(180deg, #f8fafc 0%, #eef2f7 100%);
+  color: #0f172a;
+}
+
 #myBtn {
     display: none; /* Hidden by default */
     position: fixed; /* Fixed/sticky position */
@@ -17,6 +31,142 @@
     bottom: 0;
     left: 0;
     background: rgba(0, 0, 0, 0.5); /* cambiar el valor 0.5 según cuán oscuro quieras que sea */
+}
+
+.site-hero {
+  background: radial-gradient(circle at 10% 20%, #1f2937 0%, #0f172a 55%, #020617 100%);
+}
+
+.text-white-75 {
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.surface-hero {
+  background: linear-gradient(135deg, #ffffff 0%, #f1f5f9 100%);
+  border: 1px solid rgba(15, 23, 42, 0.08);
+}
+
+.directory-search {
+  background: linear-gradient(120deg, #ffffff 0%, #f3f9ff 100%);
+  border: 1px solid rgba(15, 23, 42, 0.08);
+  border-radius: 1rem;
+  padding: 1.5rem;
+}
+
+.search-bar-wrap {
+  max-width: 760px;
+}
+
+.search-bar-wrap .form-control {
+  border-radius: 999px;
+  border: 1px solid rgba(15, 23, 42, 0.18);
+  box-shadow: 0 0.5rem 1rem rgba(2, 6, 23, 0.08);
+}
+
+.search-results {
+  max-width: 760px;
+}
+
+.facepile {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.35rem;
+  max-width: 980px;
+  margin: 0 auto;
+}
+
+.facepile a {
+  border-radius: 999px;
+  display: inline-flex;
+  line-height: 0;
+  transform: translateY(0);
+  transition: transform 130ms ease, box-shadow 130ms ease;
+}
+
+.facepile a:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 0.45rem 0.9rem rgba(2, 6, 23, 0.2);
+}
+
+.avatar.avatar-large {
+  width: 42px;
+  height: 42px;
+  object-fit: cover;
+  border: 2px solid #fff;
+  box-shadow: 0 0.15rem 0.45rem rgba(2, 6, 23, 0.2);
+}
+
+.interview-card {
+  transition: transform 160ms ease, box-shadow 160ms ease;
+  overflow: hidden;
+}
+
+.interview-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 0.8rem 1.6rem rgba(2, 6, 23, 0.12) !important;
+}
+
+.interview-thumb {
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
+}
+
+.interview-cover {
+  max-height: 460px;
+  object-fit: cover;
+  width: 100%;
+}
+
+.highlight-meta {
+  display: inline-block;
+  background: #e2f7f3;
+  color: #0f172a;
+  border-left: 4px solid var(--accent-500);
+  border-radius: 0.45rem;
+  padding: 0.35rem 0.65rem;
+  font-weight: 600;
+}
+
+.post p {
+  line-height: 1.75;
+}
+
+.post > p:first-of-type {
+  font-size: 1.1rem;
+  color: #334155;
+}
+
+.post h3 {
+  margin-top: 2rem;
+  font-size: 1.05rem;
+  letter-spacing: 0.04em;
+  color: #0f172a;
+}
+
+.post blockquote {
+  border-left: 4px solid var(--accent-500);
+  margin: 1.5rem 0;
+  padding: 0.85rem 1rem;
+  background: #f0fdfa;
+  border-radius: 0.5rem;
+  color: #0f172a;
+  font-style: italic;
+}
+
+.form-group label {
+  font-weight: 600;
+  margin-bottom: 0.35rem;
+}
+
+.list-group-item {
+  border-radius: 0.65rem !important;
+  margin-bottom: 0.4rem;
+  border: 1px solid rgba(15, 23, 42, 0.08);
+}
+
+.list-group-item:hover {
+  background-color: #f8fafc;
 }
 
 /**
@@ -75,10 +225,9 @@
   padding: 2.5rem 0;
   color: #999;
   text-align: center;
-  background-color: #f9f9f9;
+  background-color: transparent;
   border-top: .05rem solid #e5e5e5;
 }
 .blog-footer p:last-child {
   margin-bottom: 0;
 }
-
