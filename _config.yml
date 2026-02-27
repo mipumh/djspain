@@ -24,13 +24,10 @@ exclude:
   - gulpfile.js
   - _site
 
-url: "http://periodistasdedatos.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://periodistasdedatos.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: #jekyllrb
 github_username:  #jekyll
 
-# Build settings
-markdown: kramdown
-theme: minima
 plugins:
   - jekyll-feed
 
