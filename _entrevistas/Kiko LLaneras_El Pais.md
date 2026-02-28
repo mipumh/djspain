@@ -9,7 +9,7 @@ interviewee: "Kiko LLaneras"
 outlet: "El Pais"
 alias: "kikollan"
 source_docx: "Kiko LLaneras _ El País.docx"
-featured_image: "/img/entrevistas/kiko-llaneras-el-pais/media/image1.png"
+featured_image: "/img/entrevistas/kiko-llaneras-el-pais/media/image1.jpg"
 ---
 
 Kiko Llaneras, periodista de datos en El País (latribunadealbacete.es)

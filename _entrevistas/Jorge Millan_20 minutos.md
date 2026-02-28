@@ -9,7 +9,7 @@ interviewee: "Jorge Millan"
 outlet: "20 minutos"
 alias: ""
 source_docx: "Jorge Millán _ 20 minutos.docx"
-featured_image: "/img/entrevistas/jorge-millan-20-minutos/media/image1.png"
+featured_image: "/img/entrevistas/jorge-millan-20-minutos/media/image1.jpg"
 ---
 
 <span class="mark">Jorge Millán, redactor web en Últimas Noticias-20minutos \| Fuente: Linkedin</span>

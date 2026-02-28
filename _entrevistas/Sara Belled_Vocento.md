@@ -9,7 +9,7 @@ interviewee: "Sara Belled"
 outlet: "Vocento"
 alias: ""
 source_docx: "Sara Belled _ Vocento.docx"
-featured_image: "/img/entrevistas/sara-belled-vocento/media/image1.png"
+featured_image: "/img/entrevistas/sara-belled-vocento/media/image1.jpg"
 ---
 
 Sara Belled \| Imagen: LinkedIn

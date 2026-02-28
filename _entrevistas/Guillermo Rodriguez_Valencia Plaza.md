@@ -9,7 +9,7 @@ interviewee: "Guillermo Rodriguez"
 outlet: "Valencia Plaza"
 alias: "GuillermoRodz"
 source_docx: "Guillermo Rodríguez _ Valencia Plaza.docx"
-featured_image: "/img/entrevistas/guillermo-rodriguez-valencia-plaza/media/image1.png"
+featured_image: "/img/entrevistas/guillermo-rodriguez-valencia-plaza/media/image1.jpg"
 ---
 
 Guillermo Rodríguez Gil, periodista de datos \| Foto cedida de Linkedin

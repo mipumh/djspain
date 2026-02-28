@@ -9,7 +9,7 @@ interviewee: "Cristina Pozo"
 outlet: "RTVE"
 alias: "crisodisy"
 source_docx: "Cristina Pozo _ RTVE.docx"
-featured_image: "/img/entrevistas/cristina-pozo-rtve/media/image1.png"
+featured_image: "/img/entrevistas/cristina-pozo-rtve/media/image1.jpg"
 ---
 
 <span class="mark">Cristina Pozo, periodista de datos en RTVE \| Foto cedida</span>

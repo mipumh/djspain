@@ -9,7 +9,7 @@ interviewee: "Maria Blanco"
 outlet: "Newtral"
 alias: "m_llop"
 source_docx: "María Blanco _ Newtral.docx"
-featured_image: "/img/entrevistas/maria-blanco-newtral/media/image1.png"
+featured_image: "/img/entrevistas/maria-blanco-newtral/media/image1.jpg"
 ---
 
 <span class="mark">María Blanco \| LinkedIn</span>

@@ -9,7 +9,7 @@ interviewee: "Sara Carmona"
 outlet: "Relevo"
 alias: "Saimita24"
 source_docx: "Sara Carmona _ Relevo.docx"
-featured_image: "/img/entrevistas/sara-carmona-relevo/media/image1.png"
+featured_image: "/img/entrevistas/sara-carmona-relevo/media/image1.jpg"
 ---
 
 Sara Carmona, periodista de datos de Relevo (Twitter - @saracar93)

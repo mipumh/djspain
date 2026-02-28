@@ -9,7 +9,7 @@ interviewee: "Jesus Escudero"
 outlet: "Freelance"
 alias: "jescuderoma"
 source_docx: "Jesús Escudero _ Freelance.docx"
-featured_image: "/img/entrevistas/jesus-escudero-freelance/media/image1.png"
+featured_image: "/img/entrevistas/jesus-escudero-freelance/media/image1.jpg"
 ---
 
 Jesús Escudero \| Imagen: LinkedIn

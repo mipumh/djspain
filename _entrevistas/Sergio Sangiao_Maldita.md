@@ -9,7 +9,7 @@ interviewee: "Sergio Sangiao"
 outlet: "Maldita"
 alias: "SergioSangiao"
 source_docx: "Sergio Sangiao _ Maldita.docx"
-featured_image: "/img/entrevistas/sergio-sangiao-maldita/media/image1.png"
+featured_image: "/img/entrevistas/sergio-sangiao-maldita/media/image1.jpg"
 ---
 
 <span class="mark">Incorporación de Sergio Sangiao a Maldita.es 20/03/2019 — @SergioSangiao</span>

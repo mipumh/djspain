@@ -9,7 +9,7 @@ interviewee: "Ana Ordaz"
 outlet: "elDiario.es"
 alias: "AnaOrdaz_"
 source_docx: "Ana Ordaz _ elDiario.es.docx"
-featured_image: "/img/entrevistas/ana-ordaz-eldiario-es/media/image1.png"
+featured_image: "/img/entrevistas/ana-ordaz-eldiario-es/media/image1.jpg"
 ---
 
 <span class="mark">Ana Ordaz, periodista de datos en elDiario.es</span>

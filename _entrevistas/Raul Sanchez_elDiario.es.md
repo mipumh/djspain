@@ -9,7 +9,7 @@ interviewee: "Raul Sanchez"
 outlet: "elDiario.es"
 alias: "raulsanchezglez"
 source_docx: "Raúl Sánchez _ elDiario.es.docx"
-featured_image: "/img/entrevistas/raul-sanchez-eldiario-es/media/image1.png"
+featured_image: "/img/entrevistas/raul-sanchez-eldiario-es/media/image1.jpg"
 ---
 
 <span class="mark">Raúl Sánchez, periodista de datos en elDiario.es (enclaro.es)</span>

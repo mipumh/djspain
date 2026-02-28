@@ -9,7 +9,7 @@ interviewee: "Dario Ojeda"
 outlet: "El Confidencial"
 alias: ""
 source_docx: "Darío Ojeda _ El Confidencial.docx"
-featured_image: "/img/entrevistas/dario-ojeda-el-confidencial/media/image1.png"
+featured_image: "/img/entrevistas/dario-ojeda-el-confidencial/media/image1.jpg"
 ---
 
 <span class="mark">Darío Ojeda \| Foto prestada por el periodista</span>

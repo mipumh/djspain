@@ -9,7 +9,7 @@ interviewee: "Marta Ley"
 outlet: "El Confidencial"
 alias: "leymarta"
 source_docx: "Marta Ley _ El Confidencial.docx"
-featured_image: "/img/entrevistas/marta-ley-el-confidencial/media/image1.png"
+featured_image: "/img/entrevistas/marta-ley-el-confidencial/media/image1.jpg"
 ---
 
 Además de trabajar en El Confidencial, Marta es profesora asociada en la UC3M \| Fotografía: elmundo.es

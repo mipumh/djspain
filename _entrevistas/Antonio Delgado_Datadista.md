@@ -9,7 +9,7 @@ interviewee: "Antonio Delgado"
 outlet: "Datadista"
 alias: "adelgado"
 source_docx: "Antonio Delgado _ Datadista.docx"
-featured_image: "/img/entrevistas/antonio-delgado-datadista/media/image1.png"
+featured_image: "/img/entrevistas/antonio-delgado-datadista/media/image1.jpg"
 ---
 
 <span class="mark">Antonio Delgado</span>

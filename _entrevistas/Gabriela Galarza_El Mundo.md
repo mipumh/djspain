@@ -9,7 +9,7 @@ interviewee: "Gabriela Galarza"
 outlet: "El Mundo"
 alias: ""
 source_docx: "Gabriela Galarza _ El Mundo.docx"
-featured_image: "/img/entrevistas/gabriela-galarza-el-mundo/media/image1.png"
+featured_image: "/img/entrevistas/gabriela-galarza-el-mundo/media/image1.jpg"
 ---
 
 Gabriela Galarza, periodista de datos en El Mundo (elmundo.es)

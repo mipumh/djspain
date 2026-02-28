@@ -9,7 +9,7 @@ interviewee: "Adrian Blanco"
 outlet: "The Washington Post"
 alias: "AdrianBlancoR"
 source_docx: "Adrián Blanco _ The Washington Post.docx"
-featured_image: "/img/entrevistas/adrian-blanco-the-washington-post/media/image1.png"
+featured_image: "/img/entrevistas/adrian-blanco-the-washington-post/media/image1.jpg"
 ---
 
 <span class="mark">Adrián Blanco posando en The Washington Post \| Imagen: Diario de Burgos</span>

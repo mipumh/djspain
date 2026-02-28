@@ -9,7 +9,7 @@ interviewee: "Ana Isabel Cordobes"
 outlet: "El Diario Montanes"
 alias: "ana_cordobes"
 source_docx: "Ana Isabel Cordobés _ El Diario Montañés.docx"
-featured_image: "/img/entrevistas/ana-isabel-cordobes-el-diario-montanes/media/image1.png"
+featured_image: "/img/entrevistas/ana-isabel-cordobes-el-diario-montanes/media/image1.jpg"
 ---
 
 <span class="mark">Ana Cordobés, periodista de datos del Diario de Navarra</span>

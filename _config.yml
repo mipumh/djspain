@@ -6,9 +6,8 @@
 
 # Site settings
 title: Periodistas de datos
+description: "Directorio de periodistas de datos en España y Latinoamérica. Perfiles, entrevistas y recursos sobre periodismo de datos, visualización y análisis en medios en español."
 email: mcarvajal@umh.es
-excerpt: Lista de periodistas, diseñadores y programadores, un proyecto ideado por Félix Arias y desarrollado por Miguel Carvajal.
-email: 
 # Build settings
 markdown: kramdown
 

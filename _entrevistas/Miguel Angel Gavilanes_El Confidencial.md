@@ -9,7 +9,7 @@ interviewee: "Miguel Angel Gavilanes"
 outlet: "El Confidencial"
 alias: "MAngelGavilanes"
 source_docx: "Miguel Ángel Gavilanes _ El Confidencial.docx"
-featured_image: "/img/entrevistas/miguel-angel-gavilanes-el-confidencial/media/image1.png"
+featured_image: "/img/entrevistas/miguel-angel-gavilanes-el-confidencial/media/image1.jpg"
 ---
 
 <span class="mark">Gavilanes en el año 2016, cuando fue galardonado como Periodista Joven del Año por la Asociación de Prensa de Madrid I Foto: APM</span>

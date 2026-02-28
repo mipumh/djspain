@@ -9,7 +9,7 @@ interviewee: "Maria Alvarez"
 outlet: "Civio"
 alias: "malvarezdelvayo"
 source_docx: "María Álvarez _ Civio.docx"
-featured_image: "/img/entrevistas/maria-alvarez-civio/media/image1.png"
+featured_image: "/img/entrevistas/maria-alvarez-civio/media/image1.jpg"
 ---
 
 <span class="mark">María Álvarez del Vayo (Badajoz, año de nacimiento) es graduada en Periodismo por la Universidad Carlos III de Madrid con una beca Erasmus en la Universidad de Lancashire Central (Preston, Reino Unido). Tras graduarse realizó los cursos International Relations, International Development, Minorities in Modern Europe y Terror and Religion en la Universidad de Nueva Gales del Sur (Sídney, Australia). Además, cursó el Máster en Periodismo de Investigación, Datos y Visualización de Unidad Editorial. Después de su experiencia en el mundo de la empresa, recala en Civio como periodista de investigación y datos.</span>

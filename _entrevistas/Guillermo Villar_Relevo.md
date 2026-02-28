@@ -9,7 +9,7 @@ interviewee: "Guillermo Villar"
 outlet: "Relevo"
 alias: "_gvillar"
 source_docx: "Guillermo Villar _ Relevo.docx"
-featured_image: "/img/entrevistas/guillermo-villar-relevo/media/image1.png"
+featured_image: "/img/entrevistas/guillermo-villar-relevo/media/image1.jpg"
 ---
 
 Guillermo Villar, periodista de datos y visualización en Relevo ([<u>Relevo.com</u>](http://relevo.com))

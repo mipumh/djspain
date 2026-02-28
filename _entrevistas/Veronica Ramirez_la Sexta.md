@@ -9,7 +9,7 @@ interviewee: "Veronica Ramirez"
 outlet: "la Sexta"
 alias: "VeritaRa"
 source_docx: "Verónica Ramírez _ la Sexta.docx"
-featured_image: "/img/entrevistas/veronica-ramirez-la-sexta/media/image1.png"
+featured_image: "/img/entrevistas/veronica-ramirez-la-sexta/media/image1.jpg"
 ---
 
 <span class="mark">Verónica Ramírez \| Imagen cedida</span>

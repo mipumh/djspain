@@ -9,7 +9,7 @@ interviewee: "Yuly Jara"
 outlet: "Maldita"
 alias: "YulyJara"
 source_docx: "Yuly Jara _ Maldita.docx"
-featured_image: "/img/entrevistas/yuly-jara-maldita/media/image1.png"
+featured_image: "/img/entrevistas/yuly-jara-maldita/media/image1.jpg"
 ---
 
 <span class="mark">Yuly Jara, periodista de datos en Maldita.es</span>

@@ -9,7 +9,7 @@ interviewee: "Maria Zuil"
 outlet: "El Confidencial"
 alias: "maria_zuil"
 source_docx: "María Zuil _ El Confidencial.docx"
-featured_image: "/img/entrevistas/maria-zuil-el-confidencial/media/image1.png"
+featured_image: "/img/entrevistas/maria-zuil-el-confidencial/media/image1.jpg"
 ---
 
 <span class="mark">María Zuil, periodista de datos en El Confidencial (Fuente: voxeurop.eu)</span>

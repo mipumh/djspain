@@ -9,7 +9,7 @@ interviewee: "Borja Andrino"
 outlet: "El Pais"
 alias: "borjandrinot"
 source_docx: "Borja Andrino _ El País.docx"
-featured_image: "/img/entrevistas/borja-andrino-el-pais/media/image1.png"
+featured_image: "/img/entrevistas/borja-andrino-el-pais/media/image1.jpg"
 ---
 
 Borja Andrino

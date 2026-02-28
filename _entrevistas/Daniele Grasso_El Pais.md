@@ -9,7 +9,7 @@ interviewee: "Daniele Grasso"
 outlet: "El Pais"
 alias: "danielegrasso"
 source_docx: "Daniele Grasso _ El País.docx"
-featured_image: "/img/entrevistas/daniele-grasso-el-pais/media/image1.png"
+featured_image: "/img/entrevistas/daniele-grasso-el-pais/media/image1.jpg"
 ---
 
 **Subtítulo:** Daniele Grasso establece que, aunque hay muy poca oferta informativa de periodismo de datos, cada vez hay más medios que apuestan por él

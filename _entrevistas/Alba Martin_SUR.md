@@ -9,7 +9,7 @@ interviewee: "Alba Martin"
 outlet: "SUR"
 alias: "albamartinc"
 source_docx: "Alba Martín _ SUR.docx"
-featured_image: "/img/entrevistas/alba-martin-sur/media/image1.png"
+featured_image: "/img/entrevistas/alba-martin-sur/media/image1.jpg"
 ---
 
 Alba Martín Campos, periodista especializada en datos, visualización e infografía en diario SUR ([<u>diariosur.es</u>](http://diariosur.es/))
