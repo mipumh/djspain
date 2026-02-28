@@ -6,7 +6,7 @@
 
 # Site settings
 title: Periodistas de datos
-description: "Directorio de periodistas de datos en España y Latinoamérica. Perfiles, entrevistas y recursos sobre periodismo de datos, visualización y análisis en medios en español."
+description: "Directorio de periodistas de datos en España y Latinoamérica. Perfiles, entrevistas y recursos sobre periodismo de datos, visualización y scraping en medios."
 email: mcarvajal@umh.es
 # Build settings
 markdown: kramdown
