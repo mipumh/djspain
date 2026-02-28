@@ -7,9 +7,23 @@
   --card: #ffffff;
 }
 
+html {
+  overflow-x: hidden;
+}
+
 body {
+  overflow-x: hidden;
   background: linear-gradient(180deg, #f8fafc 0%, #eef2f7 100%);
   color: #0f172a;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+iframe, embed, .infogram-embed {
+  max-width: 100%;
 }
 
 #myBtn {
@@ -183,9 +197,14 @@ body {
   font-size: 20px;
 }
 
-.sb-page-header h1, h3 {
+.sb-page-header h1,
+.sb-page-header h3 {
   margin-top: 0;
   color: white;
+}
+
+h2, h3 {
+  color: #0f172a;
 }
 
 .sb-page-header h4 {

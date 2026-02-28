@@ -3,11 +3,11 @@
 
   <div class="facepile mb-4" aria-label="Facepile de periodistas registrados">
     {% for p in site.data.facepile.profiles %}
-      <a href="javascript:void(0)" data-toggle="modal" data-target="#{{ p.alias | slugify }}" title="{{ p.nombre }}">
+      <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#{{ p.alias | slugify }}" title="{{ p.nombre }}">
         <picture>
           <img loading="lazy" decoding="async" src="{{ p.avatar | relative_url }}" width="66" height="66" alt="Avatar de {{ p.nombre }}" class="avatar avatar-large rounded-circle">
         </picture>
-        <span class="sr-only">{{ p.alias }}</span>
+        <span class="visually-hidden">{{ p.alias }}</span>
       </a>
     {% endfor %}
   </div>
@@ -32,14 +32,12 @@
         <div class="modal-content">
           <div class="modal-header">
             <h5 class="modal-title" id="{{ modal_id }}-title">{{ journos.nombre }}</h5>
-            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-              <span aria-hidden="true">&times;</span>
-            </button>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar"></button>
           </div>
           <div class="modal-body">
-            <div class="media">
-              <img class="align-self-start mr-3 rounded mb-4" src="{{ '/img/' | append: journos.alias | append: '.jpg' | relative_url }}" data-base="{{ '/img/' | relative_url }}" data-alias="{{ journos.alias }}" data-attempt="0" onerror="avatarFallback(this)" alt="{{ journos.nombre }}" width="72" height="72" loading="lazy">
-              <div class="media-body">
+            <div class="d-flex align-items-start gap-3">
+              <img class="flex-shrink-0 rounded" src="{{ '/img/' | append: journos.alias | append: '.jpg' | relative_url }}" data-base="{{ '/img/' | relative_url }}" data-alias="{{ journos.alias }}" data-attempt="0" onerror="avatarFallback(this)" alt="{{ journos.nombre }}" width="72" height="72" loading="lazy">
+              <div>
                 <a style="text-decoration:none" href="{{ journos.twitter }}" target="_blank" rel="noopener noreferrer"><h5 class="mt-0 mb-1 text-primary">@{{ journos.alias }}</h5></a>
                 <p>{{ journos.perfil }}</p>
                 <p class="text-success"><i class="fas fa-map-marker-alt"></i> {{ journos.ciudad }}{% if journos.pais %} ({{ journos.pais }}){% endif %}</p>
@@ -53,7 +51,7 @@
             {% if interview %}
               <a href="{{ interview.url | relative_url }}" class="btn btn-primary">Leer entrevista</a>
             {% endif %}
-            <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
           </div>
         </div>
       </div>

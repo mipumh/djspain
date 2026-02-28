@@ -9,20 +9,22 @@ layout: default
 <div id="thank-you-message" class="collapse" role="alert"></div>
 <div id="error-message" class="alert alert-danger collapse" role="alert">Ha ocurrido un error al enviar el mensaje. Por favor, inténtalo de nuevo.</div>
 
-<form id="contact-form" class="card p-4 shadow-sm border-0 rounded-4">
-  <div class="form-group">
-    <label for="nombre">Nombre y apellidos</label>
+<form id="contact-form" class="card p-4 p-md-5 shadow-sm border-0 rounded-4">
+  <div class="mb-3">
+    <label for="nombre" class="form-label">Nombre y apellidos</label>
     <input name="nombre" type="text" class="form-control" id="nombre" placeholder="Nombre y apellidos" required>
   </div>
-  <div class="form-group">
-    <label for="email">Correo electrónico</label>
+  <div class="mb-3">
+    <label for="email" class="form-label">Correo electrónico</label>
     <input name="email" id="email" type="email" class="form-control" placeholder="Tu correo electrónico" required>
   </div>
-  <div class="form-group">
-    <label for="libre">Mensaje</label>
+  <div class="mb-4">
+    <label for="libre" class="form-label">Mensaje</label>
     <textarea name="message" class="form-control" id="libre" placeholder="¿Alguna duda en particular?" rows="5" required></textarea>
   </div>
-  <button id="submit-btn" type="submit" class="btn btn-primary btn-lg btn-block mb-3">Enviar</button>
+  <div class="d-grid">
+    <button id="submit-btn" type="submit" class="btn btn-primary btn-lg">Enviar</button>
+  </div>
 </form>
 
 <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
