@@ -1,0 +1,13 @@
+{
+  "name": "Periodistas de datos",
+  "short_name": "PerioDatos",
+  "description": "Directorio de periodistas de datos en España y Latinoamérica",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#ffffff",
+  "theme_color": "#0f172a",
+  "icons": [
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "/favicon.ico", "sizes": "48x48", "type": "image/x-icon" }
+  ]
+}
