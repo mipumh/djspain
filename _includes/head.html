@@ -3,15 +3,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   {% assign page_title = page.title | default: site.title %}
-  {% assign page_desc  = page.excerpt | default: page.description | default: site.description %}
-  {% assign page_desc  = page_desc | strip_html | strip_newlines | truncate: 200 %}
+  {% assign page_desc  = page.description | default: page.subtitle | default: page.excerpt | default: site.description %}
+  {% assign page_desc  = page_desc | strip_html | strip_newlines | strip | truncate: 200 %}
   {% assign page_url   = page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url %}
   {% assign page_image = page.featured_image %}
 
   <title>{% if page.title %}{{ page.title | strip_html | escape }} · {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{{ page_desc }}">
+  <meta name="description" content="{{ page_desc | escape }}">
   <meta name="robots" content="index,follow">
-  <meta name="author" content="{{ page.interviewee | default: 'Periodistas de datos' }}">
+  <meta name="author" content="Periodistas de datos">
 
   <link rel="canonical" href="{{ page_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}">
@@ -27,7 +27,7 @@
   <meta property="og:site_name" content="{{ site.title }}">
   <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
   <meta property="og:title" content="{{ page_title | strip_html | escape }}">
-  <meta property="og:description" content="{{ page_desc }}">
+  <meta property="og:description" content="{{ page_desc | escape }}">
   <meta property="og:url" content="{{ page_url }}">
   <meta property="og:locale" content="es_ES">
   {% if page_image %}
@@ -43,7 +43,7 @@
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{{ page_title | strip_html | escape }}">
-  <meta name="twitter:description" content="{{ page_desc }}">
+  <meta name="twitter:description" content="{{ page_desc | escape }}">
   {% if page_image %}
   <meta name="twitter:image" content="{{ site.url }}{{ page_image }}">
   {% else %}
@@ -60,7 +60,8 @@
     "description": {{ page_desc | jsonify }},
     {% if page_image %}"image": "{{ site.url }}{{ page_image }}",{% endif %}
     "datePublished": "{{ page.date | date_to_xmlschema }}",
-    "author": { "@type": "Person", "name": {{ page.interviewee | default: page.title | jsonify }} },
+    "author": { "@type": "Organization", "name": "Periodistas de datos", "url": "https://periodistasdedatos.com" },
+    {% if page.interviewee %}"about": { "@type": "Person", "name": {{ page.interviewee | jsonify }} },{% endif %}
     "publisher": { "@type": "Organization", "name": "Periodistas de datos", "url": "https://periodistasdedatos.com" },
     "inLanguage": "es",
     "url": "{{ page_url }}"
@@ -72,12 +73,7 @@
     "name": "Periodistas de datos",
     "url": "https://periodistasdedatos.com",
     "description": {{ site.description | jsonify }},
-    "inLanguage": ["es-ES", "es-419"],
-    "potentialAction": {
-      "@type": "SearchAction",
-      "target": "https://periodistasdedatos.com/#search={search_term_string}",
-      "query-input": "required name=search_term_string"
-    }
+    "inLanguage": ["es-ES", "es-419"]
   }
   {% endif %}
   </script>

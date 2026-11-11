@@ -12,9 +12,9 @@ source_docx: "María Zuil _ El Confidencial.docx"
 featured_image: "/img/entrevistas/maria-zuil-el-confidencial/media/image1.jpg"
 ---
 
-<span class="mark">María Zuil, periodista de datos en El Confidencial (Fuente: voxeurop.eu)</span>
+María Zuil, periodista de datos en El Confidencial (Fuente: voxeurop.eu)
 
-<span class="mark">María Zuil (Madrid, 1990) estudió Periodismo y Comunicación Audiovisual en la Universidad Rey Juan Carlos de Madrid, lugar que le ofreció la oportunidad de realizar prácticas en *Interviú* y, posteriormente, conseguir un hueco en la corresponsalía de la Agencia EFE de Berlín. Allí dio sus primeros pasos como freelance y, posteriormente, continuó su formación en el máster en Investigación, Datos y Visualización de Unidad Editorial.</span>
+María Zuil (Madrid, 1990) estudió Periodismo y Comunicación Audiovisual en la Universidad Rey Juan Carlos de Madrid, lugar que le ofreció la oportunidad de realizar prácticas en *Interviú* y, posteriormente, conseguir un hueco en la corresponsalía de la Agencia EFE de Berlín. Allí dio sus primeros pasos como freelance y, posteriormente, continuó su formación en el máster en Investigación, Datos y Visualización de Unidad Editorial.
 
 ### Concepto y claves
 **P:** A la hora de realizar periodismo de datos. ¿Qué faceta es más importante? Por ejemplo: la programación, las herramientas, controlar bases de datos, las bases del periodismo tradicional, etc.

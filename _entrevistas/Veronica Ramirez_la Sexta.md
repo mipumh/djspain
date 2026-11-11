@@ -12,9 +12,9 @@ source_docx: "Verónica Ramírez _ la Sexta.docx"
 featured_image: "/img/entrevistas/veronica-ramirez-la-sexta/media/image1.jpg"
 ---
 
-<span class="mark">Verónica Ramírez \| Imagen cedida</span>
+Verónica Ramírez \| Imagen cedida
 
-Verónica Ramírez (<span class="mark">lugar, año nacimiento</span>) estudió Periodismo en la Universidad Rey Juan Carlos. Más tarde se especializó en Periodismo Científico y Comunicación de la Ciencia por la U.N.E.D.. No obstante, su carrera despegó tras realizar el máster especializado en periodismo por Unidad Editorial, lo que le daría la oportunidad de poder trabajar en *El Mundo*, y más tarde en su actual puesto de trabajo como periodista de datos para el diario digital de La Sexta.
+Verónica Ramírez estudió Periodismo en la Universidad Rey Juan Carlos. Más tarde se especializó en Periodismo Científico y Comunicación de la Ciencia por la U.N.E.D.. No obstante, su carrera despegó tras realizar el máster especializado en periodismo por Unidad Editorial, lo que le daría la oportunidad de poder trabajar en *El Mundo*, y más tarde en su actual puesto de trabajo como periodista de datos para el diario digital de La Sexta.
 
 **P:** ¿Cómo definiría el periodismo de datos?
 

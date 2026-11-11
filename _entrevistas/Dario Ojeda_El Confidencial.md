@@ -12,7 +12,7 @@ source_docx: "Darío Ojeda _ El Confidencial.docx"
 featured_image: "/img/entrevistas/dario-ojeda-el-confidencial/media/image1.jpg"
 ---
 
-<span class="mark">Darío Ojeda \| Foto prestada por el periodista</span>
+Darío Ojeda \| Foto prestada por el periodista
 
 Darío Ojeda (Gran Canaria, 1988) estudió Periodismo en la Universidad Complutense de Madrid, y actualmente cursa el máster en Periodismo y Visualización de Datos de la Universidad de Alcalá. Comenzó trabajando como periodista en prácticas en medios como Canarias 7, Eurosport y Europa Press, y fue colaborador en Cadena Ser, entre otros. En 2014, Ojeda empezó a trabajar como redactor en la sección de deportes de El Confidencial, y más tarde, en la de datos y transparencia. Gracias a esta especialidad, Darío Ojeda pretende contar historias que muestren los datos de una manera más visual.
 

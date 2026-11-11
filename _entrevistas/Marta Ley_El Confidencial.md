@@ -14,7 +14,7 @@ featured_image: "/img/entrevistas/marta-ley-el-confidencial/media/image1.jpg"
 
 Además de trabajar en El Confidencial, Marta es profesora asociada en la UC3M \| Fotografía: elmundo.es
 
-Marta Ley (<span class="mark">lugar, año de nacimiento</span>) es una periodista especializada en datos que ha trabajado durante seis años en *El Mundo* y actualmente se encuentra como coordinadora de la sección de datos de El Confidencial. En un principio, no era su primer deseo el enfocarse en este tipo de periodismo, sino más bien en el musical. Fue en el último año de carrera, durante el último cuatrimestre, cuando cursó una asignatura relacionada con el periodismo de datos lo que le llevaría a elegir este camino, el periodismo de precisión.
+Marta Ley es una periodista especializada en datos que ha trabajado durante seis años en *El Mundo* y actualmente se encuentra como coordinadora de la sección de datos de El Confidencial. En un principio, no era su primer deseo el enfocarse en este tipo de periodismo, sino más bien en el musical. Fue en el último año de carrera, durante el último cuatrimestre, cuando cursó una asignatura relacionada con el periodismo de datos lo que le llevaría a elegir este camino, el periodismo de precisión.
 
 ### Concepto y claves
 **P:** ¿Cuál es el método de programación, los procesos que usa un periodista de datos en su día a día?

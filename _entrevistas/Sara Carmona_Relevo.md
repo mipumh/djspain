@@ -7,7 +7,7 @@ category: entrevistas
 date: 2023-08-30
 interviewee: "Sara Carmona"
 outlet: "Relevo"
-alias: "Saimita24"
+alias: "saracar93"
 source_docx: "Sara Carmona _ Relevo.docx"
 featured_image: "/img/entrevistas/sara-carmona-relevo/media/image1.jpg"
 ---

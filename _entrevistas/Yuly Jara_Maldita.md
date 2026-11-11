@@ -12,9 +12,9 @@ source_docx: "Yuly Jara _ Maldita.docx"
 featured_image: "/img/entrevistas/yuly-jara-maldita/media/image1.jpg"
 ---
 
-<span class="mark">Yuly Jara, periodista de datos en Maldita.es</span>
+Yuly Jara, periodista de datos en Maldita.es
 
-Después de cursar sus estudios como periodista en la Universidad Complutense de Madrid, Yuly Jara (<span class="mark">lugar y fecha de nacimiento</span>) se lanzó a la piscina del periodismo de datos, llegando a publicar reportajes en medios como *El País* o elDiario.es. La transparencia es su principal objetivo, por ello, a día de hoy le encontramos en Maldita. Dentro del medio nativo digital de verificación, Yuly se encarga de desmentir los bulos y comprobar la veracidad de los datos que circulan por la red de comunicación.
+Después de cursar sus estudios como periodista en la Universidad Complutense de Madrid, Yuly Jara se lanzó a la piscina del periodismo de datos, llegando a publicar reportajes en medios como *El País* o elDiario.es. La transparencia es su principal objetivo, por ello, a día de hoy le encontramos en Maldita. Dentro del medio nativo digital de verificación, Yuly se encarga de desmentir los bulos y comprobar la veracidad de los datos que circulan por la red de comunicación.
 
 ### Concepto y claves
 **P:** ¿Cómo describiría usted el periodismo de datos?

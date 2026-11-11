@@ -14,7 +14,7 @@ featured_image: "/img/entrevistas/jesus-escudero-freelance/media/image1.jpg"
 
 Jesús Escudero \| Imagen: LinkedIn
 
-Jesús Escudero (<span class="mark">lugar y año nacimiento</span>) se licenció en Periodismo por la Universidad Pontificia de Salamanca y en 2004 comenzó su carrera como redactor en prácticas en El Comercio. También formó parte de la primera promoción del máster en Periodismo de Investigación, Datos y Visualización de la Universidad Rey Juan Carlos. Su carrera en los medios siguió en *El Mundo* y El Confidencial, donde pasaría gran parte de su vida laboral hasta el momento, ya como periodista de datos. Durante su época en el diario digital trabajó en los *Panama Papers* colaborando con la ICIJ (International Consortium of Investigative Journalists). En septiembre de 2020 abandonó El Confidencial y actualmente trabaja como analista, periodista y consultor de datos de forma autónoma.
+Jesús Escudero se licenció en Periodismo por la Universidad Pontificia de Salamanca y en 2004 comenzó su carrera como redactor en prácticas en El Comercio. También formó parte de la primera promoción del máster en Periodismo de Investigación, Datos y Visualización de la Universidad Rey Juan Carlos. Su carrera en los medios siguió en *El Mundo* y El Confidencial, donde pasaría gran parte de su vida laboral hasta el momento, ya como periodista de datos. Durante su época en el diario digital trabajó en los *Panama Papers* colaborando con la ICIJ (International Consortium of Investigative Journalists). En septiembre de 2020 abandonó El Confidencial y actualmente trabaja como analista, periodista y consultor de datos de forma autónoma.
 
 ### Concepto y claves
 **P:** ¿Qué es para usted el periodismo de datos?

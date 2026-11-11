@@ -43,6 +43,22 @@
       toggleScrollButton();
     }
 
+    var showModalById = function (id) {
+      var modal = id ? document.getElementById(id) : null;
+      if (!modal || !modal.classList.contains("modal") || !window.bootstrap) {
+        return false;
+      }
+      window.bootstrap.Modal.getOrCreateInstance(modal).show();
+      return true;
+    };
+
+    // Enlace directo a una ficha: /#alias abre su modal
+    if (window.location.hash.length > 1) {
+      try {
+        showModalById(decodeURIComponent(window.location.hash.slice(1)));
+      } catch (e) {}
+    }
+
     var searchInput = document.getElementById("search-input");
     var resultsContainer = document.getElementById("results-container");
     if (searchInput && resultsContainer && window.SimpleJekyllSearch) {
@@ -50,11 +66,20 @@
         searchInput: searchInput,
         resultsContainer: resultsContainer,
         json: "{{ '/search.json' | relative_url }}",
-        searchResultTemplate: '<a class="list-group-item list-group-item-action d-flex align-items-center" href="javascript:void(0)" data-toggle="modal" data-target="#{modal_id}"><img src="{{ '/img/' | relative_url }}{alias}.jpg" data-base="{{ '/img/' | relative_url }}" data-alias="{alias}" data-attempt="0" onerror="avatarFallback(this)" alt="{nombre}" width="32" height="32" class="rounded me-2" loading="lazy"><span><strong>{nombre}</strong> @{alias}</span></a>',
-        noResultsText: '<p class="lead">Vaya, ese nombre no está registrado, <a href="{{ '/nuevo.html' | relative_url }}">¿quieres añadirlo?</a></p>',
+        searchResultTemplate: '<a class="list-group-item list-group-item-action d-flex align-items-center" href="{{ '/' | relative_url }}#{modal_id}" data-modal-id="{modal_id}"><img src="{{ '/img/' | relative_url }}{alias}.jpg" data-base="{{ '/img/' | relative_url }}" data-alias="{alias}" data-attempt="0" onerror="avatarFallback(this)" alt="{nombre}" width="32" height="32" class="rounded me-2" loading="lazy"><span><strong>{nombre}</strong> @{alias}</span></a>',
+        noResultsText: '<p class="lead">Vaya, ese nombre no está registrado, <a href="{{ '/contacto.html' | relative_url }}">¿quieres añadirlo?</a></p>',
         limit: 10,
         fuzzy: false,
         exclude: ["Welcome"]
+      });
+
+      // Los resultados se pintan después de cargar la página: abrimos el modal a mano.
+      // Si la ficha no está en esta página (listados por etiqueta), el enlace lleva a la portada.
+      resultsContainer.addEventListener("click", function (event) {
+        var link = event.target.closest("a[data-modal-id]");
+        if (link && showModalById(link.dataset.modalId)) {
+          event.preventDefault();
+        }
       });
     }
   });

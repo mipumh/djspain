@@ -1,9 +1,11 @@
 ---
 layout: default
+title: "Gráficos"
+description: "Gráficos demográficos del directorio de periodistas de datos: distribución por países, ciudades y provincias españolas."
 ---
 <div class="col-lg-8 mx-auto">
 
-<h2>Gráficos</h2>
+<h1 class="h2">Gráficos</h1>
 
 <p class="lead">
 Con 334 registros de profesionales relacionados con el periodismo de datos, estos son algunos de los primeros resultados demográficos a vuela pluma que podemos enseñar:</p>

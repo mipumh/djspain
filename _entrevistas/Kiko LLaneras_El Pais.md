@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "En 2020, de las 50 historias más leídas de *El País*, diez eran de historias de datos cuando estas no representan ni un 3%"
+title: "En 2020, de las 50 historias más leídas de El País, diez eran de historias de datos cuando estas no representan ni un 3%"
 subtitle: "Kiko Llaneras reconoce que el periodismo de datos es caro, aunque asegura que existen muchas oportunidades en el ámbito local"
 antetitle: "KIKO LLANERAS | ANALISTA DE DATOS EN EL PAÍS"
 category: entrevistas

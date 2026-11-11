@@ -1,8 +1,10 @@
 ---
 layout: default
+title: "Contacto"
+description: "Escríbenos para proponer un perfil o una entrevista, corregir una ficha del directorio o enviarnos cualquier sugerencia."
 ---
 <div class="col-lg-8 mx-auto">
-<h2>Contacto</h2>
+<h1 class="h2">Contacto</h1>
 
 <p class="lead">Si deseas ponerte en contacto con nosotros, por favor, rellena el siguiente formulario. Estaremos encantados de atenderte.</p>
 

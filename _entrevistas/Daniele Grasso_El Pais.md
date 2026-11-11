@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "El acceso a los datos está muy limitado por la escasez de transparencia y de publicación de datos"
-subtitle: "Conversación con Daniele Grasso sobre periodismo de datos."
+subtitle: "Daniele Grasso establece que, aunque hay muy poca oferta informativa de periodismo de datos, cada vez hay más medios que apuestan por él"
 antetitle: "DANIELE GRASSO | ANALISTA DE DATOS EN EL PAÍS"
 category: entrevistas
 date: 2023-08-29
@@ -11,8 +11,6 @@ alias: "danielegrasso"
 source_docx: "Daniele Grasso _ El País.docx"
 featured_image: "/img/entrevistas/daniele-grasso-el-pais/media/image1.jpg"
 ---
-
-**Subtítulo:** Daniele Grasso establece que, aunque hay muy poca oferta informativa de periodismo de datos, cada vez hay más medios que apuestan por él
 
 Daniele Grasso en El País. Lorena Ruiz/ El País
 

@@ -12,9 +12,9 @@ source_docx: "Sergio Sangiao _ Maldita.docx"
 featured_image: "/img/entrevistas/sergio-sangiao-maldita/media/image1.jpg"
 ---
 
-<span class="mark">Incorporación de Sergio Sangiao a Maldita.es 20/03/2019 — @SergioSangiao</span>
+Incorporación de Sergio Sangiao a Maldita.es 20/03/2019 — @SergioSangiao
 
-Sergio Sangiao (<span class="mark">lugar y fecha nacimiento</span>) es un joven periodista apasionado por los datos y la transparencia que trabaja desde el año 2019 en Maldita.es, verificando información en la sección de Maldito Dato. Se graduó en la Universidad Autónoma de Barcelona y realizó el máster de Periodismo de Investigación, Datos y Visualización de la Escuela Unidad Editorial y la Universidad Rey Juan Carlos para especializarse. Maldita.es es uno de los medios digitales dedicados a la verificación de información, y cuenta con secciones principales como Maldita Hemeroteca, Maldito Bulo, Maldita Ciencia, Maldito Dato, Maldita Te Explica y Maldita Tecnología.
+Sergio Sangiao es un joven periodista apasionado por los datos y la transparencia que trabaja desde el año 2019 en Maldita.es, verificando información en la sección de Maldito Dato. Se graduó en la Universidad Autónoma de Barcelona y realizó el máster de Periodismo de Investigación, Datos y Visualización de la Escuela Unidad Editorial y la Universidad Rey Juan Carlos para especializarse. Maldita.es es uno de los medios digitales dedicados a la verificación de información, y cuenta con secciones principales como Maldita Hemeroteca, Maldito Bulo, Maldita Ciencia, Maldito Dato, Maldita Te Explica y Maldita Tecnología.
 
 ### Concepto y claves
 **P:** ¿Qué es para usted el periodismo de datos?

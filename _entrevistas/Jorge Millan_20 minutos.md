@@ -12,9 +12,9 @@ source_docx: "Jorge Millán _ 20 minutos.docx"
 featured_image: "/img/entrevistas/jorge-millan-20-minutos/media/image1.jpg"
 ---
 
-<span class="mark">Jorge Millán, redactor web en Últimas Noticias-20minutos \| Fuente: Linkedin</span>
+Jorge Millán, redactor web en Últimas Noticias-20minutos \| Fuente: Linkedin
 
-Jorge Millán (<span class="mark">lugar, año de nacimiento</span>) estudió el doble grado en Periodismo y Comunicación Audiovisual en la Universidad Rey Juan Carlos de Madrid. En 2017, un año antes de graduarse, fue becario en periódico *El Mundo*, concretamente en el sector Internacional. Tras finalizar sus estudios superiores, pasó a ser redactor web de la sección de Últimas Noticias en el medio digital 20minutos, en el cual lleva ya cuatro años.
+Jorge Millán estudió el doble grado en Periodismo y Comunicación Audiovisual en la Universidad Rey Juan Carlos de Madrid. En 2017, un año antes de graduarse, fue becario en periódico *El Mundo*, concretamente en el sector Internacional. Tras finalizar sus estudios superiores, pasó a ser redactor web de la sección de Últimas Noticias en el medio digital 20minutos, en el cual lleva ya cuatro años.
 
 ### Concepto y claves
 **P:** ¿Qué es para usted el periodismo de datos?

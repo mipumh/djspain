@@ -12,7 +12,7 @@ source_docx: "Raúl Sánchez _ elDiario.es.docx"
 featured_image: "/img/entrevistas/raul-sanchez-eldiario-es/media/image1.jpg"
 ---
 
-<span class="mark">Raúl Sánchez, periodista de datos en elDiario.es (enclaro.es)</span>
+Raúl Sánchez, periodista de datos en elDiario.es (enclaro.es)
 
 Raúl Sánchez (Tenerife, 1992), amante de las matemáticas, la física y la química, estudió Periodismo en la Universidad de La Laguna. En el año 2015, decidido a juntar sus dos pasiones, los números y contar historias, empezó el máster de Periodismo de Datos, Investigación y Visualización en la Universidad Rey Juan Carlos. Es coordinador de la unidad de datos de elDiario.es y se especializa en temas fiscales, de desigualdad, migración, agricultura y elecciones. Ha convertido en su misión encontrar las historias invisibles que se ocultan tras los datos y entre las montañas de papeles para hacer un mejor periodismo cada día.
 

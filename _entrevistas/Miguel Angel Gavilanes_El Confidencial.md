@@ -12,7 +12,7 @@ source_docx: "Miguel Ángel Gavilanes _ El Confidencial.docx"
 featured_image: "/img/entrevistas/miguel-angel-gavilanes-el-confidencial/media/image1.jpg"
 ---
 
-<span class="mark">Gavilanes en el año 2016, cuando fue galardonado como Periodista Joven del Año por la Asociación de Prensa de Madrid I Foto: APM</span>
+Gavilanes en el año 2016, cuando fue galardonado como Periodista Joven del Año por la Asociación de Prensa de Madrid I Foto: APM
 
 Miguel Ángel Gavilanes (Madrid, 1988) estudió durante tres años Ingeniería Técnica Aeronáutica en la Universidad Politécnica de Madrid, y de inmediato empezó el Grado en Periodismo que combinó con un puesto de trabajo en Decathlon hasta 2015. En este mismo año empezó a trabajar para la Fundación Civio, medio de comunicación en el que ha estado siete años antes de empezar en octubre de 2022 su etapa en El Confidencial. Miguel Ángel comparte su experiencia profesional, su visión sobre su especialidad y sus reconocidos trabajos sobre rendición de cuentas y transparencia. A la vez, señala los puntos fuertes del periodismo de datos y las perspectivas que avizora para su área.
 

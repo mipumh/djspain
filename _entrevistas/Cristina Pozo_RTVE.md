@@ -12,9 +12,9 @@ source_docx: "Cristina Pozo _ RTVE.docx"
 featured_image: "/img/entrevistas/cristina-pozo-rtve/media/image1.jpg"
 ---
 
-<span class="mark">Cristina Pozo, periodista de datos en RTVE \| Foto cedida</span>
+Cristina Pozo, periodista de datos en RTVE \| Foto cedida
 
-Cristina Pozo (Cuenca, <span class="mark">año nacimiento</span>) realizó el doble grado de Periodismo y Comunicación Audiovisual en la Universidad Rey Juan Carlos. También completó el máster en Documental y Reportaje Periodístico Transmedia de la Universidad Carlos III de Madrid. Su experiencia profesional comenzó en el entorno universitario para después pasar por eCartelera, PowerUps, elDiario.es hasta llegar a RTVE.es, en un primer momento como becaria en el área de Informativos Interactivos participando también en el Laboratorio de Innovación Audiovisual. Ahora forma parte de RTVE.es dedicándose a la visualización de datos.
+Cristina Pozo (Cuenca) realizó el doble grado de Periodismo y Comunicación Audiovisual en la Universidad Rey Juan Carlos. También completó el máster en Documental y Reportaje Periodístico Transmedia de la Universidad Carlos III de Madrid. Su experiencia profesional comenzó en el entorno universitario para después pasar por eCartelera, PowerUps, elDiario.es hasta llegar a RTVE.es, en un primer momento como becaria en el área de Informativos Interactivos participando también en el Laboratorio de Innovación Audiovisual. Ahora forma parte de RTVE.es dedicándose a la visualización de datos.
 
 ### Concepto y claves
 **P:** ¿Qué es para usted el periodismo de datos?

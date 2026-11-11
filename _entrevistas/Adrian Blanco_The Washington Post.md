@@ -12,9 +12,9 @@ source_docx: "Adrián Blanco _ The Washington Post.docx"
 featured_image: "/img/entrevistas/adrian-blanco-the-washington-post/media/image1.jpg"
 ---
 
-<span class="mark">Adrián Blanco posando en The Washington Post \| Imagen: Diario de Burgos</span>
+Adrián Blanco posando en The Washington Post \| Imagen: Diario de Burgos
 
-Adrián Blanco (<span class="mark">lugar y año nacimiento</span>) siempre tuvo muy claras sus pasiones: matemáticas y periodismo. Ahora tiene la suerte de combinarlas para un medio puntero en el mundo entero como es *The Washington Post*. Frustrado por la apuesta por el periodismo convencional de la Universidad Complutense de Madrid, comenzó a experimentar el periodismo de datos por su cuenta. A raíz de cursos que se organizaron y de sus propios proyectos tuvo la oportunidad de formarse profesionalmente en Londres, lo que le permitió dar el paso a El Confidencial y posteriormente a su actual puesto en el departamento de gráficos del medio estadounidense.
+Adrián Blanco siempre tuvo muy claras sus pasiones: matemáticas y periodismo. Ahora tiene la suerte de combinarlas para un medio puntero en el mundo entero como es *The Washington Post*. Frustrado por la apuesta por el periodismo convencional de la Universidad Complutense de Madrid, comenzó a experimentar el periodismo de datos por su cuenta. A raíz de cursos que se organizaron y de sus propios proyectos tuvo la oportunidad de formarse profesionalmente en Londres, lo que le permitió dar el paso a El Confidencial y posteriormente a su actual puesto en el departamento de gráficos del medio estadounidense.
 
 ### Concepto y claves
 **P:** ¿Qué es para usted el periodismo de datos y qué proceso o método conlleva?

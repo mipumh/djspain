@@ -12,9 +12,9 @@ source_docx: "Ana Ordaz _ elDiario.es.docx"
 featured_image: "/img/entrevistas/ana-ordaz-eldiario-es/media/image1.jpg"
 ---
 
-<span class="mark">Ana Ordaz, periodista de datos en elDiario.es</span>
+Ana Ordaz, periodista de datos en elDiario.es
 
-Ana Ordaz (Sevilla, <span class="mark">año nacimiento</span>) estudió el grado de Periodismo en la Universidad de Sevilla (2012-2017). Tras terminar la carrera, se trasladó a Madrid para estudiar un máster en Investigación, Datos y Visualización en la Universidad Rey Juan Carlos. Desde 2018 trabaja en el periódico nacional elDiario.es como redactora de datos, encargada de extraer, analizar y visualizar información que es fundamental para buscar historias y complementarlas. Además, en la actualidad, se está formando en locución y doblaje en la escuela audiovisual 35mm Portugal.
+Ana Ordaz (Sevilla) estudió el grado de Periodismo en la Universidad de Sevilla (2012-2017). Tras terminar la carrera, se trasladó a Madrid para estudiar un máster en Investigación, Datos y Visualización en la Universidad Rey Juan Carlos. Desde 2018 trabaja en el periódico nacional elDiario.es como redactora de datos, encargada de extraer, analizar y visualizar información que es fundamental para buscar historias y complementarlas. Además, en la actualidad, se está formando en locución y doblaje en la escuela audiovisual 35mm Portugal.
 
 ### Concepto y claves
 **P:** ¿Qué es para usted el periodismo de datos?

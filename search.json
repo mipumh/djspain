@@ -4,13 +4,9 @@ layout: null
 [
   {% for journo in site.data.journos %}
     {
-      "nombre" : "{{ journo.nombre }}",
-      "locus" : "{{ journo.locus }}",
-      "pic" : "{{ journo.pic }}",
-      "modal" : "{{ journo.modal }}",
-      "alias" : "{{ journo.alias }}",
-      "modal_id" : "{{ journo.alias | default: journo.modal | default: journo.nombre | slugify }}"
-      
-    } {% unless forloop.last %},{% endunless %}
+      "nombre" : {{ journo.nombre | jsonify }},
+      "alias" : {{ journo.alias | jsonify }},
+      "modal_id" : {{ journo.alias | default: journo.modal | default: journo.nombre | slugify | jsonify }}
+    }{% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]

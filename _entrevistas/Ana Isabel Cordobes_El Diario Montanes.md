@@ -12,7 +12,7 @@ source_docx: "Ana Isabel Cordobés _ El Diario Montañés.docx"
 featured_image: "/img/entrevistas/ana-isabel-cordobes-el-diario-montanes/media/image1.jpg"
 ---
 
-<span class="mark">Ana Cordobés, periodista de datos del Diario de Navarra</span>
+Ana Cordobés, periodista de datos del Diario de Navarra
 
 Ana Isabel Cordobés (Ávila, 1991) es licenciada en Periodismo por la Universidad de Valladolid, lugar donde aprendió y despegó como periodista. Realizó el Máster de comunicación, cultura y ciudadanía digital en la Universidad Rey Juan Carlos, posteriormente se especializó en nuevas narrativas y periodismo de datos. Ha formado parte de los laboratorios de investigación de El Confidencial, eldiario.es y Diario de Navarra, donde trabaja actualmente. Además, de trabajar como autónoma de datos para cuartopoder.es y LOS40. Ha sido premiada por sus reportajes en varias ocasiones, pero ella destaca su último premio, el reportaje “El ‘milagro’ de Denis: sesenta días en cuidados intensivos”, reconocido en 2020 por la Asociación de Periodistas de Navarra.
 
